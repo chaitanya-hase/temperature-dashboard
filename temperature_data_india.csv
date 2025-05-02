@@ -1,0 +1,4177 @@
+Region,State,City,Year,Month,Temperature (°C)
+North,Punjab,Amritsar,2020,January,19.9
+North,Punjab,Amritsar,2020,February,36.0
+North,Punjab,Amritsar,2020,March,30.6
+North,Punjab,Amritsar,2020,April,33.3
+North,Punjab,Amritsar,2020,May,20.0
+North,Punjab,Amritsar,2020,June,30.0
+North,Punjab,Amritsar,2020,July,9.5
+North,Punjab,Amritsar,2020,August,8.1
+North,Punjab,Amritsar,2020,September,32.5
+North,Punjab,Amritsar,2020,October,39.2
+North,Punjab,Amritsar,2020,November,31.8
+North,Punjab,Amritsar,2020,December,20.4
+North,Punjab,Amritsar,2021,January,-1.7
+North,Punjab,Amritsar,2021,February,36.5
+North,Punjab,Amritsar,2021,March,21.8
+North,Punjab,Amritsar,2021,April,35.1
+North,Punjab,Amritsar,2021,May,12.9
+North,Punjab,Amritsar,2021,June,27.4
+North,Punjab,Amritsar,2021,July,36.9
+North,Punjab,Amritsar,2021,August,27.4
+North,Punjab,Amritsar,2021,September,8.7
+North,Punjab,Amritsar,2021,October,14.3
+North,Punjab,Amritsar,2021,November,30.2
+North,Punjab,Amritsar,2021,December,20.3
+North,Punjab,Amritsar,2022,January,6.1
+North,Punjab,Amritsar,2022,February,4.1
+North,Punjab,Amritsar,2022,March,25.4
+North,Punjab,Amritsar,2022,April,12.0
+North,Punjab,Amritsar,2022,May,21.7
+North,Punjab,Amritsar,2022,June,5.7
+North,Punjab,Amritsar,2022,July,38.2
+North,Punjab,Amritsar,2022,August,17.6
+North,Punjab,Amritsar,2022,September,31.2
+North,Punjab,Amritsar,2022,October,34.8
+North,Punjab,Amritsar,2022,November,17.8
+North,Punjab,Amritsar,2022,December,1.8
+North,Punjab,Amritsar,2023,January,9.2
+North,Punjab,Amritsar,2023,February,23.9
+North,Punjab,Amritsar,2023,March,31.3
+North,Punjab,Amritsar,2023,April,30.0
+North,Punjab,Amritsar,2023,May,9.7
+North,Punjab,Amritsar,2023,June,23.3
+North,Punjab,Amritsar,2023,July,12.0
+North,Punjab,Amritsar,2023,August,14.0
+North,Punjab,Amritsar,2023,September,35.9
+North,Punjab,Amritsar,2023,October,10.6
+North,Punjab,Amritsar,2023,November,38.6
+North,Punjab,Amritsar,2023,December,26.1
+North,Punjab,Ludhiana,2020,January,8.8
+North,Punjab,Ludhiana,2020,February,20.8
+North,Punjab,Ludhiana,2020,March,23.0
+North,Punjab,Ludhiana,2020,April,39.7
+North,Punjab,Ludhiana,2020,May,23.5
+North,Punjab,Ludhiana,2020,June,32.1
+North,Punjab,Ludhiana,2020,July,39.9
+North,Punjab,Ludhiana,2020,August,11.6
+North,Punjab,Ludhiana,2020,September,16.5
+North,Punjab,Ludhiana,2020,October,9.2
+North,Punjab,Ludhiana,2020,November,16.4
+North,Punjab,Ludhiana,2020,December,23.7
+North,Punjab,Ludhiana,2021,January,19.4
+North,Punjab,Ludhiana,2021,February,25.9
+North,Punjab,Ludhiana,2021,March,17.4
+North,Punjab,Ludhiana,2021,April,34.0
+North,Punjab,Ludhiana,2021,May,33.0
+North,Punjab,Ludhiana,2021,June,29.8
+North,Punjab,Ludhiana,2021,July,34.0
+North,Punjab,Ludhiana,2021,August,27.5
+North,Punjab,Ludhiana,2021,September,33.8
+North,Punjab,Ludhiana,2021,October,19.4
+North,Punjab,Ludhiana,2021,November,6.8
+North,Punjab,Ludhiana,2021,December,24.0
+North,Punjab,Ludhiana,2022,January,2.9
+North,Punjab,Ludhiana,2022,February,13.3
+North,Punjab,Ludhiana,2022,March,26.0
+North,Punjab,Ludhiana,2022,April,17.5
+North,Punjab,Ludhiana,2022,May,25.0
+North,Punjab,Ludhiana,2022,June,21.4
+North,Punjab,Ludhiana,2022,July,20.4
+North,Punjab,Ludhiana,2022,August,9.9
+North,Punjab,Ludhiana,2022,September,9.2
+North,Punjab,Ludhiana,2022,October,27.0
+North,Punjab,Ludhiana,2022,November,22.9
+North,Punjab,Ludhiana,2022,December,28.5
+North,Punjab,Ludhiana,2023,January,13.6
+North,Punjab,Ludhiana,2023,February,5.8
+North,Punjab,Ludhiana,2023,March,8.2
+North,Punjab,Ludhiana,2023,April,16.9
+North,Punjab,Ludhiana,2023,May,10.6
+North,Punjab,Ludhiana,2023,June,14.3
+North,Punjab,Ludhiana,2023,July,20.7
+North,Punjab,Ludhiana,2023,August,26.2
+North,Punjab,Ludhiana,2023,September,39.5
+North,Punjab,Ludhiana,2023,October,34.9
+North,Punjab,Ludhiana,2023,November,27.3
+North,Punjab,Ludhiana,2023,December,10.8
+North,Punjab,Chandigarh,2020,January,1.3
+North,Punjab,Chandigarh,2020,February,4.2
+North,Punjab,Chandigarh,2020,March,36.1
+North,Punjab,Chandigarh,2020,April,36.7
+North,Punjab,Chandigarh,2020,May,25.3
+North,Punjab,Chandigarh,2020,June,34.7
+North,Punjab,Chandigarh,2020,July,24.9
+North,Punjab,Chandigarh,2020,August,22.7
+North,Punjab,Chandigarh,2020,September,29.5
+North,Punjab,Chandigarh,2020,October,37.1
+North,Punjab,Chandigarh,2020,November,24.7
+North,Punjab,Chandigarh,2020,December,27.6
+North,Punjab,Chandigarh,2021,January,2.6
+North,Punjab,Chandigarh,2021,February,26.5
+North,Punjab,Chandigarh,2021,March,25.9
+North,Punjab,Chandigarh,2021,April,25.9
+North,Punjab,Chandigarh,2021,May,35.5
+North,Punjab,Chandigarh,2021,June,37.9
+North,Punjab,Chandigarh,2021,July,21.6
+North,Punjab,Chandigarh,2021,August,15.9
+North,Punjab,Chandigarh,2021,September,23.5
+North,Punjab,Chandigarh,2021,October,25.0
+North,Punjab,Chandigarh,2021,November,8.9
+North,Punjab,Chandigarh,2021,December,26.9
+North,Punjab,Chandigarh,2022,January,10.7
+North,Punjab,Chandigarh,2022,February,23.8
+North,Punjab,Chandigarh,2022,March,37.5
+North,Punjab,Chandigarh,2022,April,11.2
+North,Punjab,Chandigarh,2022,May,23.7
+North,Punjab,Chandigarh,2022,June,20.8
+North,Punjab,Chandigarh,2022,July,20.7
+North,Punjab,Chandigarh,2022,August,22.3
+North,Punjab,Chandigarh,2022,September,35.7
+North,Punjab,Chandigarh,2022,October,11.9
+North,Punjab,Chandigarh,2022,November,22.6
+North,Punjab,Chandigarh,2022,December,18.6
+North,Punjab,Chandigarh,2023,January,26.9
+North,Punjab,Chandigarh,2023,February,0.9
+North,Punjab,Chandigarh,2023,March,32.5
+North,Punjab,Chandigarh,2023,April,21.7
+North,Punjab,Chandigarh,2023,May,25.3
+North,Punjab,Chandigarh,2023,June,20.6
+North,Punjab,Chandigarh,2023,July,7.5
+North,Punjab,Chandigarh,2023,August,17.2
+North,Punjab,Chandigarh,2023,September,21.7
+North,Punjab,Chandigarh,2023,October,19.9
+North,Punjab,Chandigarh,2023,November,25.6
+North,Punjab,Chandigarh,2023,December,20.9
+North,Haryana,Gurgaon,2020,January,0.0
+North,Haryana,Gurgaon,2020,February,17.7
+North,Haryana,Gurgaon,2020,March,28.7
+North,Haryana,Gurgaon,2020,April,22.9
+North,Haryana,Gurgaon,2020,May,21.9
+North,Haryana,Gurgaon,2020,June,8.6
+North,Haryana,Gurgaon,2020,July,26.7
+North,Haryana,Gurgaon,2020,August,6.1
+North,Haryana,Gurgaon,2020,September,8.0
+North,Haryana,Gurgaon,2020,October,5.8
+North,Haryana,Gurgaon,2020,November,31.5
+North,Haryana,Gurgaon,2020,December,22.5
+North,Haryana,Gurgaon,2021,January,17.7
+North,Haryana,Gurgaon,2021,February,-0.7
+North,Haryana,Gurgaon,2021,March,25.6
+North,Haryana,Gurgaon,2021,April,23.0
+North,Haryana,Gurgaon,2021,May,32.4
+North,Haryana,Gurgaon,2021,June,23.8
+North,Haryana,Gurgaon,2021,July,18.5
+North,Haryana,Gurgaon,2021,August,21.0
+North,Haryana,Gurgaon,2021,September,25.8
+North,Haryana,Gurgaon,2021,October,21.6
+North,Haryana,Gurgaon,2021,November,29.6
+North,Haryana,Gurgaon,2021,December,7.7
+North,Haryana,Gurgaon,2022,January,21.2
+North,Haryana,Gurgaon,2022,February,21.4
+North,Haryana,Gurgaon,2022,March,8.5
+North,Haryana,Gurgaon,2022,April,9.0
+North,Haryana,Gurgaon,2022,May,36.7
+North,Haryana,Gurgaon,2022,June,5.8
+North,Haryana,Gurgaon,2022,July,34.3
+North,Haryana,Gurgaon,2022,August,25.4
+North,Haryana,Gurgaon,2022,September,24.2
+North,Haryana,Gurgaon,2022,October,16.4
+North,Haryana,Gurgaon,2022,November,22.2
+North,Haryana,Gurgaon,2022,December,11.4
+North,Haryana,Gurgaon,2023,January,8.6
+North,Haryana,Gurgaon,2023,February,36.9
+North,Haryana,Gurgaon,2023,March,35.4
+North,Haryana,Gurgaon,2023,April,37.2
+North,Haryana,Gurgaon,2023,May,27.1
+North,Haryana,Gurgaon,2023,June,20.9
+North,Haryana,Gurgaon,2023,July,29.2
+North,Haryana,Gurgaon,2023,August,17.7
+North,Haryana,Gurgaon,2023,September,14.4
+North,Haryana,Gurgaon,2023,October,35.9
+North,Haryana,Gurgaon,2023,November,12.6
+North,Haryana,Gurgaon,2023,December,28.8
+North,Haryana,Faridabad,2020,January,23.6
+North,Haryana,Faridabad,2020,February,-0.7
+North,Haryana,Faridabad,2020,March,10.0
+North,Haryana,Faridabad,2020,April,35.9
+North,Haryana,Faridabad,2020,May,25.8
+North,Haryana,Faridabad,2020,June,32.9
+North,Haryana,Faridabad,2020,July,40.0
+North,Haryana,Faridabad,2020,August,28.4
+North,Haryana,Faridabad,2020,September,25.9
+North,Haryana,Faridabad,2020,October,36.4
+North,Haryana,Faridabad,2020,November,5.5
+North,Haryana,Faridabad,2020,December,7.5
+North,Haryana,Faridabad,2021,January,1.7
+North,Haryana,Faridabad,2021,February,22.4
+North,Haryana,Faridabad,2021,March,14.4
+North,Haryana,Faridabad,2021,April,20.8
+North,Haryana,Faridabad,2021,May,37.8
+North,Haryana,Faridabad,2021,June,8.5
+North,Haryana,Faridabad,2021,July,11.2
+North,Haryana,Faridabad,2021,August,8.1
+North,Haryana,Faridabad,2021,September,9.6
+North,Haryana,Faridabad,2021,October,12.9
+North,Haryana,Faridabad,2021,November,27.0
+North,Haryana,Faridabad,2021,December,29.5
+North,Haryana,Faridabad,2022,January,16.7
+North,Haryana,Faridabad,2022,February,21.1
+North,Haryana,Faridabad,2022,March,8.7
+North,Haryana,Faridabad,2022,April,23.1
+North,Haryana,Faridabad,2022,May,30.2
+North,Haryana,Faridabad,2022,June,6.6
+North,Haryana,Faridabad,2022,July,16.1
+North,Haryana,Faridabad,2022,August,17.1
+North,Haryana,Faridabad,2022,September,13.6
+North,Haryana,Faridabad,2022,October,33.1
+North,Haryana,Faridabad,2022,November,23.8
+North,Haryana,Faridabad,2022,December,23.5
+North,Haryana,Faridabad,2023,January,20.5
+North,Haryana,Faridabad,2023,February,2.7
+North,Haryana,Faridabad,2023,March,36.6
+North,Haryana,Faridabad,2023,April,25.7
+North,Haryana,Faridabad,2023,May,16.0
+North,Haryana,Faridabad,2023,June,39.1
+North,Haryana,Faridabad,2023,July,7.8
+North,Haryana,Faridabad,2023,August,5.5
+North,Haryana,Faridabad,2023,September,37.9
+North,Haryana,Faridabad,2023,October,29.7
+North,Haryana,Faridabad,2023,November,6.7
+North,Haryana,Faridabad,2023,December,28.0
+North,Haryana,Panipat,2020,January,6.9
+North,Haryana,Panipat,2020,February,-0.6
+North,Haryana,Panipat,2020,March,19.4
+North,Haryana,Panipat,2020,April,32.5
+North,Haryana,Panipat,2020,May,23.7
+North,Haryana,Panipat,2020,June,13.4
+North,Haryana,Panipat,2020,July,22.9
+North,Haryana,Panipat,2020,August,7.9
+North,Haryana,Panipat,2020,September,9.2
+North,Haryana,Panipat,2020,October,31.7
+North,Haryana,Panipat,2020,November,36.1
+North,Haryana,Panipat,2020,December,17.9
+North,Haryana,Panipat,2021,January,10.6
+North,Haryana,Panipat,2021,February,32.3
+North,Haryana,Panipat,2021,March,21.9
+North,Haryana,Panipat,2021,April,20.2
+North,Haryana,Panipat,2021,May,22.3
+North,Haryana,Panipat,2021,June,20.5
+North,Haryana,Panipat,2021,July,33.2
+North,Haryana,Panipat,2021,August,38.5
+North,Haryana,Panipat,2021,September,32.5
+North,Haryana,Panipat,2021,October,10.4
+North,Haryana,Panipat,2021,November,26.0
+North,Haryana,Panipat,2021,December,29.7
+North,Haryana,Panipat,2022,January,15.8
+North,Haryana,Panipat,2022,February,29.6
+North,Haryana,Panipat,2022,March,37.4
+North,Haryana,Panipat,2022,April,7.3
+North,Haryana,Panipat,2022,May,15.6
+North,Haryana,Panipat,2022,June,18.9
+North,Haryana,Panipat,2022,July,30.8
+North,Haryana,Panipat,2022,August,8.7
+North,Haryana,Panipat,2022,September,26.4
+North,Haryana,Panipat,2022,October,35.2
+North,Haryana,Panipat,2022,November,33.3
+North,Haryana,Panipat,2022,December,26.1
+North,Haryana,Panipat,2023,January,30.5
+North,Haryana,Panipat,2023,February,18.6
+North,Haryana,Panipat,2023,March,5.8
+North,Haryana,Panipat,2023,April,18.7
+North,Haryana,Panipat,2023,May,9.8
+North,Haryana,Panipat,2023,June,12.8
+North,Haryana,Panipat,2023,July,14.4
+North,Haryana,Panipat,2023,August,24.6
+North,Haryana,Panipat,2023,September,13.7
+North,Haryana,Panipat,2023,October,21.7
+North,Haryana,Panipat,2023,November,22.7
+North,Haryana,Panipat,2023,December,14.5
+North,Uttarakhand,Dehradun,2020,January,27.5
+North,Uttarakhand,Dehradun,2020,February,29.4
+North,Uttarakhand,Dehradun,2020,March,15.3
+North,Uttarakhand,Dehradun,2020,April,13.4
+North,Uttarakhand,Dehradun,2020,May,5.7
+North,Uttarakhand,Dehradun,2020,June,34.2
+North,Uttarakhand,Dehradun,2020,July,36.2
+North,Uttarakhand,Dehradun,2020,August,8.5
+North,Uttarakhand,Dehradun,2020,September,20.6
+North,Uttarakhand,Dehradun,2020,October,15.7
+North,Uttarakhand,Dehradun,2020,November,7.0
+North,Uttarakhand,Dehradun,2020,December,22.4
+North,Uttarakhand,Dehradun,2021,January,5.6
+North,Uttarakhand,Dehradun,2021,February,36.0
+North,Uttarakhand,Dehradun,2021,March,31.0
+North,Uttarakhand,Dehradun,2021,April,26.5
+North,Uttarakhand,Dehradun,2021,May,11.7
+North,Uttarakhand,Dehradun,2021,June,5.8
+North,Uttarakhand,Dehradun,2021,July,13.8
+North,Uttarakhand,Dehradun,2021,August,33.1
+North,Uttarakhand,Dehradun,2021,September,18.2
+North,Uttarakhand,Dehradun,2021,October,17.3
+North,Uttarakhand,Dehradun,2021,November,7.9
+North,Uttarakhand,Dehradun,2021,December,32.6
+North,Uttarakhand,Dehradun,2022,January,21.3
+North,Uttarakhand,Dehradun,2022,February,25.5
+North,Uttarakhand,Dehradun,2022,March,19.1
+North,Uttarakhand,Dehradun,2022,April,35.6
+North,Uttarakhand,Dehradun,2022,May,18.2
+North,Uttarakhand,Dehradun,2022,June,28.5
+North,Uttarakhand,Dehradun,2022,July,32.3
+North,Uttarakhand,Dehradun,2022,August,30.8
+North,Uttarakhand,Dehradun,2022,September,16.3
+North,Uttarakhand,Dehradun,2022,October,10.1
+North,Uttarakhand,Dehradun,2022,November,25.6
+North,Uttarakhand,Dehradun,2022,December,13.2
+North,Uttarakhand,Dehradun,2023,January,20.4
+North,Uttarakhand,Dehradun,2023,February,26.1
+North,Uttarakhand,Dehradun,2023,March,29.6
+North,Uttarakhand,Dehradun,2023,April,16.6
+North,Uttarakhand,Dehradun,2023,May,32.6
+North,Uttarakhand,Dehradun,2023,June,23.6
+North,Uttarakhand,Dehradun,2023,July,10.9
+North,Uttarakhand,Dehradun,2023,August,17.8
+North,Uttarakhand,Dehradun,2023,September,18.8
+North,Uttarakhand,Dehradun,2023,October,16.4
+North,Uttarakhand,Dehradun,2023,November,26.9
+North,Uttarakhand,Dehradun,2023,December,7.3
+North,Uttarakhand,Haridwar,2020,January,26.7
+North,Uttarakhand,Haridwar,2020,February,18.6
+North,Uttarakhand,Haridwar,2020,March,16.7
+North,Uttarakhand,Haridwar,2020,April,39.1
+North,Uttarakhand,Haridwar,2020,May,32.3
+North,Uttarakhand,Haridwar,2020,June,12.6
+North,Uttarakhand,Haridwar,2020,July,22.2
+North,Uttarakhand,Haridwar,2020,August,31.1
+North,Uttarakhand,Haridwar,2020,September,37.2
+North,Uttarakhand,Haridwar,2020,October,31.6
+North,Uttarakhand,Haridwar,2020,November,32.3
+North,Uttarakhand,Haridwar,2020,December,12.1
+North,Uttarakhand,Haridwar,2021,January,25.8
+North,Uttarakhand,Haridwar,2021,February,33.8
+North,Uttarakhand,Haridwar,2021,March,14.9
+North,Uttarakhand,Haridwar,2021,April,22.2
+North,Uttarakhand,Haridwar,2021,May,22.5
+North,Uttarakhand,Haridwar,2021,June,6.4
+North,Uttarakhand,Haridwar,2021,July,11.7
+North,Uttarakhand,Haridwar,2021,August,18.3
+North,Uttarakhand,Haridwar,2021,September,13.7
+North,Uttarakhand,Haridwar,2021,October,13.3
+North,Uttarakhand,Haridwar,2021,November,19.8
+North,Uttarakhand,Haridwar,2021,December,21.3
+North,Uttarakhand,Haridwar,2022,January,29.2
+North,Uttarakhand,Haridwar,2022,February,15.1
+North,Uttarakhand,Haridwar,2022,March,35.7
+North,Uttarakhand,Haridwar,2022,April,13.5
+North,Uttarakhand,Haridwar,2022,May,31.6
+North,Uttarakhand,Haridwar,2022,June,27.2
+North,Uttarakhand,Haridwar,2022,July,5.4
+North,Uttarakhand,Haridwar,2022,August,20.8
+North,Uttarakhand,Haridwar,2022,September,20.0
+North,Uttarakhand,Haridwar,2022,October,5.2
+North,Uttarakhand,Haridwar,2022,November,13.6
+North,Uttarakhand,Haridwar,2022,December,11.0
+North,Uttarakhand,Haridwar,2023,January,6.0
+North,Uttarakhand,Haridwar,2023,February,30.5
+North,Uttarakhand,Haridwar,2023,March,18.2
+North,Uttarakhand,Haridwar,2023,April,15.1
+North,Uttarakhand,Haridwar,2023,May,9.7
+North,Uttarakhand,Haridwar,2023,June,10.9
+North,Uttarakhand,Haridwar,2023,July,26.9
+North,Uttarakhand,Haridwar,2023,August,16.8
+North,Uttarakhand,Haridwar,2023,September,21.7
+North,Uttarakhand,Haridwar,2023,October,6.8
+North,Uttarakhand,Haridwar,2023,November,21.4
+North,Uttarakhand,Haridwar,2023,December,19.7
+North,Uttarakhand,Nainital,2020,January,19.5
+North,Uttarakhand,Nainital,2020,February,8.3
+North,Uttarakhand,Nainital,2020,March,24.7
+North,Uttarakhand,Nainital,2020,April,22.9
+North,Uttarakhand,Nainital,2020,May,6.2
+North,Uttarakhand,Nainital,2020,June,38.1
+North,Uttarakhand,Nainital,2020,July,39.5
+North,Uttarakhand,Nainital,2020,August,23.0
+North,Uttarakhand,Nainital,2020,September,17.7
+North,Uttarakhand,Nainital,2020,October,27.6
+North,Uttarakhand,Nainital,2020,November,33.1
+North,Uttarakhand,Nainital,2020,December,3.4
+North,Uttarakhand,Nainital,2021,January,17.0
+North,Uttarakhand,Nainital,2021,February,15.9
+North,Uttarakhand,Nainital,2021,March,16.5
+North,Uttarakhand,Nainital,2021,April,25.5
+North,Uttarakhand,Nainital,2021,May,10.4
+North,Uttarakhand,Nainital,2021,June,20.7
+North,Uttarakhand,Nainital,2021,July,13.4
+North,Uttarakhand,Nainital,2021,August,26.0
+North,Uttarakhand,Nainital,2021,September,23.9
+North,Uttarakhand,Nainital,2021,October,8.6
+North,Uttarakhand,Nainital,2021,November,13.5
+North,Uttarakhand,Nainital,2021,December,29.7
+North,Uttarakhand,Nainital,2022,January,3.1
+North,Uttarakhand,Nainital,2022,February,24.4
+North,Uttarakhand,Nainital,2022,March,28.0
+North,Uttarakhand,Nainital,2022,April,9.8
+North,Uttarakhand,Nainital,2022,May,23.1
+North,Uttarakhand,Nainital,2022,June,30.6
+North,Uttarakhand,Nainital,2022,July,31.3
+North,Uttarakhand,Nainital,2022,August,22.5
+North,Uttarakhand,Nainital,2022,September,8.8
+North,Uttarakhand,Nainital,2022,October,14.0
+North,Uttarakhand,Nainital,2022,November,11.7
+North,Uttarakhand,Nainital,2022,December,20.1
+North,Uttarakhand,Nainital,2023,January,23.0
+North,Uttarakhand,Nainital,2023,February,22.3
+North,Uttarakhand,Nainital,2023,March,24.3
+North,Uttarakhand,Nainital,2023,April,31.3
+North,Uttarakhand,Nainital,2023,May,30.2
+North,Uttarakhand,Nainital,2023,June,25.4
+North,Uttarakhand,Nainital,2023,July,24.9
+North,Uttarakhand,Nainital,2023,August,5.8
+North,Uttarakhand,Nainital,2023,September,20.4
+North,Uttarakhand,Nainital,2023,October,31.1
+North,Uttarakhand,Nainital,2023,November,9.8
+North,Uttarakhand,Nainital,2023,December,20.9
+North,Uttar Pradesh,Lucknow,2020,January,36.1
+North,Uttar Pradesh,Lucknow,2020,February,34.6
+North,Uttar Pradesh,Lucknow,2020,March,20.8
+North,Uttar Pradesh,Lucknow,2020,April,8.8
+North,Uttar Pradesh,Lucknow,2020,May,33.7
+North,Uttar Pradesh,Lucknow,2020,June,34.1
+North,Uttar Pradesh,Lucknow,2020,July,13.9
+North,Uttar Pradesh,Lucknow,2020,August,25.4
+North,Uttar Pradesh,Lucknow,2020,September,17.1
+North,Uttar Pradesh,Lucknow,2020,October,17.0
+North,Uttar Pradesh,Lucknow,2020,November,28.4
+North,Uttar Pradesh,Lucknow,2020,December,34.7
+North,Uttar Pradesh,Lucknow,2021,January,25.3
+North,Uttar Pradesh,Lucknow,2021,February,25.3
+North,Uttar Pradesh,Lucknow,2021,March,37.1
+North,Uttar Pradesh,Lucknow,2021,April,28.2
+North,Uttar Pradesh,Lucknow,2021,May,35.3
+North,Uttar Pradesh,Lucknow,2021,June,20.2
+North,Uttar Pradesh,Lucknow,2021,July,23.8
+North,Uttar Pradesh,Lucknow,2021,August,25.1
+North,Uttar Pradesh,Lucknow,2021,September,35.3
+North,Uttar Pradesh,Lucknow,2021,October,11.5
+North,Uttar Pradesh,Lucknow,2021,November,17.1
+North,Uttar Pradesh,Lucknow,2021,December,33.8
+North,Uttar Pradesh,Lucknow,2022,January,25.2
+North,Uttar Pradesh,Lucknow,2022,February,8.3
+North,Uttar Pradesh,Lucknow,2022,March,20.2
+North,Uttar Pradesh,Lucknow,2022,April,22.0
+North,Uttar Pradesh,Lucknow,2022,May,26.5
+North,Uttar Pradesh,Lucknow,2022,June,34.4
+North,Uttar Pradesh,Lucknow,2022,July,25.5
+North,Uttar Pradesh,Lucknow,2022,August,39.9
+North,Uttar Pradesh,Lucknow,2022,September,36.8
+North,Uttar Pradesh,Lucknow,2022,October,12.9
+North,Uttar Pradesh,Lucknow,2022,November,23.9
+North,Uttar Pradesh,Lucknow,2022,December,17.8
+North,Uttar Pradesh,Lucknow,2023,January,5.8
+North,Uttar Pradesh,Lucknow,2023,February,30.0
+North,Uttar Pradesh,Lucknow,2023,March,30.2
+North,Uttar Pradesh,Lucknow,2023,April,19.3
+North,Uttar Pradesh,Lucknow,2023,May,40.0
+North,Uttar Pradesh,Lucknow,2023,June,19.0
+North,Uttar Pradesh,Lucknow,2023,July,17.2
+North,Uttar Pradesh,Lucknow,2023,August,39.5
+North,Uttar Pradesh,Lucknow,2023,September,28.2
+North,Uttar Pradesh,Lucknow,2023,October,16.8
+North,Uttar Pradesh,Lucknow,2023,November,29.7
+North,Uttar Pradesh,Lucknow,2023,December,29.2
+North,Uttar Pradesh,Kanpur,2020,January,21.7
+North,Uttar Pradesh,Kanpur,2020,February,6.1
+North,Uttar Pradesh,Kanpur,2020,March,35.2
+North,Uttar Pradesh,Kanpur,2020,April,16.2
+North,Uttar Pradesh,Kanpur,2020,May,30.6
+North,Uttar Pradesh,Kanpur,2020,June,11.7
+North,Uttar Pradesh,Kanpur,2020,July,13.5
+North,Uttar Pradesh,Kanpur,2020,August,12.5
+North,Uttar Pradesh,Kanpur,2020,September,10.9
+North,Uttar Pradesh,Kanpur,2020,October,12.1
+North,Uttar Pradesh,Kanpur,2020,November,31.6
+North,Uttar Pradesh,Kanpur,2020,December,18.6
+North,Uttar Pradesh,Kanpur,2021,January,2.8
+North,Uttar Pradesh,Kanpur,2021,February,10.0
+North,Uttar Pradesh,Kanpur,2021,March,25.0
+North,Uttar Pradesh,Kanpur,2021,April,24.5
+North,Uttar Pradesh,Kanpur,2021,May,29.2
+North,Uttar Pradesh,Kanpur,2021,June,20.0
+North,Uttar Pradesh,Kanpur,2021,July,37.1
+North,Uttar Pradesh,Kanpur,2021,August,14.0
+North,Uttar Pradesh,Kanpur,2021,September,32.2
+North,Uttar Pradesh,Kanpur,2021,October,32.4
+North,Uttar Pradesh,Kanpur,2021,November,27.0
+North,Uttar Pradesh,Kanpur,2021,December,4.1
+North,Uttar Pradesh,Kanpur,2022,January,8.5
+North,Uttar Pradesh,Kanpur,2022,February,31.2
+North,Uttar Pradesh,Kanpur,2022,March,26.3
+North,Uttar Pradesh,Kanpur,2022,April,36.0
+North,Uttar Pradesh,Kanpur,2022,May,15.4
+North,Uttar Pradesh,Kanpur,2022,June,40.0
+North,Uttar Pradesh,Kanpur,2022,July,7.1
+North,Uttar Pradesh,Kanpur,2022,August,33.0
+North,Uttar Pradesh,Kanpur,2022,September,37.8
+North,Uttar Pradesh,Kanpur,2022,October,6.0
+North,Uttar Pradesh,Kanpur,2022,November,9.0
+North,Uttar Pradesh,Kanpur,2022,December,17.1
+North,Uttar Pradesh,Kanpur,2023,January,4.9
+North,Uttar Pradesh,Kanpur,2023,February,32.0
+North,Uttar Pradesh,Kanpur,2023,March,36.2
+North,Uttar Pradesh,Kanpur,2023,April,16.7
+North,Uttar Pradesh,Kanpur,2023,May,5.5
+North,Uttar Pradesh,Kanpur,2023,June,23.7
+North,Uttar Pradesh,Kanpur,2023,July,22.5
+North,Uttar Pradesh,Kanpur,2023,August,22.5
+North,Uttar Pradesh,Kanpur,2023,September,31.5
+North,Uttar Pradesh,Kanpur,2023,October,30.7
+North,Uttar Pradesh,Kanpur,2023,November,35.2
+North,Uttar Pradesh,Kanpur,2023,December,22.3
+North,Uttar Pradesh,Varanasi,2020,January,22.2
+North,Uttar Pradesh,Varanasi,2020,February,28.9
+North,Uttar Pradesh,Varanasi,2020,March,11.8
+North,Uttar Pradesh,Varanasi,2020,April,14.7
+North,Uttar Pradesh,Varanasi,2020,May,21.9
+North,Uttar Pradesh,Varanasi,2020,June,8.3
+North,Uttar Pradesh,Varanasi,2020,July,24.0
+North,Uttar Pradesh,Varanasi,2020,August,32.8
+North,Uttar Pradesh,Varanasi,2020,September,21.9
+North,Uttar Pradesh,Varanasi,2020,October,13.9
+North,Uttar Pradesh,Varanasi,2020,November,22.8
+North,Uttar Pradesh,Varanasi,2020,December,33.4
+North,Uttar Pradesh,Varanasi,2021,January,29.6
+North,Uttar Pradesh,Varanasi,2021,February,12.6
+North,Uttar Pradesh,Varanasi,2021,March,17.1
+North,Uttar Pradesh,Varanasi,2021,April,27.7
+North,Uttar Pradesh,Varanasi,2021,May,18.2
+North,Uttar Pradesh,Varanasi,2021,June,31.2
+North,Uttar Pradesh,Varanasi,2021,July,14.6
+North,Uttar Pradesh,Varanasi,2021,August,9.1
+North,Uttar Pradesh,Varanasi,2021,September,38.9
+North,Uttar Pradesh,Varanasi,2021,October,40.0
+North,Uttar Pradesh,Varanasi,2021,November,26.5
+North,Uttar Pradesh,Varanasi,2021,December,26.5
+North,Uttar Pradesh,Varanasi,2022,January,27.7
+North,Uttar Pradesh,Varanasi,2022,February,18.3
+North,Uttar Pradesh,Varanasi,2022,March,17.0
+North,Uttar Pradesh,Varanasi,2022,April,37.9
+North,Uttar Pradesh,Varanasi,2022,May,24.4
+North,Uttar Pradesh,Varanasi,2022,June,37.4
+North,Uttar Pradesh,Varanasi,2022,July,39.0
+North,Uttar Pradesh,Varanasi,2022,August,38.9
+North,Uttar Pradesh,Varanasi,2022,September,12.4
+North,Uttar Pradesh,Varanasi,2022,October,30.8
+North,Uttar Pradesh,Varanasi,2022,November,17.5
+North,Uttar Pradesh,Varanasi,2022,December,2.9
+North,Uttar Pradesh,Varanasi,2023,January,4.0
+North,Uttar Pradesh,Varanasi,2023,February,18.9
+North,Uttar Pradesh,Varanasi,2023,March,11.5
+North,Uttar Pradesh,Varanasi,2023,April,8.5
+North,Uttar Pradesh,Varanasi,2023,May,7.3
+North,Uttar Pradesh,Varanasi,2023,June,14.3
+North,Uttar Pradesh,Varanasi,2023,July,13.6
+North,Uttar Pradesh,Varanasi,2023,August,22.7
+North,Uttar Pradesh,Varanasi,2023,September,17.7
+North,Uttar Pradesh,Varanasi,2023,October,9.9
+North,Uttar Pradesh,Varanasi,2023,November,34.2
+North,Uttar Pradesh,Varanasi,2023,December,12.8
+North,Himachal Pradesh,Shimla,2020,January,31.2
+North,Himachal Pradesh,Shimla,2020,February,8.3
+North,Himachal Pradesh,Shimla,2020,March,29.0
+North,Himachal Pradesh,Shimla,2020,April,24.0
+North,Himachal Pradesh,Shimla,2020,May,14.7
+North,Himachal Pradesh,Shimla,2020,June,34.9
+North,Himachal Pradesh,Shimla,2020,July,14.5
+North,Himachal Pradesh,Shimla,2020,August,24.5
+North,Himachal Pradesh,Shimla,2020,September,39.1
+North,Himachal Pradesh,Shimla,2020,October,17.0
+North,Himachal Pradesh,Shimla,2020,November,37.4
+North,Himachal Pradesh,Shimla,2020,December,3.3
+North,Himachal Pradesh,Shimla,2021,January,14.3
+North,Himachal Pradesh,Shimla,2021,February,26.6
+North,Himachal Pradesh,Shimla,2021,March,26.3
+North,Himachal Pradesh,Shimla,2021,April,27.5
+North,Himachal Pradesh,Shimla,2021,May,23.4
+North,Himachal Pradesh,Shimla,2021,June,11.3
+North,Himachal Pradesh,Shimla,2021,July,9.5
+North,Himachal Pradesh,Shimla,2021,August,38.3
+North,Himachal Pradesh,Shimla,2021,September,15.6
+North,Himachal Pradesh,Shimla,2021,October,25.0
+North,Himachal Pradesh,Shimla,2021,November,37.4
+North,Himachal Pradesh,Shimla,2021,December,-3.1
+North,Himachal Pradesh,Shimla,2022,January,31.2
+North,Himachal Pradesh,Shimla,2022,February,-2.7
+North,Himachal Pradesh,Shimla,2022,March,26.6
+North,Himachal Pradesh,Shimla,2022,April,16.6
+North,Himachal Pradesh,Shimla,2022,May,24.3
+North,Himachal Pradesh,Shimla,2022,June,5.6
+North,Himachal Pradesh,Shimla,2022,July,19.6
+North,Himachal Pradesh,Shimla,2022,August,28.4
+North,Himachal Pradesh,Shimla,2022,September,19.6
+North,Himachal Pradesh,Shimla,2022,October,39.2
+North,Himachal Pradesh,Shimla,2022,November,17.6
+North,Himachal Pradesh,Shimla,2022,December,21.5
+North,Himachal Pradesh,Shimla,2023,January,26.4
+North,Himachal Pradesh,Shimla,2023,February,7.9
+North,Himachal Pradesh,Shimla,2023,March,5.3
+North,Himachal Pradesh,Shimla,2023,April,29.5
+North,Himachal Pradesh,Shimla,2023,May,23.5
+North,Himachal Pradesh,Shimla,2023,June,32.0
+North,Himachal Pradesh,Shimla,2023,July,24.3
+North,Himachal Pradesh,Shimla,2023,August,16.9
+North,Himachal Pradesh,Shimla,2023,September,24.5
+North,Himachal Pradesh,Shimla,2023,October,15.6
+North,Himachal Pradesh,Shimla,2023,November,38.2
+North,Himachal Pradesh,Shimla,2023,December,33.9
+North,Himachal Pradesh,Manali,2020,January,19.9
+North,Himachal Pradesh,Manali,2020,February,21.5
+North,Himachal Pradesh,Manali,2020,March,12.4
+North,Himachal Pradesh,Manali,2020,April,13.8
+North,Himachal Pradesh,Manali,2020,May,30.0
+North,Himachal Pradesh,Manali,2020,June,8.2
+North,Himachal Pradesh,Manali,2020,July,24.5
+North,Himachal Pradesh,Manali,2020,August,24.1
+North,Himachal Pradesh,Manali,2020,September,20.2
+North,Himachal Pradesh,Manali,2020,October,31.2
+North,Himachal Pradesh,Manali,2020,November,37.6
+North,Himachal Pradesh,Manali,2020,December,28.8
+North,Himachal Pradesh,Manali,2021,January,29.8
+North,Himachal Pradesh,Manali,2021,February,32.7
+North,Himachal Pradesh,Manali,2021,March,10.7
+North,Himachal Pradesh,Manali,2021,April,23.0
+North,Himachal Pradesh,Manali,2021,May,23.4
+North,Himachal Pradesh,Manali,2021,June,16.8
+North,Himachal Pradesh,Manali,2021,July,37.1
+North,Himachal Pradesh,Manali,2021,August,26.4
+North,Himachal Pradesh,Manali,2021,September,18.8
+North,Himachal Pradesh,Manali,2021,October,33.4
+North,Himachal Pradesh,Manali,2021,November,21.9
+North,Himachal Pradesh,Manali,2021,December,4.2
+North,Himachal Pradesh,Manali,2022,January,-0.8
+North,Himachal Pradesh,Manali,2022,February,12.1
+North,Himachal Pradesh,Manali,2022,March,29.1
+North,Himachal Pradesh,Manali,2022,April,31.3
+North,Himachal Pradesh,Manali,2022,May,21.6
+North,Himachal Pradesh,Manali,2022,June,38.3
+North,Himachal Pradesh,Manali,2022,July,26.4
+North,Himachal Pradesh,Manali,2022,August,18.6
+North,Himachal Pradesh,Manali,2022,September,15.2
+North,Himachal Pradesh,Manali,2022,October,26.4
+North,Himachal Pradesh,Manali,2022,November,9.7
+North,Himachal Pradesh,Manali,2022,December,26.9
+North,Himachal Pradesh,Manali,2023,January,18.9
+North,Himachal Pradesh,Manali,2023,February,2.4
+North,Himachal Pradesh,Manali,2023,March,30.4
+North,Himachal Pradesh,Manali,2023,April,17.6
+North,Himachal Pradesh,Manali,2023,May,17.2
+North,Himachal Pradesh,Manali,2023,June,23.7
+North,Himachal Pradesh,Manali,2023,July,5.3
+North,Himachal Pradesh,Manali,2023,August,30.2
+North,Himachal Pradesh,Manali,2023,September,19.8
+North,Himachal Pradesh,Manali,2023,October,18.4
+North,Himachal Pradesh,Manali,2023,November,19.5
+North,Himachal Pradesh,Manali,2023,December,26.2
+North,Himachal Pradesh,Dharamshala,2020,January,-0.4
+North,Himachal Pradesh,Dharamshala,2020,February,10.0
+North,Himachal Pradesh,Dharamshala,2020,March,26.1
+North,Himachal Pradesh,Dharamshala,2020,April,8.8
+North,Himachal Pradesh,Dharamshala,2020,May,21.4
+North,Himachal Pradesh,Dharamshala,2020,June,14.3
+North,Himachal Pradesh,Dharamshala,2020,July,32.1
+North,Himachal Pradesh,Dharamshala,2020,August,23.0
+North,Himachal Pradesh,Dharamshala,2020,September,28.4
+North,Himachal Pradesh,Dharamshala,2020,October,14.9
+North,Himachal Pradesh,Dharamshala,2020,November,16.6
+North,Himachal Pradesh,Dharamshala,2020,December,1.6
+North,Himachal Pradesh,Dharamshala,2021,January,5.0
+North,Himachal Pradesh,Dharamshala,2021,February,25.5
+North,Himachal Pradesh,Dharamshala,2021,March,6.9
+North,Himachal Pradesh,Dharamshala,2021,April,29.5
+North,Himachal Pradesh,Dharamshala,2021,May,16.4
+North,Himachal Pradesh,Dharamshala,2021,June,22.1
+North,Himachal Pradesh,Dharamshala,2021,July,10.9
+North,Himachal Pradesh,Dharamshala,2021,August,11.0
+North,Himachal Pradesh,Dharamshala,2021,September,10.1
+North,Himachal Pradesh,Dharamshala,2021,October,31.5
+North,Himachal Pradesh,Dharamshala,2021,November,16.1
+North,Himachal Pradesh,Dharamshala,2021,December,15.4
+North,Himachal Pradesh,Dharamshala,2022,January,11.7
+North,Himachal Pradesh,Dharamshala,2022,February,27.0
+North,Himachal Pradesh,Dharamshala,2022,March,23.1
+North,Himachal Pradesh,Dharamshala,2022,April,30.4
+North,Himachal Pradesh,Dharamshala,2022,May,17.5
+North,Himachal Pradesh,Dharamshala,2022,June,35.4
+North,Himachal Pradesh,Dharamshala,2022,July,18.3
+North,Himachal Pradesh,Dharamshala,2022,August,7.8
+North,Himachal Pradesh,Dharamshala,2022,September,18.4
+North,Himachal Pradesh,Dharamshala,2022,October,38.2
+North,Himachal Pradesh,Dharamshala,2022,November,34.6
+North,Himachal Pradesh,Dharamshala,2022,December,4.9
+North,Himachal Pradesh,Dharamshala,2023,January,7.9
+North,Himachal Pradesh,Dharamshala,2023,February,29.3
+North,Himachal Pradesh,Dharamshala,2023,March,18.6
+North,Himachal Pradesh,Dharamshala,2023,April,6.3
+North,Himachal Pradesh,Dharamshala,2023,May,28.0
+North,Himachal Pradesh,Dharamshala,2023,June,18.1
+North,Himachal Pradesh,Dharamshala,2023,July,30.6
+North,Himachal Pradesh,Dharamshala,2023,August,34.3
+North,Himachal Pradesh,Dharamshala,2023,September,15.6
+North,Himachal Pradesh,Dharamshala,2023,October,9.4
+North,Himachal Pradesh,Dharamshala,2023,November,18.2
+North,Himachal Pradesh,Dharamshala,2023,December,27.8
+North,Jammu and Kashmir,Srinagar,2020,January,15.3
+North,Jammu and Kashmir,Srinagar,2020,February,8.1
+North,Jammu and Kashmir,Srinagar,2020,March,39.7
+North,Jammu and Kashmir,Srinagar,2020,April,36.7
+North,Jammu and Kashmir,Srinagar,2020,May,38.6
+North,Jammu and Kashmir,Srinagar,2020,June,37.3
+North,Jammu and Kashmir,Srinagar,2020,July,39.9
+North,Jammu and Kashmir,Srinagar,2020,August,22.1
+North,Jammu and Kashmir,Srinagar,2020,September,22.7
+North,Jammu and Kashmir,Srinagar,2020,October,35.1
+North,Jammu and Kashmir,Srinagar,2020,November,23.7
+North,Jammu and Kashmir,Srinagar,2020,December,5.2
+North,Jammu and Kashmir,Srinagar,2021,January,25.3
+North,Jammu and Kashmir,Srinagar,2021,February,7.0
+North,Jammu and Kashmir,Srinagar,2021,March,39.2
+North,Jammu and Kashmir,Srinagar,2021,April,33.3
+North,Jammu and Kashmir,Srinagar,2021,May,37.5
+North,Jammu and Kashmir,Srinagar,2021,June,30.4
+North,Jammu and Kashmir,Srinagar,2021,July,27.4
+North,Jammu and Kashmir,Srinagar,2021,August,27.0
+North,Jammu and Kashmir,Srinagar,2021,September,37.6
+North,Jammu and Kashmir,Srinagar,2021,October,37.9
+North,Jammu and Kashmir,Srinagar,2021,November,11.2
+North,Jammu and Kashmir,Srinagar,2021,December,23.9
+North,Jammu and Kashmir,Srinagar,2022,January,22.7
+North,Jammu and Kashmir,Srinagar,2022,February,11.2
+North,Jammu and Kashmir,Srinagar,2022,March,22.8
+North,Jammu and Kashmir,Srinagar,2022,April,36.3
+North,Jammu and Kashmir,Srinagar,2022,May,30.9
+North,Jammu and Kashmir,Srinagar,2022,June,37.2
+North,Jammu and Kashmir,Srinagar,2022,July,33.8
+North,Jammu and Kashmir,Srinagar,2022,August,6.9
+North,Jammu and Kashmir,Srinagar,2022,September,11.4
+North,Jammu and Kashmir,Srinagar,2022,October,30.1
+North,Jammu and Kashmir,Srinagar,2022,November,39.8
+North,Jammu and Kashmir,Srinagar,2022,December,15.4
+North,Jammu and Kashmir,Srinagar,2023,January,26.9
+North,Jammu and Kashmir,Srinagar,2023,February,16.5
+North,Jammu and Kashmir,Srinagar,2023,March,29.8
+North,Jammu and Kashmir,Srinagar,2023,April,20.8
+North,Jammu and Kashmir,Srinagar,2023,May,32.5
+North,Jammu and Kashmir,Srinagar,2023,June,15.5
+North,Jammu and Kashmir,Srinagar,2023,July,13.9
+North,Jammu and Kashmir,Srinagar,2023,August,23.1
+North,Jammu and Kashmir,Srinagar,2023,September,14.8
+North,Jammu and Kashmir,Srinagar,2023,October,20.1
+North,Jammu and Kashmir,Srinagar,2023,November,22.9
+North,Jammu and Kashmir,Srinagar,2023,December,25.2
+North,Jammu and Kashmir,Jammu,2020,January,1.2
+North,Jammu and Kashmir,Jammu,2020,February,14.5
+North,Jammu and Kashmir,Jammu,2020,March,11.9
+North,Jammu and Kashmir,Jammu,2020,April,30.9
+North,Jammu and Kashmir,Jammu,2020,May,26.9
+North,Jammu and Kashmir,Jammu,2020,June,12.9
+North,Jammu and Kashmir,Jammu,2020,July,37.3
+North,Jammu and Kashmir,Jammu,2020,August,39.5
+North,Jammu and Kashmir,Jammu,2020,September,40.0
+North,Jammu and Kashmir,Jammu,2020,October,5.4
+North,Jammu and Kashmir,Jammu,2020,November,18.7
+North,Jammu and Kashmir,Jammu,2020,December,12.2
+North,Jammu and Kashmir,Jammu,2021,January,19.3
+North,Jammu and Kashmir,Jammu,2021,February,10.2
+North,Jammu and Kashmir,Jammu,2021,March,30.2
+North,Jammu and Kashmir,Jammu,2021,April,12.8
+North,Jammu and Kashmir,Jammu,2021,May,15.0
+North,Jammu and Kashmir,Jammu,2021,June,29.9
+North,Jammu and Kashmir,Jammu,2021,July,19.4
+North,Jammu and Kashmir,Jammu,2021,August,33.9
+North,Jammu and Kashmir,Jammu,2021,September,30.4
+North,Jammu and Kashmir,Jammu,2021,October,34.4
+North,Jammu and Kashmir,Jammu,2021,November,34.6
+North,Jammu and Kashmir,Jammu,2021,December,-2.7
+North,Jammu and Kashmir,Jammu,2022,January,19.0
+North,Jammu and Kashmir,Jammu,2022,February,30.0
+North,Jammu and Kashmir,Jammu,2022,March,16.8
+North,Jammu and Kashmir,Jammu,2022,April,37.6
+North,Jammu and Kashmir,Jammu,2022,May,23.3
+North,Jammu and Kashmir,Jammu,2022,June,16.1
+North,Jammu and Kashmir,Jammu,2022,July,35.1
+North,Jammu and Kashmir,Jammu,2022,August,36.8
+North,Jammu and Kashmir,Jammu,2022,September,5.3
+North,Jammu and Kashmir,Jammu,2022,October,8.5
+North,Jammu and Kashmir,Jammu,2022,November,12.0
+North,Jammu and Kashmir,Jammu,2022,December,26.1
+North,Jammu and Kashmir,Jammu,2023,January,34.2
+North,Jammu and Kashmir,Jammu,2023,February,6.0
+North,Jammu and Kashmir,Jammu,2023,March,32.5
+North,Jammu and Kashmir,Jammu,2023,April,5.3
+North,Jammu and Kashmir,Jammu,2023,May,10.2
+North,Jammu and Kashmir,Jammu,2023,June,23.4
+North,Jammu and Kashmir,Jammu,2023,July,5.1
+North,Jammu and Kashmir,Jammu,2023,August,22.2
+North,Jammu and Kashmir,Jammu,2023,September,32.2
+North,Jammu and Kashmir,Jammu,2023,October,32.6
+North,Jammu and Kashmir,Jammu,2023,November,26.5
+North,Jammu and Kashmir,Jammu,2023,December,4.5
+North,Jammu and Kashmir,Leh,2020,January,10.2
+North,Jammu and Kashmir,Leh,2020,February,-2.1
+North,Jammu and Kashmir,Leh,2020,March,15.6
+North,Jammu and Kashmir,Leh,2020,April,9.5
+North,Jammu and Kashmir,Leh,2020,May,13.8
+North,Jammu and Kashmir,Leh,2020,June,32.3
+North,Jammu and Kashmir,Leh,2020,July,20.9
+North,Jammu and Kashmir,Leh,2020,August,5.7
+North,Jammu and Kashmir,Leh,2020,September,39.1
+North,Jammu and Kashmir,Leh,2020,October,23.8
+North,Jammu and Kashmir,Leh,2020,November,10.1
+North,Jammu and Kashmir,Leh,2020,December,21.3
+North,Jammu and Kashmir,Leh,2021,January,10.3
+North,Jammu and Kashmir,Leh,2021,February,25.3
+North,Jammu and Kashmir,Leh,2021,March,13.1
+North,Jammu and Kashmir,Leh,2021,April,9.9
+North,Jammu and Kashmir,Leh,2021,May,5.0
+North,Jammu and Kashmir,Leh,2021,June,38.7
+North,Jammu and Kashmir,Leh,2021,July,38.6
+North,Jammu and Kashmir,Leh,2021,August,8.1
+North,Jammu and Kashmir,Leh,2021,September,11.3
+North,Jammu and Kashmir,Leh,2021,October,35.5
+North,Jammu and Kashmir,Leh,2021,November,31.6
+North,Jammu and Kashmir,Leh,2021,December,8.8
+North,Jammu and Kashmir,Leh,2022,January,12.0
+North,Jammu and Kashmir,Leh,2022,February,15.0
+North,Jammu and Kashmir,Leh,2022,March,6.1
+North,Jammu and Kashmir,Leh,2022,April,35.2
+North,Jammu and Kashmir,Leh,2022,May,17.8
+North,Jammu and Kashmir,Leh,2022,June,26.7
+North,Jammu and Kashmir,Leh,2022,July,39.3
+North,Jammu and Kashmir,Leh,2022,August,37.6
+North,Jammu and Kashmir,Leh,2022,September,15.8
+North,Jammu and Kashmir,Leh,2022,October,7.3
+North,Jammu and Kashmir,Leh,2022,November,19.1
+North,Jammu and Kashmir,Leh,2022,December,7.0
+North,Jammu and Kashmir,Leh,2023,January,30.6
+North,Jammu and Kashmir,Leh,2023,February,27.4
+North,Jammu and Kashmir,Leh,2023,March,5.8
+North,Jammu and Kashmir,Leh,2023,April,38.6
+North,Jammu and Kashmir,Leh,2023,May,26.2
+North,Jammu and Kashmir,Leh,2023,June,37.9
+North,Jammu and Kashmir,Leh,2023,July,13.4
+North,Jammu and Kashmir,Leh,2023,August,38.9
+North,Jammu and Kashmir,Leh,2023,September,13.6
+North,Jammu and Kashmir,Leh,2023,October,20.2
+North,Jammu and Kashmir,Leh,2023,November,35.8
+North,Jammu and Kashmir,Leh,2023,December,7.9
+South,Tamil Nadu,Chennai,2020,January,8.6
+South,Tamil Nadu,Chennai,2020,February,35.9
+South,Tamil Nadu,Chennai,2020,March,8.7
+South,Tamil Nadu,Chennai,2020,April,33.4
+South,Tamil Nadu,Chennai,2020,May,18.6
+South,Tamil Nadu,Chennai,2020,June,24.4
+South,Tamil Nadu,Chennai,2020,July,18.9
+South,Tamil Nadu,Chennai,2020,August,28.1
+South,Tamil Nadu,Chennai,2020,September,24.9
+South,Tamil Nadu,Chennai,2020,October,24.4
+South,Tamil Nadu,Chennai,2020,November,10.9
+South,Tamil Nadu,Chennai,2020,December,10.1
+South,Tamil Nadu,Chennai,2021,January,34.5
+South,Tamil Nadu,Chennai,2021,February,3.8
+South,Tamil Nadu,Chennai,2021,March,25.7
+South,Tamil Nadu,Chennai,2021,April,12.5
+South,Tamil Nadu,Chennai,2021,May,11.0
+South,Tamil Nadu,Chennai,2021,June,26.4
+South,Tamil Nadu,Chennai,2021,July,31.4
+South,Tamil Nadu,Chennai,2021,August,7.4
+South,Tamil Nadu,Chennai,2021,September,26.8
+South,Tamil Nadu,Chennai,2021,October,27.5
+South,Tamil Nadu,Chennai,2021,November,25.7
+South,Tamil Nadu,Chennai,2021,December,7.8
+South,Tamil Nadu,Chennai,2022,January,10.4
+South,Tamil Nadu,Chennai,2022,February,36.8
+South,Tamil Nadu,Chennai,2022,March,25.5
+South,Tamil Nadu,Chennai,2022,April,37.5
+South,Tamil Nadu,Chennai,2022,May,33.3
+South,Tamil Nadu,Chennai,2022,June,19.5
+South,Tamil Nadu,Chennai,2022,July,38.0
+South,Tamil Nadu,Chennai,2022,August,17.9
+South,Tamil Nadu,Chennai,2022,September,16.0
+South,Tamil Nadu,Chennai,2022,October,24.5
+South,Tamil Nadu,Chennai,2022,November,24.1
+South,Tamil Nadu,Chennai,2022,December,3.0
+South,Tamil Nadu,Chennai,2023,January,21.5
+South,Tamil Nadu,Chennai,2023,February,8.4
+South,Tamil Nadu,Chennai,2023,March,34.3
+South,Tamil Nadu,Chennai,2023,April,26.7
+South,Tamil Nadu,Chennai,2023,May,30.9
+South,Tamil Nadu,Chennai,2023,June,17.1
+South,Tamil Nadu,Chennai,2023,July,18.0
+South,Tamil Nadu,Chennai,2023,August,8.6
+South,Tamil Nadu,Chennai,2023,September,11.6
+South,Tamil Nadu,Chennai,2023,October,33.9
+South,Tamil Nadu,Chennai,2023,November,5.3
+South,Tamil Nadu,Chennai,2023,December,13.6
+South,Tamil Nadu,Coimbatore,2020,January,21.2
+South,Tamil Nadu,Coimbatore,2020,February,27.7
+South,Tamil Nadu,Coimbatore,2020,March,9.2
+South,Tamil Nadu,Coimbatore,2020,April,8.0
+South,Tamil Nadu,Coimbatore,2020,May,29.8
+South,Tamil Nadu,Coimbatore,2020,June,13.5
+South,Tamil Nadu,Coimbatore,2020,July,15.2
+South,Tamil Nadu,Coimbatore,2020,August,24.6
+South,Tamil Nadu,Coimbatore,2020,September,33.7
+South,Tamil Nadu,Coimbatore,2020,October,7.2
+South,Tamil Nadu,Coimbatore,2020,November,6.6
+South,Tamil Nadu,Coimbatore,2020,December,31.3
+South,Tamil Nadu,Coimbatore,2021,January,8.9
+South,Tamil Nadu,Coimbatore,2021,February,4.5
+South,Tamil Nadu,Coimbatore,2021,March,10.1
+South,Tamil Nadu,Coimbatore,2021,April,9.9
+South,Tamil Nadu,Coimbatore,2021,May,10.9
+South,Tamil Nadu,Coimbatore,2021,June,6.0
+South,Tamil Nadu,Coimbatore,2021,July,6.2
+South,Tamil Nadu,Coimbatore,2021,August,25.0
+South,Tamil Nadu,Coimbatore,2021,September,26.5
+South,Tamil Nadu,Coimbatore,2021,October,35.9
+South,Tamil Nadu,Coimbatore,2021,November,8.3
+South,Tamil Nadu,Coimbatore,2021,December,7.1
+South,Tamil Nadu,Coimbatore,2022,January,3.7
+South,Tamil Nadu,Coimbatore,2022,February,20.4
+South,Tamil Nadu,Coimbatore,2022,March,35.3
+South,Tamil Nadu,Coimbatore,2022,April,18.3
+South,Tamil Nadu,Coimbatore,2022,May,25.2
+South,Tamil Nadu,Coimbatore,2022,June,33.3
+South,Tamil Nadu,Coimbatore,2022,July,23.9
+South,Tamil Nadu,Coimbatore,2022,August,11.9
+South,Tamil Nadu,Coimbatore,2022,September,15.6
+South,Tamil Nadu,Coimbatore,2022,October,15.4
+South,Tamil Nadu,Coimbatore,2022,November,27.8
+South,Tamil Nadu,Coimbatore,2022,December,33.7
+South,Tamil Nadu,Coimbatore,2023,January,17.4
+South,Tamil Nadu,Coimbatore,2023,February,19.6
+South,Tamil Nadu,Coimbatore,2023,March,35.3
+South,Tamil Nadu,Coimbatore,2023,April,20.9
+South,Tamil Nadu,Coimbatore,2023,May,8.6
+South,Tamil Nadu,Coimbatore,2023,June,11.4
+South,Tamil Nadu,Coimbatore,2023,July,14.3
+South,Tamil Nadu,Coimbatore,2023,August,5.4
+South,Tamil Nadu,Coimbatore,2023,September,35.8
+South,Tamil Nadu,Coimbatore,2023,October,10.1
+South,Tamil Nadu,Coimbatore,2023,November,8.5
+South,Tamil Nadu,Coimbatore,2023,December,5.6
+South,Tamil Nadu,Madurai,2020,January,35.9
+South,Tamil Nadu,Madurai,2020,February,3.6
+South,Tamil Nadu,Madurai,2020,March,33.4
+South,Tamil Nadu,Madurai,2020,April,10.2
+South,Tamil Nadu,Madurai,2020,May,8.5
+South,Tamil Nadu,Madurai,2020,June,23.0
+South,Tamil Nadu,Madurai,2020,July,31.7
+South,Tamil Nadu,Madurai,2020,August,30.3
+South,Tamil Nadu,Madurai,2020,September,24.2
+South,Tamil Nadu,Madurai,2020,October,37.2
+South,Tamil Nadu,Madurai,2020,November,36.0
+South,Tamil Nadu,Madurai,2020,December,8.3
+South,Tamil Nadu,Madurai,2021,January,23.0
+South,Tamil Nadu,Madurai,2021,February,12.9
+South,Tamil Nadu,Madurai,2021,March,28.4
+South,Tamil Nadu,Madurai,2021,April,14.3
+South,Tamil Nadu,Madurai,2021,May,32.6
+South,Tamil Nadu,Madurai,2021,June,18.0
+South,Tamil Nadu,Madurai,2021,July,31.4
+South,Tamil Nadu,Madurai,2021,August,26.5
+South,Tamil Nadu,Madurai,2021,September,26.7
+South,Tamil Nadu,Madurai,2021,October,22.9
+South,Tamil Nadu,Madurai,2021,November,20.0
+South,Tamil Nadu,Madurai,2021,December,9.2
+South,Tamil Nadu,Madurai,2022,January,29.7
+South,Tamil Nadu,Madurai,2022,February,27.1
+South,Tamil Nadu,Madurai,2022,March,6.8
+South,Tamil Nadu,Madurai,2022,April,10.0
+South,Tamil Nadu,Madurai,2022,May,19.2
+South,Tamil Nadu,Madurai,2022,June,16.8
+South,Tamil Nadu,Madurai,2022,July,8.1
+South,Tamil Nadu,Madurai,2022,August,6.0
+South,Tamil Nadu,Madurai,2022,September,13.0
+South,Tamil Nadu,Madurai,2022,October,13.6
+South,Tamil Nadu,Madurai,2022,November,11.1
+South,Tamil Nadu,Madurai,2022,December,11.8
+South,Tamil Nadu,Madurai,2023,January,34.7
+South,Tamil Nadu,Madurai,2023,February,26.4
+South,Tamil Nadu,Madurai,2023,March,20.4
+South,Tamil Nadu,Madurai,2023,April,28.1
+South,Tamil Nadu,Madurai,2023,May,15.3
+South,Tamil Nadu,Madurai,2023,June,22.2
+South,Tamil Nadu,Madurai,2023,July,24.7
+South,Tamil Nadu,Madurai,2023,August,38.4
+South,Tamil Nadu,Madurai,2023,September,32.2
+South,Tamil Nadu,Madurai,2023,October,30.0
+South,Tamil Nadu,Madurai,2023,November,21.9
+South,Tamil Nadu,Madurai,2023,December,26.5
+South,Kerala,Thiruvananthapuram,2020,January,12.9
+South,Kerala,Thiruvananthapuram,2020,February,36.3
+South,Kerala,Thiruvananthapuram,2020,March,25.5
+South,Kerala,Thiruvananthapuram,2020,April,31.3
+South,Kerala,Thiruvananthapuram,2020,May,23.5
+South,Kerala,Thiruvananthapuram,2020,June,24.8
+South,Kerala,Thiruvananthapuram,2020,July,5.8
+South,Kerala,Thiruvananthapuram,2020,August,18.8
+South,Kerala,Thiruvananthapuram,2020,September,29.7
+South,Kerala,Thiruvananthapuram,2020,October,35.9
+South,Kerala,Thiruvananthapuram,2020,November,35.0
+South,Kerala,Thiruvananthapuram,2020,December,4.2
+South,Kerala,Thiruvananthapuram,2021,January,8.4
+South,Kerala,Thiruvananthapuram,2021,February,28.6
+South,Kerala,Thiruvananthapuram,2021,March,33.3
+South,Kerala,Thiruvananthapuram,2021,April,32.7
+South,Kerala,Thiruvananthapuram,2021,May,12.0
+South,Kerala,Thiruvananthapuram,2021,June,15.0
+South,Kerala,Thiruvananthapuram,2021,July,7.7
+South,Kerala,Thiruvananthapuram,2021,August,7.6
+South,Kerala,Thiruvananthapuram,2021,September,38.8
+South,Kerala,Thiruvananthapuram,2021,October,32.7
+South,Kerala,Thiruvananthapuram,2021,November,23.6
+South,Kerala,Thiruvananthapuram,2021,December,14.6
+South,Kerala,Thiruvananthapuram,2022,January,17.9
+South,Kerala,Thiruvananthapuram,2022,February,-1.3
+South,Kerala,Thiruvananthapuram,2022,March,25.0
+South,Kerala,Thiruvananthapuram,2022,April,14.9
+South,Kerala,Thiruvananthapuram,2022,May,31.9
+South,Kerala,Thiruvananthapuram,2022,June,7.2
+South,Kerala,Thiruvananthapuram,2022,July,27.0
+South,Kerala,Thiruvananthapuram,2022,August,7.6
+South,Kerala,Thiruvananthapuram,2022,September,17.8
+South,Kerala,Thiruvananthapuram,2022,October,14.6
+South,Kerala,Thiruvananthapuram,2022,November,25.4
+South,Kerala,Thiruvananthapuram,2022,December,29.7
+South,Kerala,Thiruvananthapuram,2023,January,5.0
+South,Kerala,Thiruvananthapuram,2023,February,19.9
+South,Kerala,Thiruvananthapuram,2023,March,22.7
+South,Kerala,Thiruvananthapuram,2023,April,8.2
+South,Kerala,Thiruvananthapuram,2023,May,6.0
+South,Kerala,Thiruvananthapuram,2023,June,6.6
+South,Kerala,Thiruvananthapuram,2023,July,14.5
+South,Kerala,Thiruvananthapuram,2023,August,17.2
+South,Kerala,Thiruvananthapuram,2023,September,5.5
+South,Kerala,Thiruvananthapuram,2023,October,21.4
+South,Kerala,Thiruvananthapuram,2023,November,40.0
+South,Kerala,Thiruvananthapuram,2023,December,33.7
+South,Kerala,Kochi,2020,January,14.0
+South,Kerala,Kochi,2020,February,8.0
+South,Kerala,Kochi,2020,March,8.0
+South,Kerala,Kochi,2020,April,9.4
+South,Kerala,Kochi,2020,May,27.9
+South,Kerala,Kochi,2020,June,10.9
+South,Kerala,Kochi,2020,July,34.5
+South,Kerala,Kochi,2020,August,21.2
+South,Kerala,Kochi,2020,September,32.8
+South,Kerala,Kochi,2020,October,25.8
+South,Kerala,Kochi,2020,November,6.5
+South,Kerala,Kochi,2020,December,32.0
+South,Kerala,Kochi,2021,January,20.0
+South,Kerala,Kochi,2021,February,31.1
+South,Kerala,Kochi,2021,March,24.0
+South,Kerala,Kochi,2021,April,38.3
+South,Kerala,Kochi,2021,May,6.9
+South,Kerala,Kochi,2021,June,18.9
+South,Kerala,Kochi,2021,July,23.5
+South,Kerala,Kochi,2021,August,30.4
+South,Kerala,Kochi,2021,September,20.3
+South,Kerala,Kochi,2021,October,24.4
+South,Kerala,Kochi,2021,November,39.1
+South,Kerala,Kochi,2021,December,28.8
+South,Kerala,Kochi,2022,January,6.4
+South,Kerala,Kochi,2022,February,20.6
+South,Kerala,Kochi,2022,March,24.0
+South,Kerala,Kochi,2022,April,14.9
+South,Kerala,Kochi,2022,May,5.5
+South,Kerala,Kochi,2022,June,25.0
+South,Kerala,Kochi,2022,July,31.1
+South,Kerala,Kochi,2022,August,28.4
+South,Kerala,Kochi,2022,September,15.5
+South,Kerala,Kochi,2022,October,20.9
+South,Kerala,Kochi,2022,November,8.2
+South,Kerala,Kochi,2022,December,10.4
+South,Kerala,Kochi,2023,January,3.8
+South,Kerala,Kochi,2023,February,7.9
+South,Kerala,Kochi,2023,March,15.8
+South,Kerala,Kochi,2023,April,9.5
+South,Kerala,Kochi,2023,May,11.2
+South,Kerala,Kochi,2023,June,18.6
+South,Kerala,Kochi,2023,July,28.2
+South,Kerala,Kochi,2023,August,36.3
+South,Kerala,Kochi,2023,September,13.5
+South,Kerala,Kochi,2023,October,11.5
+South,Kerala,Kochi,2023,November,25.7
+South,Kerala,Kochi,2023,December,17.2
+South,Kerala,Kozhikode,2020,January,0.2
+South,Kerala,Kozhikode,2020,February,-3.1
+South,Kerala,Kozhikode,2020,March,29.8
+South,Kerala,Kozhikode,2020,April,19.8
+South,Kerala,Kozhikode,2020,May,33.3
+South,Kerala,Kozhikode,2020,June,12.6
+South,Kerala,Kozhikode,2020,July,29.1
+South,Kerala,Kozhikode,2020,August,11.8
+South,Kerala,Kozhikode,2020,September,26.7
+South,Kerala,Kozhikode,2020,October,18.8
+South,Kerala,Kozhikode,2020,November,38.4
+South,Kerala,Kozhikode,2020,December,6.2
+South,Kerala,Kozhikode,2021,January,14.5
+South,Kerala,Kozhikode,2021,February,6.3
+South,Kerala,Kozhikode,2021,March,34.6
+South,Kerala,Kozhikode,2021,April,20.0
+South,Kerala,Kozhikode,2021,May,39.2
+South,Kerala,Kozhikode,2021,June,19.4
+South,Kerala,Kozhikode,2021,July,37.4
+South,Kerala,Kozhikode,2021,August,27.7
+South,Kerala,Kozhikode,2021,September,6.3
+South,Kerala,Kozhikode,2021,October,16.6
+South,Kerala,Kozhikode,2021,November,33.8
+South,Kerala,Kozhikode,2021,December,7.7
+South,Kerala,Kozhikode,2022,January,18.1
+South,Kerala,Kozhikode,2022,February,15.4
+South,Kerala,Kozhikode,2022,March,24.6
+South,Kerala,Kozhikode,2022,April,32.4
+South,Kerala,Kozhikode,2022,May,20.1
+South,Kerala,Kozhikode,2022,June,21.8
+South,Kerala,Kozhikode,2022,July,32.6
+South,Kerala,Kozhikode,2022,August,12.5
+South,Kerala,Kozhikode,2022,September,39.1
+South,Kerala,Kozhikode,2022,October,35.0
+South,Kerala,Kozhikode,2022,November,29.4
+South,Kerala,Kozhikode,2022,December,16.2
+South,Kerala,Kozhikode,2023,January,16.0
+South,Kerala,Kozhikode,2023,February,11.4
+South,Kerala,Kozhikode,2023,March,29.5
+South,Kerala,Kozhikode,2023,April,14.9
+South,Kerala,Kozhikode,2023,May,32.4
+South,Kerala,Kozhikode,2023,June,34.2
+South,Kerala,Kozhikode,2023,July,18.3
+South,Kerala,Kozhikode,2023,August,36.2
+South,Kerala,Kozhikode,2023,September,33.6
+South,Kerala,Kozhikode,2023,October,28.9
+South,Kerala,Kozhikode,2023,November,38.2
+South,Kerala,Kozhikode,2023,December,11.8
+South,Karnataka,Bengaluru,2020,January,28.0
+South,Karnataka,Bengaluru,2020,February,22.2
+South,Karnataka,Bengaluru,2020,March,33.7
+South,Karnataka,Bengaluru,2020,April,31.2
+South,Karnataka,Bengaluru,2020,May,15.0
+South,Karnataka,Bengaluru,2020,June,6.0
+South,Karnataka,Bengaluru,2020,July,15.3
+South,Karnataka,Bengaluru,2020,August,13.6
+South,Karnataka,Bengaluru,2020,September,11.9
+South,Karnataka,Bengaluru,2020,October,21.7
+South,Karnataka,Bengaluru,2020,November,33.8
+South,Karnataka,Bengaluru,2020,December,19.8
+South,Karnataka,Bengaluru,2021,January,23.3
+South,Karnataka,Bengaluru,2021,February,33.6
+South,Karnataka,Bengaluru,2021,March,6.5
+South,Karnataka,Bengaluru,2021,April,34.3
+South,Karnataka,Bengaluru,2021,May,21.4
+South,Karnataka,Bengaluru,2021,June,30.2
+South,Karnataka,Bengaluru,2021,July,33.4
+South,Karnataka,Bengaluru,2021,August,19.6
+South,Karnataka,Bengaluru,2021,September,24.1
+South,Karnataka,Bengaluru,2021,October,10.0
+South,Karnataka,Bengaluru,2021,November,22.2
+South,Karnataka,Bengaluru,2021,December,14.7
+South,Karnataka,Bengaluru,2022,January,0.2
+South,Karnataka,Bengaluru,2022,February,16.8
+South,Karnataka,Bengaluru,2022,March,35.4
+South,Karnataka,Bengaluru,2022,April,14.1
+South,Karnataka,Bengaluru,2022,May,19.3
+South,Karnataka,Bengaluru,2022,June,26.8
+South,Karnataka,Bengaluru,2022,July,18.8
+South,Karnataka,Bengaluru,2022,August,28.5
+South,Karnataka,Bengaluru,2022,September,17.2
+South,Karnataka,Bengaluru,2022,October,18.5
+South,Karnataka,Bengaluru,2022,November,30.1
+South,Karnataka,Bengaluru,2022,December,29.1
+South,Karnataka,Bengaluru,2023,January,11.6
+South,Karnataka,Bengaluru,2023,February,4.5
+South,Karnataka,Bengaluru,2023,March,14.3
+South,Karnataka,Bengaluru,2023,April,31.8
+South,Karnataka,Bengaluru,2023,May,16.9
+South,Karnataka,Bengaluru,2023,June,17.6
+South,Karnataka,Bengaluru,2023,July,15.3
+South,Karnataka,Bengaluru,2023,August,20.1
+South,Karnataka,Bengaluru,2023,September,16.1
+South,Karnataka,Bengaluru,2023,October,30.9
+South,Karnataka,Bengaluru,2023,November,16.8
+South,Karnataka,Bengaluru,2023,December,4.1
+South,Karnataka,Mysuru,2020,January,36.6
+South,Karnataka,Mysuru,2020,February,29.7
+South,Karnataka,Mysuru,2020,March,33.9
+South,Karnataka,Mysuru,2020,April,13.6
+South,Karnataka,Mysuru,2020,May,19.9
+South,Karnataka,Mysuru,2020,June,21.2
+South,Karnataka,Mysuru,2020,July,39.5
+South,Karnataka,Mysuru,2020,August,13.4
+South,Karnataka,Mysuru,2020,September,26.8
+South,Karnataka,Mysuru,2020,October,18.5
+South,Karnataka,Mysuru,2020,November,23.1
+South,Karnataka,Mysuru,2020,December,25.5
+South,Karnataka,Mysuru,2021,January,15.3
+South,Karnataka,Mysuru,2021,February,4.9
+South,Karnataka,Mysuru,2021,March,38.4
+South,Karnataka,Mysuru,2021,April,39.5
+South,Karnataka,Mysuru,2021,May,30.4
+South,Karnataka,Mysuru,2021,June,28.8
+South,Karnataka,Mysuru,2021,July,20.2
+South,Karnataka,Mysuru,2021,August,31.5
+South,Karnataka,Mysuru,2021,September,28.3
+South,Karnataka,Mysuru,2021,October,32.6
+South,Karnataka,Mysuru,2021,November,19.6
+South,Karnataka,Mysuru,2021,December,26.3
+South,Karnataka,Mysuru,2022,January,14.9
+South,Karnataka,Mysuru,2022,February,36.8
+South,Karnataka,Mysuru,2022,March,23.6
+South,Karnataka,Mysuru,2022,April,23.6
+South,Karnataka,Mysuru,2022,May,21.9
+South,Karnataka,Mysuru,2022,June,25.0
+South,Karnataka,Mysuru,2022,July,21.6
+South,Karnataka,Mysuru,2022,August,27.9
+South,Karnataka,Mysuru,2022,September,10.4
+South,Karnataka,Mysuru,2022,October,6.0
+South,Karnataka,Mysuru,2022,November,10.4
+South,Karnataka,Mysuru,2022,December,33.1
+South,Karnataka,Mysuru,2023,January,24.6
+South,Karnataka,Mysuru,2023,February,19.4
+South,Karnataka,Mysuru,2023,March,22.1
+South,Karnataka,Mysuru,2023,April,21.0
+South,Karnataka,Mysuru,2023,May,18.4
+South,Karnataka,Mysuru,2023,June,9.0
+South,Karnataka,Mysuru,2023,July,11.6
+South,Karnataka,Mysuru,2023,August,22.1
+South,Karnataka,Mysuru,2023,September,26.8
+South,Karnataka,Mysuru,2023,October,12.7
+South,Karnataka,Mysuru,2023,November,14.9
+South,Karnataka,Mysuru,2023,December,23.2
+South,Karnataka,Mangalore,2020,January,37.2
+South,Karnataka,Mangalore,2020,February,26.6
+South,Karnataka,Mangalore,2020,March,11.0
+South,Karnataka,Mangalore,2020,April,11.8
+South,Karnataka,Mangalore,2020,May,24.5
+South,Karnataka,Mangalore,2020,June,37.9
+South,Karnataka,Mangalore,2020,July,35.2
+South,Karnataka,Mangalore,2020,August,10.1
+South,Karnataka,Mangalore,2020,September,28.7
+South,Karnataka,Mangalore,2020,October,8.3
+South,Karnataka,Mangalore,2020,November,5.8
+South,Karnataka,Mangalore,2020,December,10.7
+South,Karnataka,Mangalore,2021,January,20.1
+South,Karnataka,Mangalore,2021,February,4.9
+South,Karnataka,Mangalore,2021,March,34.9
+South,Karnataka,Mangalore,2021,April,17.7
+South,Karnataka,Mangalore,2021,May,15.9
+South,Karnataka,Mangalore,2021,June,23.9
+South,Karnataka,Mangalore,2021,July,36.1
+South,Karnataka,Mangalore,2021,August,39.3
+South,Karnataka,Mangalore,2021,September,21.5
+South,Karnataka,Mangalore,2021,October,39.4
+South,Karnataka,Mangalore,2021,November,39.1
+South,Karnataka,Mangalore,2021,December,28.3
+South,Karnataka,Mangalore,2022,January,33.3
+South,Karnataka,Mangalore,2022,February,9.1
+South,Karnataka,Mangalore,2022,March,36.4
+South,Karnataka,Mangalore,2022,April,22.8
+South,Karnataka,Mangalore,2022,May,22.6
+South,Karnataka,Mangalore,2022,June,33.5
+South,Karnataka,Mangalore,2022,July,5.7
+South,Karnataka,Mangalore,2022,August,8.3
+South,Karnataka,Mangalore,2022,September,7.1
+South,Karnataka,Mangalore,2022,October,27.4
+South,Karnataka,Mangalore,2022,November,21.6
+South,Karnataka,Mangalore,2022,December,16.8
+South,Karnataka,Mangalore,2023,January,27.3
+South,Karnataka,Mangalore,2023,February,-2.1
+South,Karnataka,Mangalore,2023,March,32.2
+South,Karnataka,Mangalore,2023,April,8.7
+South,Karnataka,Mangalore,2023,May,11.4
+South,Karnataka,Mangalore,2023,June,18.5
+South,Karnataka,Mangalore,2023,July,20.1
+South,Karnataka,Mangalore,2023,August,31.1
+South,Karnataka,Mangalore,2023,September,26.7
+South,Karnataka,Mangalore,2023,October,34.2
+South,Karnataka,Mangalore,2023,November,17.4
+South,Karnataka,Mangalore,2023,December,22.1
+South,Andhra Pradesh,Vijayawada,2020,January,23.6
+South,Andhra Pradesh,Vijayawada,2020,February,26.3
+South,Andhra Pradesh,Vijayawada,2020,March,34.4
+South,Andhra Pradesh,Vijayawada,2020,April,16.7
+South,Andhra Pradesh,Vijayawada,2020,May,10.4
+South,Andhra Pradesh,Vijayawada,2020,June,18.0
+South,Andhra Pradesh,Vijayawada,2020,July,26.8
+South,Andhra Pradesh,Vijayawada,2020,August,27.5
+South,Andhra Pradesh,Vijayawada,2020,September,21.9
+South,Andhra Pradesh,Vijayawada,2020,October,34.9
+South,Andhra Pradesh,Vijayawada,2020,November,7.0
+South,Andhra Pradesh,Vijayawada,2020,December,12.9
+South,Andhra Pradesh,Vijayawada,2021,January,14.2
+South,Andhra Pradesh,Vijayawada,2021,February,12.3
+South,Andhra Pradesh,Vijayawada,2021,March,29.8
+South,Andhra Pradesh,Vijayawada,2021,April,5.9
+South,Andhra Pradesh,Vijayawada,2021,May,13.8
+South,Andhra Pradesh,Vijayawada,2021,June,39.7
+South,Andhra Pradesh,Vijayawada,2021,July,19.2
+South,Andhra Pradesh,Vijayawada,2021,August,16.4
+South,Andhra Pradesh,Vijayawada,2021,September,6.8
+South,Andhra Pradesh,Vijayawada,2021,October,39.8
+South,Andhra Pradesh,Vijayawada,2021,November,26.0
+South,Andhra Pradesh,Vijayawada,2021,December,39.3
+South,Andhra Pradesh,Vijayawada,2022,January,12.7
+South,Andhra Pradesh,Vijayawada,2022,February,5.5
+South,Andhra Pradesh,Vijayawada,2022,March,28.9
+South,Andhra Pradesh,Vijayawada,2022,April,33.0
+South,Andhra Pradesh,Vijayawada,2022,May,14.0
+South,Andhra Pradesh,Vijayawada,2022,June,17.2
+South,Andhra Pradesh,Vijayawada,2022,July,5.5
+South,Andhra Pradesh,Vijayawada,2022,August,15.1
+South,Andhra Pradesh,Vijayawada,2022,September,16.3
+South,Andhra Pradesh,Vijayawada,2022,October,13.0
+South,Andhra Pradesh,Vijayawada,2022,November,26.4
+South,Andhra Pradesh,Vijayawada,2022,December,33.8
+South,Andhra Pradesh,Vijayawada,2023,January,10.7
+South,Andhra Pradesh,Vijayawada,2023,February,1.2
+South,Andhra Pradesh,Vijayawada,2023,March,26.0
+South,Andhra Pradesh,Vijayawada,2023,April,6.7
+South,Andhra Pradesh,Vijayawada,2023,May,34.8
+South,Andhra Pradesh,Vijayawada,2023,June,14.3
+South,Andhra Pradesh,Vijayawada,2023,July,14.0
+South,Andhra Pradesh,Vijayawada,2023,August,22.4
+South,Andhra Pradesh,Vijayawada,2023,September,18.0
+South,Andhra Pradesh,Vijayawada,2023,October,18.7
+South,Andhra Pradesh,Vijayawada,2023,November,30.5
+South,Andhra Pradesh,Vijayawada,2023,December,-1.4
+South,Andhra Pradesh,Visakhapatnam,2020,January,13.8
+South,Andhra Pradesh,Visakhapatnam,2020,February,30.3
+South,Andhra Pradesh,Visakhapatnam,2020,March,36.0
+South,Andhra Pradesh,Visakhapatnam,2020,April,5.2
+South,Andhra Pradesh,Visakhapatnam,2020,May,29.1
+South,Andhra Pradesh,Visakhapatnam,2020,June,36.2
+South,Andhra Pradesh,Visakhapatnam,2020,July,7.2
+South,Andhra Pradesh,Visakhapatnam,2020,August,10.0
+South,Andhra Pradesh,Visakhapatnam,2020,September,37.8
+South,Andhra Pradesh,Visakhapatnam,2020,October,19.5
+South,Andhra Pradesh,Visakhapatnam,2020,November,30.1
+South,Andhra Pradesh,Visakhapatnam,2020,December,4.1
+South,Andhra Pradesh,Visakhapatnam,2021,January,30.6
+South,Andhra Pradesh,Visakhapatnam,2021,February,30.6
+South,Andhra Pradesh,Visakhapatnam,2021,March,30.8
+South,Andhra Pradesh,Visakhapatnam,2021,April,5.1
+South,Andhra Pradesh,Visakhapatnam,2021,May,13.8
+South,Andhra Pradesh,Visakhapatnam,2021,June,27.3
+South,Andhra Pradesh,Visakhapatnam,2021,July,14.8
+South,Andhra Pradesh,Visakhapatnam,2021,August,8.8
+South,Andhra Pradesh,Visakhapatnam,2021,September,13.0
+South,Andhra Pradesh,Visakhapatnam,2021,October,13.1
+South,Andhra Pradesh,Visakhapatnam,2021,November,35.6
+South,Andhra Pradesh,Visakhapatnam,2021,December,4.8
+South,Andhra Pradesh,Visakhapatnam,2022,January,10.0
+South,Andhra Pradesh,Visakhapatnam,2022,February,29.1
+South,Andhra Pradesh,Visakhapatnam,2022,March,29.7
+South,Andhra Pradesh,Visakhapatnam,2022,April,19.7
+South,Andhra Pradesh,Visakhapatnam,2022,May,38.9
+South,Andhra Pradesh,Visakhapatnam,2022,June,33.5
+South,Andhra Pradesh,Visakhapatnam,2022,July,24.3
+South,Andhra Pradesh,Visakhapatnam,2022,August,29.4
+South,Andhra Pradesh,Visakhapatnam,2022,September,16.5
+South,Andhra Pradesh,Visakhapatnam,2022,October,8.0
+South,Andhra Pradesh,Visakhapatnam,2022,November,33.5
+South,Andhra Pradesh,Visakhapatnam,2022,December,2.6
+South,Andhra Pradesh,Visakhapatnam,2023,January,15.3
+South,Andhra Pradesh,Visakhapatnam,2023,February,15.1
+South,Andhra Pradesh,Visakhapatnam,2023,March,16.8
+South,Andhra Pradesh,Visakhapatnam,2023,April,35.7
+South,Andhra Pradesh,Visakhapatnam,2023,May,18.6
+South,Andhra Pradesh,Visakhapatnam,2023,June,27.6
+South,Andhra Pradesh,Visakhapatnam,2023,July,18.5
+South,Andhra Pradesh,Visakhapatnam,2023,August,6.0
+South,Andhra Pradesh,Visakhapatnam,2023,September,34.5
+South,Andhra Pradesh,Visakhapatnam,2023,October,34.4
+South,Andhra Pradesh,Visakhapatnam,2023,November,31.2
+South,Andhra Pradesh,Visakhapatnam,2023,December,6.5
+South,Andhra Pradesh,Tirupati,2020,January,17.3
+South,Andhra Pradesh,Tirupati,2020,February,27.3
+South,Andhra Pradesh,Tirupati,2020,March,20.3
+South,Andhra Pradesh,Tirupati,2020,April,25.1
+South,Andhra Pradesh,Tirupati,2020,May,8.6
+South,Andhra Pradesh,Tirupati,2020,June,21.0
+South,Andhra Pradesh,Tirupati,2020,July,27.5
+South,Andhra Pradesh,Tirupati,2020,August,7.5
+South,Andhra Pradesh,Tirupati,2020,September,35.4
+South,Andhra Pradesh,Tirupati,2020,October,20.8
+South,Andhra Pradesh,Tirupati,2020,November,30.6
+South,Andhra Pradesh,Tirupati,2020,December,25.9
+South,Andhra Pradesh,Tirupati,2021,January,34.9
+South,Andhra Pradesh,Tirupati,2021,February,-1.7
+South,Andhra Pradesh,Tirupati,2021,March,16.5
+South,Andhra Pradesh,Tirupati,2021,April,39.7
+South,Andhra Pradesh,Tirupati,2021,May,30.8
+South,Andhra Pradesh,Tirupati,2021,June,11.0
+South,Andhra Pradesh,Tirupati,2021,July,19.7
+South,Andhra Pradesh,Tirupati,2021,August,9.6
+South,Andhra Pradesh,Tirupati,2021,September,15.1
+South,Andhra Pradesh,Tirupati,2021,October,9.8
+South,Andhra Pradesh,Tirupati,2021,November,7.4
+South,Andhra Pradesh,Tirupati,2021,December,27.7
+South,Andhra Pradesh,Tirupati,2022,January,30.0
+South,Andhra Pradesh,Tirupati,2022,February,8.0
+South,Andhra Pradesh,Tirupati,2022,March,30.6
+South,Andhra Pradesh,Tirupati,2022,April,37.3
+South,Andhra Pradesh,Tirupati,2022,May,6.4
+South,Andhra Pradesh,Tirupati,2022,June,15.0
+South,Andhra Pradesh,Tirupati,2022,July,15.2
+South,Andhra Pradesh,Tirupati,2022,August,29.1
+South,Andhra Pradesh,Tirupati,2022,September,18.9
+South,Andhra Pradesh,Tirupati,2022,October,35.9
+South,Andhra Pradesh,Tirupati,2022,November,38.0
+South,Andhra Pradesh,Tirupati,2022,December,6.2
+South,Andhra Pradesh,Tirupati,2023,January,29.6
+South,Andhra Pradesh,Tirupati,2023,February,27.8
+South,Andhra Pradesh,Tirupati,2023,March,10.0
+South,Andhra Pradesh,Tirupati,2023,April,29.5
+South,Andhra Pradesh,Tirupati,2023,May,7.1
+South,Andhra Pradesh,Tirupati,2023,June,7.6
+South,Andhra Pradesh,Tirupati,2023,July,10.4
+South,Andhra Pradesh,Tirupati,2023,August,15.7
+South,Andhra Pradesh,Tirupati,2023,September,10.2
+South,Andhra Pradesh,Tirupati,2023,October,33.9
+South,Andhra Pradesh,Tirupati,2023,November,35.5
+South,Andhra Pradesh,Tirupati,2023,December,18.4
+South,Telangana,Hyderabad,2020,January,34.2
+South,Telangana,Hyderabad,2020,February,8.9
+South,Telangana,Hyderabad,2020,March,6.5
+South,Telangana,Hyderabad,2020,April,14.3
+South,Telangana,Hyderabad,2020,May,22.5
+South,Telangana,Hyderabad,2020,June,36.8
+South,Telangana,Hyderabad,2020,July,26.8
+South,Telangana,Hyderabad,2020,August,26.4
+South,Telangana,Hyderabad,2020,September,39.5
+South,Telangana,Hyderabad,2020,October,38.2
+South,Telangana,Hyderabad,2020,November,7.9
+South,Telangana,Hyderabad,2020,December,30.9
+South,Telangana,Hyderabad,2021,January,25.5
+South,Telangana,Hyderabad,2021,February,24.3
+South,Telangana,Hyderabad,2021,March,37.2
+South,Telangana,Hyderabad,2021,April,35.0
+South,Telangana,Hyderabad,2021,May,12.9
+South,Telangana,Hyderabad,2021,June,8.9
+South,Telangana,Hyderabad,2021,July,39.2
+South,Telangana,Hyderabad,2021,August,35.5
+South,Telangana,Hyderabad,2021,September,22.6
+South,Telangana,Hyderabad,2021,October,9.1
+South,Telangana,Hyderabad,2021,November,12.8
+South,Telangana,Hyderabad,2021,December,13.3
+South,Telangana,Hyderabad,2022,January,7.6
+South,Telangana,Hyderabad,2022,February,23.1
+South,Telangana,Hyderabad,2022,March,11.6
+South,Telangana,Hyderabad,2022,April,26.9
+South,Telangana,Hyderabad,2022,May,27.7
+South,Telangana,Hyderabad,2022,June,30.6
+South,Telangana,Hyderabad,2022,July,26.4
+South,Telangana,Hyderabad,2022,August,34.3
+South,Telangana,Hyderabad,2022,September,16.1
+South,Telangana,Hyderabad,2022,October,27.2
+South,Telangana,Hyderabad,2022,November,35.3
+South,Telangana,Hyderabad,2022,December,0.2
+South,Telangana,Hyderabad,2023,January,25.0
+South,Telangana,Hyderabad,2023,February,28.7
+South,Telangana,Hyderabad,2023,March,21.6
+South,Telangana,Hyderabad,2023,April,8.6
+South,Telangana,Hyderabad,2023,May,32.1
+South,Telangana,Hyderabad,2023,June,16.8
+South,Telangana,Hyderabad,2023,July,32.7
+South,Telangana,Hyderabad,2023,August,10.9
+South,Telangana,Hyderabad,2023,September,17.5
+South,Telangana,Hyderabad,2023,October,27.7
+South,Telangana,Hyderabad,2023,November,30.1
+South,Telangana,Hyderabad,2023,December,25.0
+South,Telangana,Warangal,2020,January,25.7
+South,Telangana,Warangal,2020,February,22.7
+South,Telangana,Warangal,2020,March,15.4
+South,Telangana,Warangal,2020,April,11.4
+South,Telangana,Warangal,2020,May,8.8
+South,Telangana,Warangal,2020,June,16.2
+South,Telangana,Warangal,2020,July,27.1
+South,Telangana,Warangal,2020,August,5.8
+South,Telangana,Warangal,2020,September,30.2
+South,Telangana,Warangal,2020,October,23.2
+South,Telangana,Warangal,2020,November,11.5
+South,Telangana,Warangal,2020,December,4.4
+South,Telangana,Warangal,2021,January,11.6
+South,Telangana,Warangal,2021,February,2.4
+South,Telangana,Warangal,2021,March,35.6
+South,Telangana,Warangal,2021,April,27.1
+South,Telangana,Warangal,2021,May,35.9
+South,Telangana,Warangal,2021,June,24.0
+South,Telangana,Warangal,2021,July,13.9
+South,Telangana,Warangal,2021,August,34.0
+South,Telangana,Warangal,2021,September,37.7
+South,Telangana,Warangal,2021,October,21.6
+South,Telangana,Warangal,2021,November,8.0
+South,Telangana,Warangal,2021,December,14.7
+South,Telangana,Warangal,2022,January,0.8
+South,Telangana,Warangal,2022,February,32.9
+South,Telangana,Warangal,2022,March,19.8
+South,Telangana,Warangal,2022,April,18.2
+South,Telangana,Warangal,2022,May,30.8
+South,Telangana,Warangal,2022,June,25.8
+South,Telangana,Warangal,2022,July,19.7
+South,Telangana,Warangal,2022,August,21.6
+South,Telangana,Warangal,2022,September,12.5
+South,Telangana,Warangal,2022,October,17.2
+South,Telangana,Warangal,2022,November,7.6
+South,Telangana,Warangal,2022,December,7.7
+South,Telangana,Warangal,2023,January,2.5
+South,Telangana,Warangal,2023,February,29.5
+South,Telangana,Warangal,2023,March,30.9
+South,Telangana,Warangal,2023,April,25.0
+South,Telangana,Warangal,2023,May,30.0
+South,Telangana,Warangal,2023,June,17.2
+South,Telangana,Warangal,2023,July,9.6
+South,Telangana,Warangal,2023,August,22.8
+South,Telangana,Warangal,2023,September,12.7
+South,Telangana,Warangal,2023,October,12.1
+South,Telangana,Warangal,2023,November,18.5
+South,Telangana,Warangal,2023,December,11.7
+South,Telangana,Nizamabad,2020,January,24.4
+South,Telangana,Nizamabad,2020,February,5.5
+South,Telangana,Nizamabad,2020,March,23.7
+South,Telangana,Nizamabad,2020,April,29.3
+South,Telangana,Nizamabad,2020,May,7.3
+South,Telangana,Nizamabad,2020,June,34.5
+South,Telangana,Nizamabad,2020,July,6.8
+South,Telangana,Nizamabad,2020,August,36.8
+South,Telangana,Nizamabad,2020,September,26.6
+South,Telangana,Nizamabad,2020,October,38.5
+South,Telangana,Nizamabad,2020,November,14.6
+South,Telangana,Nizamabad,2020,December,15.1
+South,Telangana,Nizamabad,2021,January,6.1
+South,Telangana,Nizamabad,2021,February,7.9
+South,Telangana,Nizamabad,2021,March,29.0
+South,Telangana,Nizamabad,2021,April,30.1
+South,Telangana,Nizamabad,2021,May,14.5
+South,Telangana,Nizamabad,2021,June,13.1
+South,Telangana,Nizamabad,2021,July,9.5
+South,Telangana,Nizamabad,2021,August,27.8
+South,Telangana,Nizamabad,2021,September,29.0
+South,Telangana,Nizamabad,2021,October,24.1
+South,Telangana,Nizamabad,2021,November,18.9
+South,Telangana,Nizamabad,2021,December,4.2
+South,Telangana,Nizamabad,2022,January,23.4
+South,Telangana,Nizamabad,2022,February,29.3
+South,Telangana,Nizamabad,2022,March,8.3
+South,Telangana,Nizamabad,2022,April,7.2
+South,Telangana,Nizamabad,2022,May,12.1
+South,Telangana,Nizamabad,2022,June,20.5
+South,Telangana,Nizamabad,2022,July,9.9
+South,Telangana,Nizamabad,2022,August,32.0
+South,Telangana,Nizamabad,2022,September,31.0
+South,Telangana,Nizamabad,2022,October,20.5
+South,Telangana,Nizamabad,2022,November,36.5
+South,Telangana,Nizamabad,2022,December,26.9
+South,Telangana,Nizamabad,2023,January,9.0
+South,Telangana,Nizamabad,2023,February,14.5
+South,Telangana,Nizamabad,2023,March,34.2
+South,Telangana,Nizamabad,2023,April,33.8
+South,Telangana,Nizamabad,2023,May,25.4
+South,Telangana,Nizamabad,2023,June,26.2
+South,Telangana,Nizamabad,2023,July,28.6
+South,Telangana,Nizamabad,2023,August,29.9
+South,Telangana,Nizamabad,2023,September,16.6
+South,Telangana,Nizamabad,2023,October,36.6
+South,Telangana,Nizamabad,2023,November,15.3
+South,Telangana,Nizamabad,2023,December,16.1
+East,West Bengal,Kolkata,2020,January,4.3
+East,West Bengal,Kolkata,2020,February,30.3
+East,West Bengal,Kolkata,2020,March,20.5
+East,West Bengal,Kolkata,2020,April,14.7
+East,West Bengal,Kolkata,2020,May,23.8
+East,West Bengal,Kolkata,2020,June,35.4
+East,West Bengal,Kolkata,2020,July,6.7
+East,West Bengal,Kolkata,2020,August,14.1
+East,West Bengal,Kolkata,2020,September,39.1
+East,West Bengal,Kolkata,2020,October,10.9
+East,West Bengal,Kolkata,2020,November,36.0
+East,West Bengal,Kolkata,2020,December,8.9
+East,West Bengal,Kolkata,2021,January,6.0
+East,West Bengal,Kolkata,2021,February,16.6
+East,West Bengal,Kolkata,2021,March,26.0
+East,West Bengal,Kolkata,2021,April,36.8
+East,West Bengal,Kolkata,2021,May,11.9
+East,West Bengal,Kolkata,2021,June,37.7
+East,West Bengal,Kolkata,2021,July,24.3
+East,West Bengal,Kolkata,2021,August,12.3
+East,West Bengal,Kolkata,2021,September,38.2
+East,West Bengal,Kolkata,2021,October,7.9
+East,West Bengal,Kolkata,2021,November,29.7
+East,West Bengal,Kolkata,2021,December,10.1
+East,West Bengal,Kolkata,2022,January,35.9
+East,West Bengal,Kolkata,2022,February,20.0
+East,West Bengal,Kolkata,2022,March,36.4
+East,West Bengal,Kolkata,2022,April,30.7
+East,West Bengal,Kolkata,2022,May,9.0
+East,West Bengal,Kolkata,2022,June,31.0
+East,West Bengal,Kolkata,2022,July,11.8
+East,West Bengal,Kolkata,2022,August,11.9
+East,West Bengal,Kolkata,2022,September,24.6
+East,West Bengal,Kolkata,2022,October,24.3
+East,West Bengal,Kolkata,2022,November,21.7
+East,West Bengal,Kolkata,2022,December,17.7
+East,West Bengal,Kolkata,2023,January,31.0
+East,West Bengal,Kolkata,2023,February,27.1
+East,West Bengal,Kolkata,2023,March,23.2
+East,West Bengal,Kolkata,2023,April,29.4
+East,West Bengal,Kolkata,2023,May,23.2
+East,West Bengal,Kolkata,2023,June,16.0
+East,West Bengal,Kolkata,2023,July,38.9
+East,West Bengal,Kolkata,2023,August,5.5
+East,West Bengal,Kolkata,2023,September,7.4
+East,West Bengal,Kolkata,2023,October,10.5
+East,West Bengal,Kolkata,2023,November,26.1
+East,West Bengal,Kolkata,2023,December,6.5
+East,West Bengal,Darjeeling,2020,January,-2.5
+East,West Bengal,Darjeeling,2020,February,9.1
+East,West Bengal,Darjeeling,2020,March,12.8
+East,West Bengal,Darjeeling,2020,April,18.9
+East,West Bengal,Darjeeling,2020,May,36.2
+East,West Bengal,Darjeeling,2020,June,17.0
+East,West Bengal,Darjeeling,2020,July,15.4
+East,West Bengal,Darjeeling,2020,August,33.7
+East,West Bengal,Darjeeling,2020,September,35.1
+East,West Bengal,Darjeeling,2020,October,11.0
+East,West Bengal,Darjeeling,2020,November,7.2
+East,West Bengal,Darjeeling,2020,December,14.9
+East,West Bengal,Darjeeling,2021,January,31.5
+East,West Bengal,Darjeeling,2021,February,23.5
+East,West Bengal,Darjeeling,2021,March,32.2
+East,West Bengal,Darjeeling,2021,April,38.1
+East,West Bengal,Darjeeling,2021,May,14.9
+East,West Bengal,Darjeeling,2021,June,33.2
+East,West Bengal,Darjeeling,2021,July,19.2
+East,West Bengal,Darjeeling,2021,August,32.9
+East,West Bengal,Darjeeling,2021,September,28.4
+East,West Bengal,Darjeeling,2021,October,26.2
+East,West Bengal,Darjeeling,2021,November,5.0
+East,West Bengal,Darjeeling,2021,December,-0.4
+East,West Bengal,Darjeeling,2022,January,14.5
+East,West Bengal,Darjeeling,2022,February,36.2
+East,West Bengal,Darjeeling,2022,March,31.2
+East,West Bengal,Darjeeling,2022,April,26.5
+East,West Bengal,Darjeeling,2022,May,5.7
+East,West Bengal,Darjeeling,2022,June,25.8
+East,West Bengal,Darjeeling,2022,July,11.6
+East,West Bengal,Darjeeling,2022,August,37.2
+East,West Bengal,Darjeeling,2022,September,6.2
+East,West Bengal,Darjeeling,2022,October,7.7
+East,West Bengal,Darjeeling,2022,November,23.9
+East,West Bengal,Darjeeling,2022,December,3.7
+East,West Bengal,Darjeeling,2023,January,15.9
+East,West Bengal,Darjeeling,2023,February,22.4
+East,West Bengal,Darjeeling,2023,March,21.1
+East,West Bengal,Darjeeling,2023,April,34.9
+East,West Bengal,Darjeeling,2023,May,26.4
+East,West Bengal,Darjeeling,2023,June,24.8
+East,West Bengal,Darjeeling,2023,July,24.0
+East,West Bengal,Darjeeling,2023,August,25.7
+East,West Bengal,Darjeeling,2023,September,26.5
+East,West Bengal,Darjeeling,2023,October,25.8
+East,West Bengal,Darjeeling,2023,November,14.9
+East,West Bengal,Darjeeling,2023,December,3.9
+East,West Bengal,Asansol,2020,January,6.2
+East,West Bengal,Asansol,2020,February,15.7
+East,West Bengal,Asansol,2020,March,25.2
+East,West Bengal,Asansol,2020,April,26.2
+East,West Bengal,Asansol,2020,May,33.2
+East,West Bengal,Asansol,2020,June,7.3
+East,West Bengal,Asansol,2020,July,18.7
+East,West Bengal,Asansol,2020,August,19.8
+East,West Bengal,Asansol,2020,September,7.7
+East,West Bengal,Asansol,2020,October,9.3
+East,West Bengal,Asansol,2020,November,31.7
+East,West Bengal,Asansol,2020,December,25.8
+East,West Bengal,Asansol,2021,January,12.4
+East,West Bengal,Asansol,2021,February,16.3
+East,West Bengal,Asansol,2021,March,26.2
+East,West Bengal,Asansol,2021,April,29.6
+East,West Bengal,Asansol,2021,May,26.7
+East,West Bengal,Asansol,2021,June,12.7
+East,West Bengal,Asansol,2021,July,28.3
+East,West Bengal,Asansol,2021,August,29.9
+East,West Bengal,Asansol,2021,September,6.2
+East,West Bengal,Asansol,2021,October,22.2
+East,West Bengal,Asansol,2021,November,16.2
+East,West Bengal,Asansol,2021,December,20.2
+East,West Bengal,Asansol,2022,January,6.4
+East,West Bengal,Asansol,2022,February,28.4
+East,West Bengal,Asansol,2022,March,32.8
+East,West Bengal,Asansol,2022,April,6.1
+East,West Bengal,Asansol,2022,May,35.2
+East,West Bengal,Asansol,2022,June,9.7
+East,West Bengal,Asansol,2022,July,23.7
+East,West Bengal,Asansol,2022,August,23.8
+East,West Bengal,Asansol,2022,September,29.6
+East,West Bengal,Asansol,2022,October,9.4
+East,West Bengal,Asansol,2022,November,6.6
+East,West Bengal,Asansol,2022,December,17.7
+East,West Bengal,Asansol,2023,January,24.9
+East,West Bengal,Asansol,2023,February,8.6
+East,West Bengal,Asansol,2023,March,19.7
+East,West Bengal,Asansol,2023,April,16.2
+East,West Bengal,Asansol,2023,May,31.0
+East,West Bengal,Asansol,2023,June,8.3
+East,West Bengal,Asansol,2023,July,13.8
+East,West Bengal,Asansol,2023,August,21.4
+East,West Bengal,Asansol,2023,September,39.5
+East,West Bengal,Asansol,2023,October,11.4
+East,West Bengal,Asansol,2023,November,32.1
+East,West Bengal,Asansol,2023,December,18.4
+East,Odisha,Bhubaneswar,2020,January,23.5
+East,Odisha,Bhubaneswar,2020,February,35.0
+East,Odisha,Bhubaneswar,2020,March,5.9
+East,Odisha,Bhubaneswar,2020,April,39.4
+East,Odisha,Bhubaneswar,2020,May,18.5
+East,Odisha,Bhubaneswar,2020,June,35.6
+East,Odisha,Bhubaneswar,2020,July,18.0
+East,Odisha,Bhubaneswar,2020,August,14.9
+East,Odisha,Bhubaneswar,2020,September,7.6
+East,Odisha,Bhubaneswar,2020,October,6.2
+East,Odisha,Bhubaneswar,2020,November,15.7
+East,Odisha,Bhubaneswar,2020,December,32.0
+East,Odisha,Bhubaneswar,2021,January,2.1
+East,Odisha,Bhubaneswar,2021,February,35.3
+East,Odisha,Bhubaneswar,2021,March,5.9
+East,Odisha,Bhubaneswar,2021,April,35.5
+East,Odisha,Bhubaneswar,2021,May,14.5
+East,Odisha,Bhubaneswar,2021,June,7.5
+East,Odisha,Bhubaneswar,2021,July,9.7
+East,Odisha,Bhubaneswar,2021,August,25.1
+East,Odisha,Bhubaneswar,2021,September,11.4
+East,Odisha,Bhubaneswar,2021,October,39.5
+East,Odisha,Bhubaneswar,2021,November,24.5
+East,Odisha,Bhubaneswar,2021,December,3.0
+East,Odisha,Bhubaneswar,2022,January,5.6
+East,Odisha,Bhubaneswar,2022,February,28.6
+East,Odisha,Bhubaneswar,2022,March,9.3
+East,Odisha,Bhubaneswar,2022,April,32.9
+East,Odisha,Bhubaneswar,2022,May,6.7
+East,Odisha,Bhubaneswar,2022,June,14.2
+East,Odisha,Bhubaneswar,2022,July,27.2
+East,Odisha,Bhubaneswar,2022,August,20.3
+East,Odisha,Bhubaneswar,2022,September,39.0
+East,Odisha,Bhubaneswar,2022,October,12.6
+East,Odisha,Bhubaneswar,2022,November,19.0
+East,Odisha,Bhubaneswar,2022,December,17.5
+East,Odisha,Bhubaneswar,2023,January,19.8
+East,Odisha,Bhubaneswar,2023,February,32.4
+East,Odisha,Bhubaneswar,2023,March,34.1
+East,Odisha,Bhubaneswar,2023,April,9.8
+East,Odisha,Bhubaneswar,2023,May,36.5
+East,Odisha,Bhubaneswar,2023,June,27.5
+East,Odisha,Bhubaneswar,2023,July,5.2
+East,Odisha,Bhubaneswar,2023,August,15.3
+East,Odisha,Bhubaneswar,2023,September,5.7
+East,Odisha,Bhubaneswar,2023,October,14.2
+East,Odisha,Bhubaneswar,2023,November,20.1
+East,Odisha,Bhubaneswar,2023,December,27.3
+East,Odisha,Cuttack,2020,January,17.0
+East,Odisha,Cuttack,2020,February,16.2
+East,Odisha,Cuttack,2020,March,31.4
+East,Odisha,Cuttack,2020,April,34.7
+East,Odisha,Cuttack,2020,May,11.5
+East,Odisha,Cuttack,2020,June,7.6
+East,Odisha,Cuttack,2020,July,30.2
+East,Odisha,Cuttack,2020,August,18.9
+East,Odisha,Cuttack,2020,September,39.2
+East,Odisha,Cuttack,2020,October,29.5
+East,Odisha,Cuttack,2020,November,32.5
+East,Odisha,Cuttack,2020,December,13.7
+East,Odisha,Cuttack,2021,January,23.8
+East,Odisha,Cuttack,2021,February,30.1
+East,Odisha,Cuttack,2021,March,5.6
+East,Odisha,Cuttack,2021,April,37.9
+East,Odisha,Cuttack,2021,May,5.3
+East,Odisha,Cuttack,2021,June,33.1
+East,Odisha,Cuttack,2021,July,11.2
+East,Odisha,Cuttack,2021,August,38.3
+East,Odisha,Cuttack,2021,September,19.4
+East,Odisha,Cuttack,2021,October,25.8
+East,Odisha,Cuttack,2021,November,34.6
+East,Odisha,Cuttack,2021,December,12.5
+East,Odisha,Cuttack,2022,January,9.2
+East,Odisha,Cuttack,2022,February,4.8
+East,Odisha,Cuttack,2022,March,7.0
+East,Odisha,Cuttack,2022,April,26.7
+East,Odisha,Cuttack,2022,May,18.2
+East,Odisha,Cuttack,2022,June,11.0
+East,Odisha,Cuttack,2022,July,32.3
+East,Odisha,Cuttack,2022,August,36.9
+East,Odisha,Cuttack,2022,September,35.1
+East,Odisha,Cuttack,2022,October,23.2
+East,Odisha,Cuttack,2022,November,24.0
+East,Odisha,Cuttack,2022,December,10.1
+East,Odisha,Cuttack,2023,January,23.0
+East,Odisha,Cuttack,2023,February,20.9
+East,Odisha,Cuttack,2023,March,21.1
+East,Odisha,Cuttack,2023,April,30.6
+East,Odisha,Cuttack,2023,May,13.8
+East,Odisha,Cuttack,2023,June,7.2
+East,Odisha,Cuttack,2023,July,32.0
+East,Odisha,Cuttack,2023,August,19.3
+East,Odisha,Cuttack,2023,September,32.3
+East,Odisha,Cuttack,2023,October,21.9
+East,Odisha,Cuttack,2023,November,31.1
+East,Odisha,Cuttack,2023,December,27.3
+East,Odisha,Puri,2020,January,26.2
+East,Odisha,Puri,2020,February,21.2
+East,Odisha,Puri,2020,March,33.7
+East,Odisha,Puri,2020,April,7.2
+East,Odisha,Puri,2020,May,31.1
+East,Odisha,Puri,2020,June,34.8
+East,Odisha,Puri,2020,July,35.7
+East,Odisha,Puri,2020,August,24.6
+East,Odisha,Puri,2020,September,25.4
+East,Odisha,Puri,2020,October,33.6
+East,Odisha,Puri,2020,November,30.8
+East,Odisha,Puri,2020,December,8.0
+East,Odisha,Puri,2021,January,13.8
+East,Odisha,Puri,2021,February,30.1
+East,Odisha,Puri,2021,March,15.5
+East,Odisha,Puri,2021,April,6.0
+East,Odisha,Puri,2021,May,8.3
+East,Odisha,Puri,2021,June,13.4
+East,Odisha,Puri,2021,July,6.2
+East,Odisha,Puri,2021,August,31.0
+East,Odisha,Puri,2021,September,34.6
+East,Odisha,Puri,2021,October,32.4
+East,Odisha,Puri,2021,November,6.9
+East,Odisha,Puri,2021,December,23.4
+East,Odisha,Puri,2022,January,-1.1
+East,Odisha,Puri,2022,February,7.2
+East,Odisha,Puri,2022,March,23.1
+East,Odisha,Puri,2022,April,37.0
+East,Odisha,Puri,2022,May,37.4
+East,Odisha,Puri,2022,June,33.9
+East,Odisha,Puri,2022,July,39.7
+East,Odisha,Puri,2022,August,39.1
+East,Odisha,Puri,2022,September,15.8
+East,Odisha,Puri,2022,October,10.8
+East,Odisha,Puri,2022,November,36.2
+East,Odisha,Puri,2022,December,26.6
+East,Odisha,Puri,2023,January,13.6
+East,Odisha,Puri,2023,February,10.2
+East,Odisha,Puri,2023,March,7.2
+East,Odisha,Puri,2023,April,12.5
+East,Odisha,Puri,2023,May,21.4
+East,Odisha,Puri,2023,June,19.5
+East,Odisha,Puri,2023,July,30.3
+East,Odisha,Puri,2023,August,14.4
+East,Odisha,Puri,2023,September,7.4
+East,Odisha,Puri,2023,October,38.0
+East,Odisha,Puri,2023,November,28.6
+East,Odisha,Puri,2023,December,23.0
+East,Bihar,Patna,2020,January,13.1
+East,Bihar,Patna,2020,February,5.4
+East,Bihar,Patna,2020,March,13.3
+East,Bihar,Patna,2020,April,39.8
+East,Bihar,Patna,2020,May,16.9
+East,Bihar,Patna,2020,June,20.5
+East,Bihar,Patna,2020,July,26.2
+East,Bihar,Patna,2020,August,30.0
+East,Bihar,Patna,2020,September,33.1
+East,Bihar,Patna,2020,October,16.3
+East,Bihar,Patna,2020,November,35.3
+East,Bihar,Patna,2020,December,23.4
+East,Bihar,Patna,2021,January,4.9
+East,Bihar,Patna,2021,February,11.3
+East,Bihar,Patna,2021,March,25.8
+East,Bihar,Patna,2021,April,18.9
+East,Bihar,Patna,2021,May,28.4
+East,Bihar,Patna,2021,June,7.0
+East,Bihar,Patna,2021,July,20.5
+East,Bihar,Patna,2021,August,17.0
+East,Bihar,Patna,2021,September,25.2
+East,Bihar,Patna,2021,October,35.3
+East,Bihar,Patna,2021,November,31.3
+East,Bihar,Patna,2021,December,4.2
+East,Bihar,Patna,2022,January,1.9
+East,Bihar,Patna,2022,February,0.3
+East,Bihar,Patna,2022,March,9.4
+East,Bihar,Patna,2022,April,13.7
+East,Bihar,Patna,2022,May,16.5
+East,Bihar,Patna,2022,June,10.0
+East,Bihar,Patna,2022,July,25.8
+East,Bihar,Patna,2022,August,37.5
+East,Bihar,Patna,2022,September,27.1
+East,Bihar,Patna,2022,October,26.8
+East,Bihar,Patna,2022,November,24.8
+East,Bihar,Patna,2022,December,18.6
+East,Bihar,Patna,2023,January,10.7
+East,Bihar,Patna,2023,February,32.1
+East,Bihar,Patna,2023,March,11.1
+East,Bihar,Patna,2023,April,34.0
+East,Bihar,Patna,2023,May,30.8
+East,Bihar,Patna,2023,June,20.1
+East,Bihar,Patna,2023,July,21.2
+East,Bihar,Patna,2023,August,17.5
+East,Bihar,Patna,2023,September,23.4
+East,Bihar,Patna,2023,October,31.3
+East,Bihar,Patna,2023,November,39.4
+East,Bihar,Patna,2023,December,25.4
+East,Bihar,Gaya,2020,January,15.1
+East,Bihar,Gaya,2020,February,11.8
+East,Bihar,Gaya,2020,March,21.6
+East,Bihar,Gaya,2020,April,23.9
+East,Bihar,Gaya,2020,May,33.3
+East,Bihar,Gaya,2020,June,17.8
+East,Bihar,Gaya,2020,July,29.6
+East,Bihar,Gaya,2020,August,10.1
+East,Bihar,Gaya,2020,September,30.9
+East,Bihar,Gaya,2020,October,8.6
+East,Bihar,Gaya,2020,November,7.1
+East,Bihar,Gaya,2020,December,0.2
+East,Bihar,Gaya,2021,January,14.5
+East,Bihar,Gaya,2021,February,10.1
+East,Bihar,Gaya,2021,March,20.3
+East,Bihar,Gaya,2021,April,32.2
+East,Bihar,Gaya,2021,May,20.0
+East,Bihar,Gaya,2021,June,8.0
+East,Bihar,Gaya,2021,July,5.2
+East,Bihar,Gaya,2021,August,17.8
+East,Bihar,Gaya,2021,September,16.7
+East,Bihar,Gaya,2021,October,38.1
+East,Bihar,Gaya,2021,November,24.8
+East,Bihar,Gaya,2021,December,25.8
+East,Bihar,Gaya,2022,January,9.4
+East,Bihar,Gaya,2022,February,27.3
+East,Bihar,Gaya,2022,March,13.8
+East,Bihar,Gaya,2022,April,12.7
+East,Bihar,Gaya,2022,May,18.5
+East,Bihar,Gaya,2022,June,12.3
+East,Bihar,Gaya,2022,July,31.7
+East,Bihar,Gaya,2022,August,38.2
+East,Bihar,Gaya,2022,September,15.8
+East,Bihar,Gaya,2022,October,6.2
+East,Bihar,Gaya,2022,November,19.1
+East,Bihar,Gaya,2022,December,2.6
+East,Bihar,Gaya,2023,January,23.0
+East,Bihar,Gaya,2023,February,9.4
+East,Bihar,Gaya,2023,March,39.7
+East,Bihar,Gaya,2023,April,32.2
+East,Bihar,Gaya,2023,May,35.0
+East,Bihar,Gaya,2023,June,29.8
+East,Bihar,Gaya,2023,July,33.0
+East,Bihar,Gaya,2023,August,10.2
+East,Bihar,Gaya,2023,September,7.9
+East,Bihar,Gaya,2023,October,16.2
+East,Bihar,Gaya,2023,November,16.0
+East,Bihar,Gaya,2023,December,32.8
+East,Bihar,Muzaffarpur,2020,January,5.2
+East,Bihar,Muzaffarpur,2020,February,-1.7
+East,Bihar,Muzaffarpur,2020,March,29.4
+East,Bihar,Muzaffarpur,2020,April,12.7
+East,Bihar,Muzaffarpur,2020,May,20.0
+East,Bihar,Muzaffarpur,2020,June,22.5
+East,Bihar,Muzaffarpur,2020,July,10.2
+East,Bihar,Muzaffarpur,2020,August,14.9
+East,Bihar,Muzaffarpur,2020,September,28.7
+East,Bihar,Muzaffarpur,2020,October,36.7
+East,Bihar,Muzaffarpur,2020,November,26.7
+East,Bihar,Muzaffarpur,2020,December,25.0
+East,Bihar,Muzaffarpur,2021,January,6.0
+East,Bihar,Muzaffarpur,2021,February,26.0
+East,Bihar,Muzaffarpur,2021,March,19.0
+East,Bihar,Muzaffarpur,2021,April,35.5
+East,Bihar,Muzaffarpur,2021,May,34.9
+East,Bihar,Muzaffarpur,2021,June,24.2
+East,Bihar,Muzaffarpur,2021,July,36.5
+East,Bihar,Muzaffarpur,2021,August,32.5
+East,Bihar,Muzaffarpur,2021,September,18.2
+East,Bihar,Muzaffarpur,2021,October,17.2
+East,Bihar,Muzaffarpur,2021,November,31.7
+East,Bihar,Muzaffarpur,2021,December,21.4
+East,Bihar,Muzaffarpur,2022,January,8.0
+East,Bihar,Muzaffarpur,2022,February,20.2
+East,Bihar,Muzaffarpur,2022,March,32.1
+East,Bihar,Muzaffarpur,2022,April,28.2
+East,Bihar,Muzaffarpur,2022,May,30.9
+East,Bihar,Muzaffarpur,2022,June,20.2
+East,Bihar,Muzaffarpur,2022,July,19.7
+East,Bihar,Muzaffarpur,2022,August,9.9
+East,Bihar,Muzaffarpur,2022,September,38.7
+East,Bihar,Muzaffarpur,2022,October,7.0
+East,Bihar,Muzaffarpur,2022,November,15.6
+East,Bihar,Muzaffarpur,2022,December,-1.3
+East,Bihar,Muzaffarpur,2023,January,26.3
+East,Bihar,Muzaffarpur,2023,February,32.9
+East,Bihar,Muzaffarpur,2023,March,25.3
+East,Bihar,Muzaffarpur,2023,April,26.0
+East,Bihar,Muzaffarpur,2023,May,26.4
+East,Bihar,Muzaffarpur,2023,June,31.9
+East,Bihar,Muzaffarpur,2023,July,39.1
+East,Bihar,Muzaffarpur,2023,August,30.4
+East,Bihar,Muzaffarpur,2023,September,18.1
+East,Bihar,Muzaffarpur,2023,October,31.5
+East,Bihar,Muzaffarpur,2023,November,33.7
+East,Bihar,Muzaffarpur,2023,December,-0.9
+East,Jharkhand,Ranchi,2020,January,17.2
+East,Jharkhand,Ranchi,2020,February,13.3
+East,Jharkhand,Ranchi,2020,March,29.7
+East,Jharkhand,Ranchi,2020,April,7.2
+East,Jharkhand,Ranchi,2020,May,13.9
+East,Jharkhand,Ranchi,2020,June,20.9
+East,Jharkhand,Ranchi,2020,July,5.1
+East,Jharkhand,Ranchi,2020,August,38.8
+East,Jharkhand,Ranchi,2020,September,7.7
+East,Jharkhand,Ranchi,2020,October,24.1
+East,Jharkhand,Ranchi,2020,November,5.9
+East,Jharkhand,Ranchi,2020,December,21.3
+East,Jharkhand,Ranchi,2021,January,25.8
+East,Jharkhand,Ranchi,2021,February,28.1
+East,Jharkhand,Ranchi,2021,March,36.2
+East,Jharkhand,Ranchi,2021,April,29.9
+East,Jharkhand,Ranchi,2021,May,23.5
+East,Jharkhand,Ranchi,2021,June,22.5
+East,Jharkhand,Ranchi,2021,July,9.9
+East,Jharkhand,Ranchi,2021,August,7.9
+East,Jharkhand,Ranchi,2021,September,23.2
+East,Jharkhand,Ranchi,2021,October,31.3
+East,Jharkhand,Ranchi,2021,November,6.1
+East,Jharkhand,Ranchi,2021,December,32.3
+East,Jharkhand,Ranchi,2022,January,19.4
+East,Jharkhand,Ranchi,2022,February,27.0
+East,Jharkhand,Ranchi,2022,March,38.8
+East,Jharkhand,Ranchi,2022,April,18.8
+East,Jharkhand,Ranchi,2022,May,23.2
+East,Jharkhand,Ranchi,2022,June,26.8
+East,Jharkhand,Ranchi,2022,July,24.7
+East,Jharkhand,Ranchi,2022,August,9.9
+East,Jharkhand,Ranchi,2022,September,36.4
+East,Jharkhand,Ranchi,2022,October,5.4
+East,Jharkhand,Ranchi,2022,November,30.4
+East,Jharkhand,Ranchi,2022,December,7.3
+East,Jharkhand,Ranchi,2023,January,12.6
+East,Jharkhand,Ranchi,2023,February,16.9
+East,Jharkhand,Ranchi,2023,March,5.3
+East,Jharkhand,Ranchi,2023,April,29.9
+East,Jharkhand,Ranchi,2023,May,19.2
+East,Jharkhand,Ranchi,2023,June,24.1
+East,Jharkhand,Ranchi,2023,July,10.0
+East,Jharkhand,Ranchi,2023,August,7.0
+East,Jharkhand,Ranchi,2023,September,24.2
+East,Jharkhand,Ranchi,2023,October,20.8
+East,Jharkhand,Ranchi,2023,November,34.3
+East,Jharkhand,Ranchi,2023,December,23.6
+East,Jharkhand,Jamshedpur,2020,January,20.8
+East,Jharkhand,Jamshedpur,2020,February,2.4
+East,Jharkhand,Jamshedpur,2020,March,8.9
+East,Jharkhand,Jamshedpur,2020,April,27.8
+East,Jharkhand,Jamshedpur,2020,May,13.2
+East,Jharkhand,Jamshedpur,2020,June,25.0
+East,Jharkhand,Jamshedpur,2020,July,14.9
+East,Jharkhand,Jamshedpur,2020,August,11.2
+East,Jharkhand,Jamshedpur,2020,September,9.1
+East,Jharkhand,Jamshedpur,2020,October,17.1
+East,Jharkhand,Jamshedpur,2020,November,35.6
+East,Jharkhand,Jamshedpur,2020,December,4.3
+East,Jharkhand,Jamshedpur,2021,January,17.6
+East,Jharkhand,Jamshedpur,2021,February,20.2
+East,Jharkhand,Jamshedpur,2021,March,25.3
+East,Jharkhand,Jamshedpur,2021,April,13.7
+East,Jharkhand,Jamshedpur,2021,May,30.4
+East,Jharkhand,Jamshedpur,2021,June,39.1
+East,Jharkhand,Jamshedpur,2021,July,37.5
+East,Jharkhand,Jamshedpur,2021,August,6.1
+East,Jharkhand,Jamshedpur,2021,September,26.4
+East,Jharkhand,Jamshedpur,2021,October,7.0
+East,Jharkhand,Jamshedpur,2021,November,17.3
+East,Jharkhand,Jamshedpur,2021,December,2.9
+East,Jharkhand,Jamshedpur,2022,January,23.8
+East,Jharkhand,Jamshedpur,2022,February,27.0
+East,Jharkhand,Jamshedpur,2022,March,39.4
+East,Jharkhand,Jamshedpur,2022,April,15.7
+East,Jharkhand,Jamshedpur,2022,May,13.6
+East,Jharkhand,Jamshedpur,2022,June,20.2
+East,Jharkhand,Jamshedpur,2022,July,16.5
+East,Jharkhand,Jamshedpur,2022,August,33.4
+East,Jharkhand,Jamshedpur,2022,September,32.9
+East,Jharkhand,Jamshedpur,2022,October,29.7
+East,Jharkhand,Jamshedpur,2022,November,31.9
+East,Jharkhand,Jamshedpur,2022,December,31.0
+East,Jharkhand,Jamshedpur,2023,January,31.3
+East,Jharkhand,Jamshedpur,2023,February,4.5
+East,Jharkhand,Jamshedpur,2023,March,29.3
+East,Jharkhand,Jamshedpur,2023,April,7.7
+East,Jharkhand,Jamshedpur,2023,May,8.1
+East,Jharkhand,Jamshedpur,2023,June,30.1
+East,Jharkhand,Jamshedpur,2023,July,7.7
+East,Jharkhand,Jamshedpur,2023,August,15.4
+East,Jharkhand,Jamshedpur,2023,September,11.3
+East,Jharkhand,Jamshedpur,2023,October,7.6
+East,Jharkhand,Jamshedpur,2023,November,23.1
+East,Jharkhand,Jamshedpur,2023,December,3.4
+East,Jharkhand,Dhanbad,2020,January,23.6
+East,Jharkhand,Dhanbad,2020,February,13.4
+East,Jharkhand,Dhanbad,2020,March,23.6
+East,Jharkhand,Dhanbad,2020,April,20.6
+East,Jharkhand,Dhanbad,2020,May,8.2
+East,Jharkhand,Dhanbad,2020,June,13.6
+East,Jharkhand,Dhanbad,2020,July,31.6
+East,Jharkhand,Dhanbad,2020,August,12.5
+East,Jharkhand,Dhanbad,2020,September,13.0
+East,Jharkhand,Dhanbad,2020,October,25.4
+East,Jharkhand,Dhanbad,2020,November,22.7
+East,Jharkhand,Dhanbad,2020,December,14.8
+East,Jharkhand,Dhanbad,2021,January,13.6
+East,Jharkhand,Dhanbad,2021,February,35.2
+East,Jharkhand,Dhanbad,2021,March,7.7
+East,Jharkhand,Dhanbad,2021,April,10.7
+East,Jharkhand,Dhanbad,2021,May,16.0
+East,Jharkhand,Dhanbad,2021,June,34.1
+East,Jharkhand,Dhanbad,2021,July,5.7
+East,Jharkhand,Dhanbad,2021,August,23.8
+East,Jharkhand,Dhanbad,2021,September,19.3
+East,Jharkhand,Dhanbad,2021,October,32.7
+East,Jharkhand,Dhanbad,2021,November,18.2
+East,Jharkhand,Dhanbad,2021,December,10.8
+East,Jharkhand,Dhanbad,2022,January,7.5
+East,Jharkhand,Dhanbad,2022,February,12.0
+East,Jharkhand,Dhanbad,2022,March,38.0
+East,Jharkhand,Dhanbad,2022,April,16.6
+East,Jharkhand,Dhanbad,2022,May,16.2
+East,Jharkhand,Dhanbad,2022,June,31.4
+East,Jharkhand,Dhanbad,2022,July,12.4
+East,Jharkhand,Dhanbad,2022,August,14.4
+East,Jharkhand,Dhanbad,2022,September,7.7
+East,Jharkhand,Dhanbad,2022,October,31.1
+East,Jharkhand,Dhanbad,2022,November,17.7
+East,Jharkhand,Dhanbad,2022,December,6.2
+East,Jharkhand,Dhanbad,2023,January,24.4
+East,Jharkhand,Dhanbad,2023,February,4.4
+East,Jharkhand,Dhanbad,2023,March,34.3
+East,Jharkhand,Dhanbad,2023,April,33.4
+East,Jharkhand,Dhanbad,2023,May,27.1
+East,Jharkhand,Dhanbad,2023,June,23.8
+East,Jharkhand,Dhanbad,2023,July,30.4
+East,Jharkhand,Dhanbad,2023,August,36.1
+East,Jharkhand,Dhanbad,2023,September,38.1
+East,Jharkhand,Dhanbad,2023,October,25.2
+East,Jharkhand,Dhanbad,2023,November,26.3
+East,Jharkhand,Dhanbad,2023,December,3.2
+East,Sikkim,Gangtok,2020,January,10.1
+East,Sikkim,Gangtok,2020,February,23.5
+East,Sikkim,Gangtok,2020,March,24.0
+East,Sikkim,Gangtok,2020,April,18.4
+East,Sikkim,Gangtok,2020,May,8.1
+East,Sikkim,Gangtok,2020,June,16.3
+East,Sikkim,Gangtok,2020,July,21.8
+East,Sikkim,Gangtok,2020,August,38.7
+East,Sikkim,Gangtok,2020,September,25.1
+East,Sikkim,Gangtok,2020,October,26.2
+East,Sikkim,Gangtok,2020,November,13.7
+East,Sikkim,Gangtok,2020,December,15.6
+East,Sikkim,Gangtok,2021,January,22.7
+East,Sikkim,Gangtok,2021,February,16.3
+East,Sikkim,Gangtok,2021,March,9.0
+East,Sikkim,Gangtok,2021,April,34.9
+East,Sikkim,Gangtok,2021,May,15.8
+East,Sikkim,Gangtok,2021,June,9.9
+East,Sikkim,Gangtok,2021,July,6.7
+East,Sikkim,Gangtok,2021,August,29.3
+East,Sikkim,Gangtok,2021,September,22.0
+East,Sikkim,Gangtok,2021,October,34.8
+East,Sikkim,Gangtok,2021,November,14.8
+East,Sikkim,Gangtok,2021,December,26.8
+East,Sikkim,Gangtok,2022,January,31.4
+East,Sikkim,Gangtok,2022,February,11.0
+East,Sikkim,Gangtok,2022,March,17.4
+East,Sikkim,Gangtok,2022,April,13.8
+East,Sikkim,Gangtok,2022,May,10.0
+East,Sikkim,Gangtok,2022,June,12.4
+East,Sikkim,Gangtok,2022,July,32.2
+East,Sikkim,Gangtok,2022,August,24.0
+East,Sikkim,Gangtok,2022,September,25.9
+East,Sikkim,Gangtok,2022,October,24.0
+East,Sikkim,Gangtok,2022,November,24.6
+East,Sikkim,Gangtok,2022,December,27.9
+East,Sikkim,Gangtok,2023,January,16.0
+East,Sikkim,Gangtok,2023,February,31.7
+East,Sikkim,Gangtok,2023,March,29.4
+East,Sikkim,Gangtok,2023,April,28.6
+East,Sikkim,Gangtok,2023,May,35.6
+East,Sikkim,Gangtok,2023,June,14.0
+East,Sikkim,Gangtok,2023,July,22.8
+East,Sikkim,Gangtok,2023,August,12.9
+East,Sikkim,Gangtok,2023,September,32.0
+East,Sikkim,Gangtok,2023,October,27.6
+East,Sikkim,Gangtok,2023,November,12.4
+East,Sikkim,Gangtok,2023,December,17.7
+East,Sikkim,Namchi,2020,January,32.0
+East,Sikkim,Namchi,2020,February,33.4
+East,Sikkim,Namchi,2020,March,20.1
+East,Sikkim,Namchi,2020,April,36.7
+East,Sikkim,Namchi,2020,May,15.9
+East,Sikkim,Namchi,2020,June,35.8
+East,Sikkim,Namchi,2020,July,28.9
+East,Sikkim,Namchi,2020,August,13.1
+East,Sikkim,Namchi,2020,September,33.4
+East,Sikkim,Namchi,2020,October,20.2
+East,Sikkim,Namchi,2020,November,12.7
+East,Sikkim,Namchi,2020,December,12.0
+East,Sikkim,Namchi,2021,January,23.7
+East,Sikkim,Namchi,2021,February,12.1
+East,Sikkim,Namchi,2021,March,32.2
+East,Sikkim,Namchi,2021,April,37.3
+East,Sikkim,Namchi,2021,May,27.1
+East,Sikkim,Namchi,2021,June,36.3
+East,Sikkim,Namchi,2021,July,10.1
+East,Sikkim,Namchi,2021,August,8.5
+East,Sikkim,Namchi,2021,September,31.0
+East,Sikkim,Namchi,2021,October,35.6
+East,Sikkim,Namchi,2021,November,9.6
+East,Sikkim,Namchi,2021,December,16.9
+East,Sikkim,Namchi,2022,January,14.0
+East,Sikkim,Namchi,2022,February,25.7
+East,Sikkim,Namchi,2022,March,37.3
+East,Sikkim,Namchi,2022,April,14.6
+East,Sikkim,Namchi,2022,May,35.6
+East,Sikkim,Namchi,2022,June,7.5
+East,Sikkim,Namchi,2022,July,37.6
+East,Sikkim,Namchi,2022,August,39.5
+East,Sikkim,Namchi,2022,September,31.8
+East,Sikkim,Namchi,2022,October,13.4
+East,Sikkim,Namchi,2022,November,16.7
+East,Sikkim,Namchi,2022,December,15.3
+East,Sikkim,Namchi,2023,January,14.7
+East,Sikkim,Namchi,2023,February,23.7
+East,Sikkim,Namchi,2023,March,39.7
+East,Sikkim,Namchi,2023,April,13.1
+East,Sikkim,Namchi,2023,May,24.1
+East,Sikkim,Namchi,2023,June,31.5
+East,Sikkim,Namchi,2023,July,22.7
+East,Sikkim,Namchi,2023,August,33.2
+East,Sikkim,Namchi,2023,September,26.0
+East,Sikkim,Namchi,2023,October,20.7
+East,Sikkim,Namchi,2023,November,18.2
+East,Sikkim,Namchi,2023,December,29.0
+East,Sikkim,Pelling,2020,January,15.2
+East,Sikkim,Pelling,2020,February,30.3
+East,Sikkim,Pelling,2020,March,22.4
+East,Sikkim,Pelling,2020,April,32.3
+East,Sikkim,Pelling,2020,May,8.4
+East,Sikkim,Pelling,2020,June,26.1
+East,Sikkim,Pelling,2020,July,37.5
+East,Sikkim,Pelling,2020,August,26.6
+East,Sikkim,Pelling,2020,September,18.3
+East,Sikkim,Pelling,2020,October,10.9
+East,Sikkim,Pelling,2020,November,27.5
+East,Sikkim,Pelling,2020,December,33.5
+East,Sikkim,Pelling,2021,January,4.1
+East,Sikkim,Pelling,2021,February,-1.4
+East,Sikkim,Pelling,2021,March,34.3
+East,Sikkim,Pelling,2021,April,27.6
+East,Sikkim,Pelling,2021,May,37.3
+East,Sikkim,Pelling,2021,June,22.0
+East,Sikkim,Pelling,2021,July,20.5
+East,Sikkim,Pelling,2021,August,13.3
+East,Sikkim,Pelling,2021,September,20.8
+East,Sikkim,Pelling,2021,October,14.6
+East,Sikkim,Pelling,2021,November,15.7
+East,Sikkim,Pelling,2021,December,37.0
+East,Sikkim,Pelling,2022,January,10.5
+East,Sikkim,Pelling,2022,February,33.1
+East,Sikkim,Pelling,2022,March,17.7
+East,Sikkim,Pelling,2022,April,29.6
+East,Sikkim,Pelling,2022,May,23.5
+East,Sikkim,Pelling,2022,June,27.2
+East,Sikkim,Pelling,2022,July,30.8
+East,Sikkim,Pelling,2022,August,35.8
+East,Sikkim,Pelling,2022,September,35.3
+East,Sikkim,Pelling,2022,October,28.4
+East,Sikkim,Pelling,2022,November,15.1
+East,Sikkim,Pelling,2022,December,11.4
+East,Sikkim,Pelling,2023,January,17.2
+East,Sikkim,Pelling,2023,February,11.5
+East,Sikkim,Pelling,2023,March,33.4
+East,Sikkim,Pelling,2023,April,18.8
+East,Sikkim,Pelling,2023,May,8.3
+East,Sikkim,Pelling,2023,June,39.7
+East,Sikkim,Pelling,2023,July,16.1
+East,Sikkim,Pelling,2023,August,20.4
+East,Sikkim,Pelling,2023,September,13.5
+East,Sikkim,Pelling,2023,October,39.6
+East,Sikkim,Pelling,2023,November,19.2
+East,Sikkim,Pelling,2023,December,29.4
+East,Assam,Guwahati,2020,January,30.1
+East,Assam,Guwahati,2020,February,8.0
+East,Assam,Guwahati,2020,March,26.7
+East,Assam,Guwahati,2020,April,29.1
+East,Assam,Guwahati,2020,May,27.4
+East,Assam,Guwahati,2020,June,21.8
+East,Assam,Guwahati,2020,July,13.1
+East,Assam,Guwahati,2020,August,18.3
+East,Assam,Guwahati,2020,September,30.9
+East,Assam,Guwahati,2020,October,25.6
+East,Assam,Guwahati,2020,November,35.7
+East,Assam,Guwahati,2020,December,15.5
+East,Assam,Guwahati,2021,January,8.4
+East,Assam,Guwahati,2021,February,11.0
+East,Assam,Guwahati,2021,March,9.6
+East,Assam,Guwahati,2021,April,6.3
+East,Assam,Guwahati,2021,May,26.3
+East,Assam,Guwahati,2021,June,30.2
+East,Assam,Guwahati,2021,July,25.6
+East,Assam,Guwahati,2021,August,21.1
+East,Assam,Guwahati,2021,September,16.2
+East,Assam,Guwahati,2021,October,12.8
+East,Assam,Guwahati,2021,November,24.3
+East,Assam,Guwahati,2021,December,21.8
+East,Assam,Guwahati,2022,January,23.9
+East,Assam,Guwahati,2022,February,13.9
+East,Assam,Guwahati,2022,March,16.8
+East,Assam,Guwahati,2022,April,14.3
+East,Assam,Guwahati,2022,May,28.4
+East,Assam,Guwahati,2022,June,32.6
+East,Assam,Guwahati,2022,July,12.0
+East,Assam,Guwahati,2022,August,8.0
+East,Assam,Guwahati,2022,September,19.7
+East,Assam,Guwahati,2022,October,32.2
+East,Assam,Guwahati,2022,November,11.7
+East,Assam,Guwahati,2022,December,4.4
+East,Assam,Guwahati,2023,January,21.6
+East,Assam,Guwahati,2023,February,18.1
+East,Assam,Guwahati,2023,March,9.0
+East,Assam,Guwahati,2023,April,8.0
+East,Assam,Guwahati,2023,May,36.4
+East,Assam,Guwahati,2023,June,28.7
+East,Assam,Guwahati,2023,July,28.6
+East,Assam,Guwahati,2023,August,27.7
+East,Assam,Guwahati,2023,September,19.2
+East,Assam,Guwahati,2023,October,39.9
+East,Assam,Guwahati,2023,November,19.7
+East,Assam,Guwahati,2023,December,5.4
+East,Assam,Silchar,2020,January,9.8
+East,Assam,Silchar,2020,February,26.2
+East,Assam,Silchar,2020,March,5.6
+East,Assam,Silchar,2020,April,22.7
+East,Assam,Silchar,2020,May,28.2
+East,Assam,Silchar,2020,June,7.7
+East,Assam,Silchar,2020,July,37.9
+East,Assam,Silchar,2020,August,17.5
+East,Assam,Silchar,2020,September,39.2
+East,Assam,Silchar,2020,October,31.9
+East,Assam,Silchar,2020,November,37.2
+East,Assam,Silchar,2020,December,9.5
+East,Assam,Silchar,2021,January,24.9
+East,Assam,Silchar,2021,February,15.0
+East,Assam,Silchar,2021,March,14.5
+East,Assam,Silchar,2021,April,16.0
+East,Assam,Silchar,2021,May,28.2
+East,Assam,Silchar,2021,June,16.2
+East,Assam,Silchar,2021,July,22.6
+East,Assam,Silchar,2021,August,16.4
+East,Assam,Silchar,2021,September,11.0
+East,Assam,Silchar,2021,October,9.7
+East,Assam,Silchar,2021,November,20.3
+East,Assam,Silchar,2021,December,11.0
+East,Assam,Silchar,2022,January,19.4
+East,Assam,Silchar,2022,February,12.8
+East,Assam,Silchar,2022,March,38.4
+East,Assam,Silchar,2022,April,17.7
+East,Assam,Silchar,2022,May,24.8
+East,Assam,Silchar,2022,June,18.9
+East,Assam,Silchar,2022,July,36.2
+East,Assam,Silchar,2022,August,35.0
+East,Assam,Silchar,2022,September,36.2
+East,Assam,Silchar,2022,October,25.8
+East,Assam,Silchar,2022,November,39.1
+East,Assam,Silchar,2022,December,16.3
+East,Assam,Silchar,2023,January,9.5
+East,Assam,Silchar,2023,February,19.4
+East,Assam,Silchar,2023,March,20.1
+East,Assam,Silchar,2023,April,7.9
+East,Assam,Silchar,2023,May,29.7
+East,Assam,Silchar,2023,June,27.7
+East,Assam,Silchar,2023,July,24.0
+East,Assam,Silchar,2023,August,15.1
+East,Assam,Silchar,2023,September,19.9
+East,Assam,Silchar,2023,October,35.9
+East,Assam,Silchar,2023,November,24.3
+East,Assam,Silchar,2023,December,15.4
+East,Assam,Dibrugarh,2020,January,28.6
+East,Assam,Dibrugarh,2020,February,14.5
+East,Assam,Dibrugarh,2020,March,37.5
+East,Assam,Dibrugarh,2020,April,15.2
+East,Assam,Dibrugarh,2020,May,32.5
+East,Assam,Dibrugarh,2020,June,17.2
+East,Assam,Dibrugarh,2020,July,22.4
+East,Assam,Dibrugarh,2020,August,12.1
+East,Assam,Dibrugarh,2020,September,32.4
+East,Assam,Dibrugarh,2020,October,20.5
+East,Assam,Dibrugarh,2020,November,34.2
+East,Assam,Dibrugarh,2020,December,1.9
+East,Assam,Dibrugarh,2021,January,6.9
+East,Assam,Dibrugarh,2021,February,14.3
+East,Assam,Dibrugarh,2021,March,37.5
+East,Assam,Dibrugarh,2021,April,26.7
+East,Assam,Dibrugarh,2021,May,31.2
+East,Assam,Dibrugarh,2021,June,37.0
+East,Assam,Dibrugarh,2021,July,12.9
+East,Assam,Dibrugarh,2021,August,18.3
+East,Assam,Dibrugarh,2021,September,5.2
+East,Assam,Dibrugarh,2021,October,14.5
+East,Assam,Dibrugarh,2021,November,18.0
+East,Assam,Dibrugarh,2021,December,27.9
+East,Assam,Dibrugarh,2022,January,14.3
+East,Assam,Dibrugarh,2022,February,39.3
+East,Assam,Dibrugarh,2022,March,19.0
+East,Assam,Dibrugarh,2022,April,7.2
+East,Assam,Dibrugarh,2022,May,6.2
+East,Assam,Dibrugarh,2022,June,21.6
+East,Assam,Dibrugarh,2022,July,27.0
+East,Assam,Dibrugarh,2022,August,34.7
+East,Assam,Dibrugarh,2022,September,10.9
+East,Assam,Dibrugarh,2022,October,20.8
+East,Assam,Dibrugarh,2022,November,11.5
+East,Assam,Dibrugarh,2022,December,29.7
+East,Assam,Dibrugarh,2023,January,27.5
+East,Assam,Dibrugarh,2023,February,10.1
+East,Assam,Dibrugarh,2023,March,7.4
+East,Assam,Dibrugarh,2023,April,6.1
+East,Assam,Dibrugarh,2023,May,29.2
+East,Assam,Dibrugarh,2023,June,23.3
+East,Assam,Dibrugarh,2023,July,8.9
+East,Assam,Dibrugarh,2023,August,6.9
+East,Assam,Dibrugarh,2023,September,29.5
+East,Assam,Dibrugarh,2023,October,29.3
+East,Assam,Dibrugarh,2023,November,15.3
+East,Assam,Dibrugarh,2023,December,20.3
+West,Rajasthan,Jaipur,2020,January,11.2
+West,Rajasthan,Jaipur,2020,February,28.6
+West,Rajasthan,Jaipur,2020,March,25.3
+West,Rajasthan,Jaipur,2020,April,17.3
+West,Rajasthan,Jaipur,2020,May,22.6
+West,Rajasthan,Jaipur,2020,June,39.1
+West,Rajasthan,Jaipur,2020,July,30.1
+West,Rajasthan,Jaipur,2020,August,18.5
+West,Rajasthan,Jaipur,2020,September,21.7
+West,Rajasthan,Jaipur,2020,October,20.2
+West,Rajasthan,Jaipur,2020,November,38.6
+West,Rajasthan,Jaipur,2020,December,7.8
+West,Rajasthan,Jaipur,2021,January,22.0
+West,Rajasthan,Jaipur,2021,February,7.4
+West,Rajasthan,Jaipur,2021,March,24.0
+West,Rajasthan,Jaipur,2021,April,25.1
+West,Rajasthan,Jaipur,2021,May,16.6
+West,Rajasthan,Jaipur,2021,June,11.1
+West,Rajasthan,Jaipur,2021,July,32.3
+West,Rajasthan,Jaipur,2021,August,18.8
+West,Rajasthan,Jaipur,2021,September,36.3
+West,Rajasthan,Jaipur,2021,October,16.6
+West,Rajasthan,Jaipur,2021,November,10.7
+West,Rajasthan,Jaipur,2021,December,26.6
+West,Rajasthan,Jaipur,2022,January,25.8
+West,Rajasthan,Jaipur,2022,February,4.4
+West,Rajasthan,Jaipur,2022,March,35.9
+West,Rajasthan,Jaipur,2022,April,36.2
+West,Rajasthan,Jaipur,2022,May,14.2
+West,Rajasthan,Jaipur,2022,June,16.1
+West,Rajasthan,Jaipur,2022,July,18.5
+West,Rajasthan,Jaipur,2022,August,16.5
+West,Rajasthan,Jaipur,2022,September,26.2
+West,Rajasthan,Jaipur,2022,October,28.7
+West,Rajasthan,Jaipur,2022,November,30.5
+West,Rajasthan,Jaipur,2022,December,21.7
+West,Rajasthan,Jaipur,2023,January,38.3
+West,Rajasthan,Jaipur,2023,February,9.6
+West,Rajasthan,Jaipur,2023,March,33.5
+West,Rajasthan,Jaipur,2023,April,29.3
+West,Rajasthan,Jaipur,2023,May,14.6
+West,Rajasthan,Jaipur,2023,June,13.5
+West,Rajasthan,Jaipur,2023,July,36.9
+West,Rajasthan,Jaipur,2023,August,24.3
+West,Rajasthan,Jaipur,2023,September,22.2
+West,Rajasthan,Jaipur,2023,October,12.0
+West,Rajasthan,Jaipur,2023,November,25.6
+West,Rajasthan,Jaipur,2023,December,9.9
+West,Rajasthan,Jodhpur,2020,January,16.9
+West,Rajasthan,Jodhpur,2020,February,27.5
+West,Rajasthan,Jodhpur,2020,March,25.4
+West,Rajasthan,Jodhpur,2020,April,30.3
+West,Rajasthan,Jodhpur,2020,May,33.7
+West,Rajasthan,Jodhpur,2020,June,31.1
+West,Rajasthan,Jodhpur,2020,July,23.8
+West,Rajasthan,Jodhpur,2020,August,8.2
+West,Rajasthan,Jodhpur,2020,September,35.2
+West,Rajasthan,Jodhpur,2020,October,11.9
+West,Rajasthan,Jodhpur,2020,November,39.5
+West,Rajasthan,Jodhpur,2020,December,26.9
+West,Rajasthan,Jodhpur,2021,January,16.0
+West,Rajasthan,Jodhpur,2021,February,33.7
+West,Rajasthan,Jodhpur,2021,March,31.4
+West,Rajasthan,Jodhpur,2021,April,27.6
+West,Rajasthan,Jodhpur,2021,May,25.7
+West,Rajasthan,Jodhpur,2021,June,31.5
+West,Rajasthan,Jodhpur,2021,July,6.7
+West,Rajasthan,Jodhpur,2021,August,5.4
+West,Rajasthan,Jodhpur,2021,September,13.9
+West,Rajasthan,Jodhpur,2021,October,23.2
+West,Rajasthan,Jodhpur,2021,November,21.2
+West,Rajasthan,Jodhpur,2021,December,2.0
+West,Rajasthan,Jodhpur,2022,January,12.5
+West,Rajasthan,Jodhpur,2022,February,0.5
+West,Rajasthan,Jodhpur,2022,March,39.1
+West,Rajasthan,Jodhpur,2022,April,19.1
+West,Rajasthan,Jodhpur,2022,May,7.4
+West,Rajasthan,Jodhpur,2022,June,26.3
+West,Rajasthan,Jodhpur,2022,July,11.2
+West,Rajasthan,Jodhpur,2022,August,25.7
+West,Rajasthan,Jodhpur,2022,September,13.5
+West,Rajasthan,Jodhpur,2022,October,33.2
+West,Rajasthan,Jodhpur,2022,November,13.1
+West,Rajasthan,Jodhpur,2022,December,25.6
+West,Rajasthan,Jodhpur,2023,January,12.1
+West,Rajasthan,Jodhpur,2023,February,13.9
+West,Rajasthan,Jodhpur,2023,March,21.5
+West,Rajasthan,Jodhpur,2023,April,37.2
+West,Rajasthan,Jodhpur,2023,May,30.6
+West,Rajasthan,Jodhpur,2023,June,15.8
+West,Rajasthan,Jodhpur,2023,July,5.1
+West,Rajasthan,Jodhpur,2023,August,28.8
+West,Rajasthan,Jodhpur,2023,September,31.5
+West,Rajasthan,Jodhpur,2023,October,22.9
+West,Rajasthan,Jodhpur,2023,November,16.7
+West,Rajasthan,Jodhpur,2023,December,30.1
+West,Rajasthan,Udaipur,2020,January,5.0
+West,Rajasthan,Udaipur,2020,February,24.5
+West,Rajasthan,Udaipur,2020,March,38.0
+West,Rajasthan,Udaipur,2020,April,12.0
+West,Rajasthan,Udaipur,2020,May,10.4
+West,Rajasthan,Udaipur,2020,June,35.6
+West,Rajasthan,Udaipur,2020,July,27.4
+West,Rajasthan,Udaipur,2020,August,36.0
+West,Rajasthan,Udaipur,2020,September,11.6
+West,Rajasthan,Udaipur,2020,October,26.6
+West,Rajasthan,Udaipur,2020,November,13.1
+West,Rajasthan,Udaipur,2020,December,26.3
+West,Rajasthan,Udaipur,2021,January,31.1
+West,Rajasthan,Udaipur,2021,February,5.3
+West,Rajasthan,Udaipur,2021,March,22.8
+West,Rajasthan,Udaipur,2021,April,24.5
+West,Rajasthan,Udaipur,2021,May,39.2
+West,Rajasthan,Udaipur,2021,June,31.1
+West,Rajasthan,Udaipur,2021,July,26.8
+West,Rajasthan,Udaipur,2021,August,25.2
+West,Rajasthan,Udaipur,2021,September,36.4
+West,Rajasthan,Udaipur,2021,October,39.9
+West,Rajasthan,Udaipur,2021,November,20.8
+West,Rajasthan,Udaipur,2021,December,36.6
+West,Rajasthan,Udaipur,2022,January,12.7
+West,Rajasthan,Udaipur,2022,February,36.6
+West,Rajasthan,Udaipur,2022,March,7.0
+West,Rajasthan,Udaipur,2022,April,32.2
+West,Rajasthan,Udaipur,2022,May,16.1
+West,Rajasthan,Udaipur,2022,June,28.5
+West,Rajasthan,Udaipur,2022,July,12.0
+West,Rajasthan,Udaipur,2022,August,27.7
+West,Rajasthan,Udaipur,2022,September,13.8
+West,Rajasthan,Udaipur,2022,October,33.9
+West,Rajasthan,Udaipur,2022,November,13.6
+West,Rajasthan,Udaipur,2022,December,16.3
+West,Rajasthan,Udaipur,2023,January,17.9
+West,Rajasthan,Udaipur,2023,February,37.6
+West,Rajasthan,Udaipur,2023,March,26.9
+West,Rajasthan,Udaipur,2023,April,21.5
+West,Rajasthan,Udaipur,2023,May,15.8
+West,Rajasthan,Udaipur,2023,June,28.7
+West,Rajasthan,Udaipur,2023,July,33.2
+West,Rajasthan,Udaipur,2023,August,6.0
+West,Rajasthan,Udaipur,2023,September,39.0
+West,Rajasthan,Udaipur,2023,October,24.6
+West,Rajasthan,Udaipur,2023,November,26.4
+West,Rajasthan,Udaipur,2023,December,12.8
+West,Gujarat,Ahmedabad,2020,January,25.2
+West,Gujarat,Ahmedabad,2020,February,20.7
+West,Gujarat,Ahmedabad,2020,March,31.9
+West,Gujarat,Ahmedabad,2020,April,11.9
+West,Gujarat,Ahmedabad,2020,May,12.9
+West,Gujarat,Ahmedabad,2020,June,11.4
+West,Gujarat,Ahmedabad,2020,July,20.7
+West,Gujarat,Ahmedabad,2020,August,22.7
+West,Gujarat,Ahmedabad,2020,September,25.4
+West,Gujarat,Ahmedabad,2020,October,35.9
+West,Gujarat,Ahmedabad,2020,November,16.6
+West,Gujarat,Ahmedabad,2020,December,-1.6
+West,Gujarat,Ahmedabad,2021,January,13.5
+West,Gujarat,Ahmedabad,2021,February,11.0
+West,Gujarat,Ahmedabad,2021,March,15.3
+West,Gujarat,Ahmedabad,2021,April,25.9
+West,Gujarat,Ahmedabad,2021,May,11.8
+West,Gujarat,Ahmedabad,2021,June,14.2
+West,Gujarat,Ahmedabad,2021,July,15.6
+West,Gujarat,Ahmedabad,2021,August,30.8
+West,Gujarat,Ahmedabad,2021,September,39.7
+West,Gujarat,Ahmedabad,2021,October,23.7
+West,Gujarat,Ahmedabad,2021,November,18.1
+West,Gujarat,Ahmedabad,2021,December,7.3
+West,Gujarat,Ahmedabad,2022,January,16.6
+West,Gujarat,Ahmedabad,2022,February,5.5
+West,Gujarat,Ahmedabad,2022,March,8.4
+West,Gujarat,Ahmedabad,2022,April,30.5
+West,Gujarat,Ahmedabad,2022,May,5.5
+West,Gujarat,Ahmedabad,2022,June,14.9
+West,Gujarat,Ahmedabad,2022,July,9.9
+West,Gujarat,Ahmedabad,2022,August,29.6
+West,Gujarat,Ahmedabad,2022,September,12.0
+West,Gujarat,Ahmedabad,2022,October,8.3
+West,Gujarat,Ahmedabad,2022,November,20.3
+West,Gujarat,Ahmedabad,2022,December,13.3
+West,Gujarat,Ahmedabad,2023,January,7.1
+West,Gujarat,Ahmedabad,2023,February,38.0
+West,Gujarat,Ahmedabad,2023,March,15.9
+West,Gujarat,Ahmedabad,2023,April,10.5
+West,Gujarat,Ahmedabad,2023,May,21.4
+West,Gujarat,Ahmedabad,2023,June,23.1
+West,Gujarat,Ahmedabad,2023,July,34.8
+West,Gujarat,Ahmedabad,2023,August,35.2
+West,Gujarat,Ahmedabad,2023,September,9.5
+West,Gujarat,Ahmedabad,2023,October,27.1
+West,Gujarat,Ahmedabad,2023,November,18.0
+West,Gujarat,Ahmedabad,2023,December,21.6
+West,Gujarat,Surat,2020,January,13.9
+West,Gujarat,Surat,2020,February,-1.6
+West,Gujarat,Surat,2020,March,25.0
+West,Gujarat,Surat,2020,April,14.1
+West,Gujarat,Surat,2020,May,19.8
+West,Gujarat,Surat,2020,June,28.1
+West,Gujarat,Surat,2020,July,8.6
+West,Gujarat,Surat,2020,August,22.2
+West,Gujarat,Surat,2020,September,10.5
+West,Gujarat,Surat,2020,October,35.0
+West,Gujarat,Surat,2020,November,28.3
+West,Gujarat,Surat,2020,December,13.1
+West,Gujarat,Surat,2021,January,32.3
+West,Gujarat,Surat,2021,February,17.0
+West,Gujarat,Surat,2021,March,38.5
+West,Gujarat,Surat,2021,April,17.0
+West,Gujarat,Surat,2021,May,21.2
+West,Gujarat,Surat,2021,June,5.8
+West,Gujarat,Surat,2021,July,9.4
+West,Gujarat,Surat,2021,August,30.3
+West,Gujarat,Surat,2021,September,28.3
+West,Gujarat,Surat,2021,October,29.7
+West,Gujarat,Surat,2021,November,10.2
+West,Gujarat,Surat,2021,December,12.8
+West,Gujarat,Surat,2022,January,4.6
+West,Gujarat,Surat,2022,February,13.6
+West,Gujarat,Surat,2022,March,32.6
+West,Gujarat,Surat,2022,April,15.7
+West,Gujarat,Surat,2022,May,9.8
+West,Gujarat,Surat,2022,June,25.0
+West,Gujarat,Surat,2022,July,23.5
+West,Gujarat,Surat,2022,August,23.6
+West,Gujarat,Surat,2022,September,8.5
+West,Gujarat,Surat,2022,October,10.2
+West,Gujarat,Surat,2022,November,33.4
+West,Gujarat,Surat,2022,December,4.6
+West,Gujarat,Surat,2023,January,30.5
+West,Gujarat,Surat,2023,February,13.5
+West,Gujarat,Surat,2023,March,10.1
+West,Gujarat,Surat,2023,April,5.9
+West,Gujarat,Surat,2023,May,37.1
+West,Gujarat,Surat,2023,June,9.9
+West,Gujarat,Surat,2023,July,32.7
+West,Gujarat,Surat,2023,August,8.4
+West,Gujarat,Surat,2023,September,12.1
+West,Gujarat,Surat,2023,October,15.8
+West,Gujarat,Surat,2023,November,15.9
+West,Gujarat,Surat,2023,December,14.6
+West,Gujarat,Vadodara,2020,January,22.3
+West,Gujarat,Vadodara,2020,February,31.6
+West,Gujarat,Vadodara,2020,March,17.0
+West,Gujarat,Vadodara,2020,April,6.8
+West,Gujarat,Vadodara,2020,May,23.3
+West,Gujarat,Vadodara,2020,June,38.3
+West,Gujarat,Vadodara,2020,July,24.6
+West,Gujarat,Vadodara,2020,August,5.3
+West,Gujarat,Vadodara,2020,September,11.9
+West,Gujarat,Vadodara,2020,October,19.6
+West,Gujarat,Vadodara,2020,November,21.7
+West,Gujarat,Vadodara,2020,December,33.9
+West,Gujarat,Vadodara,2021,January,6.5
+West,Gujarat,Vadodara,2021,February,13.1
+West,Gujarat,Vadodara,2021,March,21.5
+West,Gujarat,Vadodara,2021,April,30.5
+West,Gujarat,Vadodara,2021,May,25.3
+West,Gujarat,Vadodara,2021,June,26.8
+West,Gujarat,Vadodara,2021,July,18.9
+West,Gujarat,Vadodara,2021,August,13.4
+West,Gujarat,Vadodara,2021,September,19.2
+West,Gujarat,Vadodara,2021,October,29.3
+West,Gujarat,Vadodara,2021,November,15.9
+West,Gujarat,Vadodara,2021,December,16.9
+West,Gujarat,Vadodara,2022,January,13.3
+West,Gujarat,Vadodara,2022,February,27.4
+West,Gujarat,Vadodara,2022,March,24.1
+West,Gujarat,Vadodara,2022,April,25.1
+West,Gujarat,Vadodara,2022,May,29.5
+West,Gujarat,Vadodara,2022,June,29.6
+West,Gujarat,Vadodara,2022,July,37.3
+West,Gujarat,Vadodara,2022,August,21.4
+West,Gujarat,Vadodara,2022,September,28.1
+West,Gujarat,Vadodara,2022,October,25.2
+West,Gujarat,Vadodara,2022,November,5.5
+West,Gujarat,Vadodara,2022,December,16.8
+West,Gujarat,Vadodara,2023,January,28.4
+West,Gujarat,Vadodara,2023,February,27.9
+West,Gujarat,Vadodara,2023,March,10.0
+West,Gujarat,Vadodara,2023,April,6.8
+West,Gujarat,Vadodara,2023,May,10.4
+West,Gujarat,Vadodara,2023,June,25.8
+West,Gujarat,Vadodara,2023,July,23.3
+West,Gujarat,Vadodara,2023,August,19.7
+West,Gujarat,Vadodara,2023,September,25.5
+West,Gujarat,Vadodara,2023,October,28.6
+West,Gujarat,Vadodara,2023,November,26.1
+West,Gujarat,Vadodara,2023,December,5.6
+West,Goa,Panaji,2020,January,5.0
+West,Goa,Panaji,2020,February,20.7
+West,Goa,Panaji,2020,March,9.4
+West,Goa,Panaji,2020,April,13.7
+West,Goa,Panaji,2020,May,38.9
+West,Goa,Panaji,2020,June,13.1
+West,Goa,Panaji,2020,July,21.0
+West,Goa,Panaji,2020,August,33.4
+West,Goa,Panaji,2020,September,34.8
+West,Goa,Panaji,2020,October,36.2
+West,Goa,Panaji,2020,November,33.1
+West,Goa,Panaji,2020,December,-3.0
+West,Goa,Panaji,2021,January,10.2
+West,Goa,Panaji,2021,February,22.8
+West,Goa,Panaji,2021,March,30.4
+West,Goa,Panaji,2021,April,8.3
+West,Goa,Panaji,2021,May,7.7
+West,Goa,Panaji,2021,June,30.9
+West,Goa,Panaji,2021,July,37.7
+West,Goa,Panaji,2021,August,16.3
+West,Goa,Panaji,2021,September,36.9
+West,Goa,Panaji,2021,October,15.3
+West,Goa,Panaji,2021,November,21.7
+West,Goa,Panaji,2021,December,29.6
+West,Goa,Panaji,2022,January,23.0
+West,Goa,Panaji,2022,February,21.5
+West,Goa,Panaji,2022,March,8.5
+West,Goa,Panaji,2022,April,15.9
+West,Goa,Panaji,2022,May,31.3
+West,Goa,Panaji,2022,June,7.9
+West,Goa,Panaji,2022,July,34.4
+West,Goa,Panaji,2022,August,21.5
+West,Goa,Panaji,2022,September,18.2
+West,Goa,Panaji,2022,October,14.2
+West,Goa,Panaji,2022,November,19.7
+West,Goa,Panaji,2022,December,18.6
+West,Goa,Panaji,2023,January,30.2
+West,Goa,Panaji,2023,February,18.6
+West,Goa,Panaji,2023,March,34.3
+West,Goa,Panaji,2023,April,21.2
+West,Goa,Panaji,2023,May,5.4
+West,Goa,Panaji,2023,June,16.4
+West,Goa,Panaji,2023,July,6.3
+West,Goa,Panaji,2023,August,24.7
+West,Goa,Panaji,2023,September,36.3
+West,Goa,Panaji,2023,October,9.2
+West,Goa,Panaji,2023,November,30.1
+West,Goa,Panaji,2023,December,38.6
+West,Goa,Margao,2020,January,19.5
+West,Goa,Margao,2020,February,7.9
+West,Goa,Margao,2020,March,8.4
+West,Goa,Margao,2020,April,10.8
+West,Goa,Margao,2020,May,5.8
+West,Goa,Margao,2020,June,13.6
+West,Goa,Margao,2020,July,14.9
+West,Goa,Margao,2020,August,27.4
+West,Goa,Margao,2020,September,22.6
+West,Goa,Margao,2020,October,10.7
+West,Goa,Margao,2020,November,22.7
+West,Goa,Margao,2020,December,20.0
+West,Goa,Margao,2021,January,10.8
+West,Goa,Margao,2021,February,8.3
+West,Goa,Margao,2021,March,31.6
+West,Goa,Margao,2021,April,34.9
+West,Goa,Margao,2021,May,8.1
+West,Goa,Margao,2021,June,30.2
+West,Goa,Margao,2021,July,39.5
+West,Goa,Margao,2021,August,7.2
+West,Goa,Margao,2021,September,13.2
+West,Goa,Margao,2021,October,12.7
+West,Goa,Margao,2021,November,13.1
+West,Goa,Margao,2021,December,15.7
+West,Goa,Margao,2022,January,19.5
+West,Goa,Margao,2022,February,28.3
+West,Goa,Margao,2022,March,21.4
+West,Goa,Margao,2022,April,12.1
+West,Goa,Margao,2022,May,17.7
+West,Goa,Margao,2022,June,23.8
+West,Goa,Margao,2022,July,21.9
+West,Goa,Margao,2022,August,14.1
+West,Goa,Margao,2022,September,38.0
+West,Goa,Margao,2022,October,20.4
+West,Goa,Margao,2022,November,32.6
+West,Goa,Margao,2022,December,36.9
+West,Goa,Margao,2023,January,6.0
+West,Goa,Margao,2023,February,13.7
+West,Goa,Margao,2023,March,34.9
+West,Goa,Margao,2023,April,24.6
+West,Goa,Margao,2023,May,9.0
+West,Goa,Margao,2023,June,38.9
+West,Goa,Margao,2023,July,22.5
+West,Goa,Margao,2023,August,8.5
+West,Goa,Margao,2023,September,13.7
+West,Goa,Margao,2023,October,7.5
+West,Goa,Margao,2023,November,19.1
+West,Goa,Margao,2023,December,3.6
+West,Goa,Vasco da Gama,2020,January,25.7
+West,Goa,Vasco da Gama,2020,February,29.3
+West,Goa,Vasco da Gama,2020,March,33.7
+West,Goa,Vasco da Gama,2020,April,32.1
+West,Goa,Vasco da Gama,2020,May,18.1
+West,Goa,Vasco da Gama,2020,June,12.5
+West,Goa,Vasco da Gama,2020,July,10.0
+West,Goa,Vasco da Gama,2020,August,38.4
+West,Goa,Vasco da Gama,2020,September,9.8
+West,Goa,Vasco da Gama,2020,October,6.0
+West,Goa,Vasco da Gama,2020,November,22.1
+West,Goa,Vasco da Gama,2020,December,20.8
+West,Goa,Vasco da Gama,2021,January,10.3
+West,Goa,Vasco da Gama,2021,February,33.2
+West,Goa,Vasco da Gama,2021,March,30.1
+West,Goa,Vasco da Gama,2021,April,12.8
+West,Goa,Vasco da Gama,2021,May,10.9
+West,Goa,Vasco da Gama,2021,June,10.8
+West,Goa,Vasco da Gama,2021,July,34.9
+West,Goa,Vasco da Gama,2021,August,37.1
+West,Goa,Vasco da Gama,2021,September,14.1
+West,Goa,Vasco da Gama,2021,October,32.1
+West,Goa,Vasco da Gama,2021,November,33.0
+West,Goa,Vasco da Gama,2021,December,7.3
+West,Goa,Vasco da Gama,2022,January,9.7
+West,Goa,Vasco da Gama,2022,February,18.7
+West,Goa,Vasco da Gama,2022,March,13.6
+West,Goa,Vasco da Gama,2022,April,17.9
+West,Goa,Vasco da Gama,2022,May,27.0
+West,Goa,Vasco da Gama,2022,June,32.0
+West,Goa,Vasco da Gama,2022,July,25.4
+West,Goa,Vasco da Gama,2022,August,13.8
+West,Goa,Vasco da Gama,2022,September,34.6
+West,Goa,Vasco da Gama,2022,October,33.2
+West,Goa,Vasco da Gama,2022,November,32.1
+West,Goa,Vasco da Gama,2022,December,31.9
+West,Goa,Vasco da Gama,2023,January,36.8
+West,Goa,Vasco da Gama,2023,February,24.0
+West,Goa,Vasco da Gama,2023,March,22.3
+West,Goa,Vasco da Gama,2023,April,32.4
+West,Goa,Vasco da Gama,2023,May,18.8
+West,Goa,Vasco da Gama,2023,June,37.3
+West,Goa,Vasco da Gama,2023,July,9.7
+West,Goa,Vasco da Gama,2023,August,21.2
+West,Goa,Vasco da Gama,2023,September,27.4
+West,Goa,Vasco da Gama,2023,October,10.0
+West,Goa,Vasco da Gama,2023,November,8.4
+West,Goa,Vasco da Gama,2023,December,-0.3
+West,Maharashtra,Mumbai,2020,January,29.8
+West,Maharashtra,Mumbai,2020,February,32.0
+West,Maharashtra,Mumbai,2020,March,17.7
+West,Maharashtra,Mumbai,2020,April,5.8
+West,Maharashtra,Mumbai,2020,May,14.8
+West,Maharashtra,Mumbai,2020,June,38.5
+West,Maharashtra,Mumbai,2020,July,5.3
+West,Maharashtra,Mumbai,2020,August,38.1
+West,Maharashtra,Mumbai,2020,September,36.0
+West,Maharashtra,Mumbai,2020,October,35.8
+West,Maharashtra,Mumbai,2020,November,20.1
+West,Maharashtra,Mumbai,2020,December,4.3
+West,Maharashtra,Mumbai,2021,January,-3.2
+West,Maharashtra,Mumbai,2021,February,8.9
+West,Maharashtra,Mumbai,2021,March,29.2
+West,Maharashtra,Mumbai,2021,April,36.8
+West,Maharashtra,Mumbai,2021,May,8.6
+West,Maharashtra,Mumbai,2021,June,16.9
+West,Maharashtra,Mumbai,2021,July,25.5
+West,Maharashtra,Mumbai,2021,August,13.1
+West,Maharashtra,Mumbai,2021,September,32.4
+West,Maharashtra,Mumbai,2021,October,26.8
+West,Maharashtra,Mumbai,2021,November,37.8
+West,Maharashtra,Mumbai,2021,December,31.5
+West,Maharashtra,Mumbai,2022,January,12.6
+West,Maharashtra,Mumbai,2022,February,38.3
+West,Maharashtra,Mumbai,2022,March,33.5
+West,Maharashtra,Mumbai,2022,April,33.6
+West,Maharashtra,Mumbai,2022,May,35.1
+West,Maharashtra,Mumbai,2022,June,29.0
+West,Maharashtra,Mumbai,2022,July,20.8
+West,Maharashtra,Mumbai,2022,August,7.7
+West,Maharashtra,Mumbai,2022,September,9.2
+West,Maharashtra,Mumbai,2022,October,15.6
+West,Maharashtra,Mumbai,2022,November,22.5
+West,Maharashtra,Mumbai,2022,December,19.7
+West,Maharashtra,Mumbai,2023,January,36.7
+West,Maharashtra,Mumbai,2023,February,7.6
+West,Maharashtra,Mumbai,2023,March,11.4
+West,Maharashtra,Mumbai,2023,April,12.1
+West,Maharashtra,Mumbai,2023,May,38.9
+West,Maharashtra,Mumbai,2023,June,20.2
+West,Maharashtra,Mumbai,2023,July,32.9
+West,Maharashtra,Mumbai,2023,August,17.0
+West,Maharashtra,Mumbai,2023,September,8.4
+West,Maharashtra,Mumbai,2023,October,28.4
+West,Maharashtra,Mumbai,2023,November,34.2
+West,Maharashtra,Mumbai,2023,December,7.3
+West,Maharashtra,Pune,2020,January,21.9
+West,Maharashtra,Pune,2020,February,22.2
+West,Maharashtra,Pune,2020,March,27.6
+West,Maharashtra,Pune,2020,April,32.0
+West,Maharashtra,Pune,2020,May,39.2
+West,Maharashtra,Pune,2020,June,25.1
+West,Maharashtra,Pune,2020,July,36.3
+West,Maharashtra,Pune,2020,August,24.5
+West,Maharashtra,Pune,2020,September,17.9
+West,Maharashtra,Pune,2020,October,32.5
+West,Maharashtra,Pune,2020,November,11.2
+West,Maharashtra,Pune,2020,December,21.4
+West,Maharashtra,Pune,2021,January,20.3
+West,Maharashtra,Pune,2021,February,14.3
+West,Maharashtra,Pune,2021,March,35.4
+West,Maharashtra,Pune,2021,April,21.4
+West,Maharashtra,Pune,2021,May,38.5
+West,Maharashtra,Pune,2021,June,14.9
+West,Maharashtra,Pune,2021,July,22.0
+West,Maharashtra,Pune,2021,August,25.2
+West,Maharashtra,Pune,2021,September,18.5
+West,Maharashtra,Pune,2021,October,12.3
+West,Maharashtra,Pune,2021,November,5.4
+West,Maharashtra,Pune,2021,December,31.4
+West,Maharashtra,Pune,2022,January,2.2
+West,Maharashtra,Pune,2022,February,-2.0
+West,Maharashtra,Pune,2022,March,7.3
+West,Maharashtra,Pune,2022,April,21.3
+West,Maharashtra,Pune,2022,May,31.8
+West,Maharashtra,Pune,2022,June,8.8
+West,Maharashtra,Pune,2022,July,15.6
+West,Maharashtra,Pune,2022,August,32.8
+West,Maharashtra,Pune,2022,September,27.0
+West,Maharashtra,Pune,2022,October,7.0
+West,Maharashtra,Pune,2022,November,29.5
+West,Maharashtra,Pune,2022,December,16.2
+West,Maharashtra,Pune,2023,January,15.3
+West,Maharashtra,Pune,2023,February,30.8
+West,Maharashtra,Pune,2023,March,22.5
+West,Maharashtra,Pune,2023,April,35.0
+West,Maharashtra,Pune,2023,May,5.4
+West,Maharashtra,Pune,2023,June,38.3
+West,Maharashtra,Pune,2023,July,30.6
+West,Maharashtra,Pune,2023,August,7.4
+West,Maharashtra,Pune,2023,September,7.5
+West,Maharashtra,Pune,2023,October,34.6
+West,Maharashtra,Pune,2023,November,22.6
+West,Maharashtra,Pune,2023,December,19.9
+West,Maharashtra,Nagpur,2020,January,6.9
+West,Maharashtra,Nagpur,2020,February,-0.3
+West,Maharashtra,Nagpur,2020,March,32.3
+West,Maharashtra,Nagpur,2020,April,10.5
+West,Maharashtra,Nagpur,2020,May,23.7
+West,Maharashtra,Nagpur,2020,June,10.6
+West,Maharashtra,Nagpur,2020,July,27.7
+West,Maharashtra,Nagpur,2020,August,19.3
+West,Maharashtra,Nagpur,2020,September,34.4
+West,Maharashtra,Nagpur,2020,October,29.1
+West,Maharashtra,Nagpur,2020,November,35.1
+West,Maharashtra,Nagpur,2020,December,15.5
+West,Maharashtra,Nagpur,2021,January,2.9
+West,Maharashtra,Nagpur,2021,February,17.4
+West,Maharashtra,Nagpur,2021,March,21.2
+West,Maharashtra,Nagpur,2021,April,10.2
+West,Maharashtra,Nagpur,2021,May,27.2
+West,Maharashtra,Nagpur,2021,June,15.2
+West,Maharashtra,Nagpur,2021,July,35.8
+West,Maharashtra,Nagpur,2021,August,37.1
+West,Maharashtra,Nagpur,2021,September,28.3
+West,Maharashtra,Nagpur,2021,October,39.0
+West,Maharashtra,Nagpur,2021,November,37.7
+West,Maharashtra,Nagpur,2021,December,17.3
+West,Maharashtra,Nagpur,2022,January,-2.2
+West,Maharashtra,Nagpur,2022,February,0.4
+West,Maharashtra,Nagpur,2022,March,15.6
+West,Maharashtra,Nagpur,2022,April,25.1
+West,Maharashtra,Nagpur,2022,May,37.4
+West,Maharashtra,Nagpur,2022,June,28.6
+West,Maharashtra,Nagpur,2022,July,13.7
+West,Maharashtra,Nagpur,2022,August,34.4
+West,Maharashtra,Nagpur,2022,September,34.7
+West,Maharashtra,Nagpur,2022,October,6.9
+West,Maharashtra,Nagpur,2022,November,14.6
+West,Maharashtra,Nagpur,2022,December,13.5
+West,Maharashtra,Nagpur,2023,January,16.9
+West,Maharashtra,Nagpur,2023,February,17.5
+West,Maharashtra,Nagpur,2023,March,37.2
+West,Maharashtra,Nagpur,2023,April,22.3
+West,Maharashtra,Nagpur,2023,May,33.5
+West,Maharashtra,Nagpur,2023,June,17.5
+West,Maharashtra,Nagpur,2023,July,17.1
+West,Maharashtra,Nagpur,2023,August,20.9
+West,Maharashtra,Nagpur,2023,September,32.4
+West,Maharashtra,Nagpur,2023,October,6.4
+West,Maharashtra,Nagpur,2023,November,6.0
+West,Maharashtra,Nagpur,2023,December,32.6
+Central,Madhya Pradesh,Bhopal,2020,January,36.0
+Central,Madhya Pradesh,Bhopal,2020,February,6.1
+Central,Madhya Pradesh,Bhopal,2020,March,5.6
+Central,Madhya Pradesh,Bhopal,2020,April,10.2
+Central,Madhya Pradesh,Bhopal,2020,May,39.4
+Central,Madhya Pradesh,Bhopal,2020,June,17.3
+Central,Madhya Pradesh,Bhopal,2020,July,20.3
+Central,Madhya Pradesh,Bhopal,2020,August,35.6
+Central,Madhya Pradesh,Bhopal,2020,September,15.7
+Central,Madhya Pradesh,Bhopal,2020,October,23.5
+Central,Madhya Pradesh,Bhopal,2020,November,31.1
+Central,Madhya Pradesh,Bhopal,2020,December,31.6
+Central,Madhya Pradesh,Bhopal,2021,January,4.4
+Central,Madhya Pradesh,Bhopal,2021,February,29.6
+Central,Madhya Pradesh,Bhopal,2021,March,33.1
+Central,Madhya Pradesh,Bhopal,2021,April,15.9
+Central,Madhya Pradesh,Bhopal,2021,May,25.9
+Central,Madhya Pradesh,Bhopal,2021,June,34.1
+Central,Madhya Pradesh,Bhopal,2021,July,16.9
+Central,Madhya Pradesh,Bhopal,2021,August,22.5
+Central,Madhya Pradesh,Bhopal,2021,September,18.4
+Central,Madhya Pradesh,Bhopal,2021,October,37.7
+Central,Madhya Pradesh,Bhopal,2021,November,20.8
+Central,Madhya Pradesh,Bhopal,2021,December,31.8
+Central,Madhya Pradesh,Bhopal,2022,January,2.2
+Central,Madhya Pradesh,Bhopal,2022,February,1.8
+Central,Madhya Pradesh,Bhopal,2022,March,21.8
+Central,Madhya Pradesh,Bhopal,2022,April,36.5
+Central,Madhya Pradesh,Bhopal,2022,May,10.6
+Central,Madhya Pradesh,Bhopal,2022,June,23.4
+Central,Madhya Pradesh,Bhopal,2022,July,30.8
+Central,Madhya Pradesh,Bhopal,2022,August,6.6
+Central,Madhya Pradesh,Bhopal,2022,September,39.5
+Central,Madhya Pradesh,Bhopal,2022,October,28.4
+Central,Madhya Pradesh,Bhopal,2022,November,20.7
+Central,Madhya Pradesh,Bhopal,2022,December,13.2
+Central,Madhya Pradesh,Bhopal,2023,January,30.7
+Central,Madhya Pradesh,Bhopal,2023,February,27.9
+Central,Madhya Pradesh,Bhopal,2023,March,29.1
+Central,Madhya Pradesh,Bhopal,2023,April,32.7
+Central,Madhya Pradesh,Bhopal,2023,May,29.2
+Central,Madhya Pradesh,Bhopal,2023,June,32.7
+Central,Madhya Pradesh,Bhopal,2023,July,11.7
+Central,Madhya Pradesh,Bhopal,2023,August,26.0
+Central,Madhya Pradesh,Bhopal,2023,September,10.1
+Central,Madhya Pradesh,Bhopal,2023,October,21.0
+Central,Madhya Pradesh,Bhopal,2023,November,16.9
+Central,Madhya Pradesh,Bhopal,2023,December,35.5
+Central,Madhya Pradesh,Indore,2020,January,1.5
+Central,Madhya Pradesh,Indore,2020,February,9.0
+Central,Madhya Pradesh,Indore,2020,March,37.8
+Central,Madhya Pradesh,Indore,2020,April,32.8
+Central,Madhya Pradesh,Indore,2020,May,37.0
+Central,Madhya Pradesh,Indore,2020,June,26.4
+Central,Madhya Pradesh,Indore,2020,July,39.0
+Central,Madhya Pradesh,Indore,2020,August,11.7
+Central,Madhya Pradesh,Indore,2020,September,26.3
+Central,Madhya Pradesh,Indore,2020,October,39.7
+Central,Madhya Pradesh,Indore,2020,November,35.0
+Central,Madhya Pradesh,Indore,2020,December,30.5
+Central,Madhya Pradesh,Indore,2021,January,5.4
+Central,Madhya Pradesh,Indore,2021,February,27.6
+Central,Madhya Pradesh,Indore,2021,March,12.8
+Central,Madhya Pradesh,Indore,2021,April,14.5
+Central,Madhya Pradesh,Indore,2021,May,17.8
+Central,Madhya Pradesh,Indore,2021,June,10.9
+Central,Madhya Pradesh,Indore,2021,July,22.8
+Central,Madhya Pradesh,Indore,2021,August,5.5
+Central,Madhya Pradesh,Indore,2021,September,25.2
+Central,Madhya Pradesh,Indore,2021,October,34.4
+Central,Madhya Pradesh,Indore,2021,November,36.4
+Central,Madhya Pradesh,Indore,2021,December,16.8
+Central,Madhya Pradesh,Indore,2022,January,23.5
+Central,Madhya Pradesh,Indore,2022,February,21.3
+Central,Madhya Pradesh,Indore,2022,March,37.2
+Central,Madhya Pradesh,Indore,2022,April,23.8
+Central,Madhya Pradesh,Indore,2022,May,21.5
+Central,Madhya Pradesh,Indore,2022,June,28.4
+Central,Madhya Pradesh,Indore,2022,July,29.7
+Central,Madhya Pradesh,Indore,2022,August,32.9
+Central,Madhya Pradesh,Indore,2022,September,14.3
+Central,Madhya Pradesh,Indore,2022,October,32.6
+Central,Madhya Pradesh,Indore,2022,November,16.3
+Central,Madhya Pradesh,Indore,2022,December,20.0
+Central,Madhya Pradesh,Indore,2023,January,25.1
+Central,Madhya Pradesh,Indore,2023,February,0.9
+Central,Madhya Pradesh,Indore,2023,March,35.8
+Central,Madhya Pradesh,Indore,2023,April,17.3
+Central,Madhya Pradesh,Indore,2023,May,33.6
+Central,Madhya Pradesh,Indore,2023,June,34.3
+Central,Madhya Pradesh,Indore,2023,July,37.5
+Central,Madhya Pradesh,Indore,2023,August,27.0
+Central,Madhya Pradesh,Indore,2023,September,8.1
+Central,Madhya Pradesh,Indore,2023,October,6.2
+Central,Madhya Pradesh,Indore,2023,November,27.1
+Central,Madhya Pradesh,Indore,2023,December,-2.3
+Central,Madhya Pradesh,Gwalior,2020,January,24.9
+Central,Madhya Pradesh,Gwalior,2020,February,32.0
+Central,Madhya Pradesh,Gwalior,2020,March,32.9
+Central,Madhya Pradesh,Gwalior,2020,April,9.5
+Central,Madhya Pradesh,Gwalior,2020,May,38.2
+Central,Madhya Pradesh,Gwalior,2020,June,36.6
+Central,Madhya Pradesh,Gwalior,2020,July,35.2
+Central,Madhya Pradesh,Gwalior,2020,August,28.3
+Central,Madhya Pradesh,Gwalior,2020,September,26.3
+Central,Madhya Pradesh,Gwalior,2020,October,10.4
+Central,Madhya Pradesh,Gwalior,2020,November,19.6
+Central,Madhya Pradesh,Gwalior,2020,December,11.9
+Central,Madhya Pradesh,Gwalior,2021,January,38.4
+Central,Madhya Pradesh,Gwalior,2021,February,15.6
+Central,Madhya Pradesh,Gwalior,2021,March,29.7
+Central,Madhya Pradesh,Gwalior,2021,April,38.6
+Central,Madhya Pradesh,Gwalior,2021,May,5.9
+Central,Madhya Pradesh,Gwalior,2021,June,21.7
+Central,Madhya Pradesh,Gwalior,2021,July,21.6
+Central,Madhya Pradesh,Gwalior,2021,August,23.4
+Central,Madhya Pradesh,Gwalior,2021,September,30.4
+Central,Madhya Pradesh,Gwalior,2021,October,21.0
+Central,Madhya Pradesh,Gwalior,2021,November,32.8
+Central,Madhya Pradesh,Gwalior,2021,December,18.7
+Central,Madhya Pradesh,Gwalior,2022,January,13.1
+Central,Madhya Pradesh,Gwalior,2022,February,24.4
+Central,Madhya Pradesh,Gwalior,2022,March,5.5
+Central,Madhya Pradesh,Gwalior,2022,April,31.8
+Central,Madhya Pradesh,Gwalior,2022,May,29.1
+Central,Madhya Pradesh,Gwalior,2022,June,25.0
+Central,Madhya Pradesh,Gwalior,2022,July,27.4
+Central,Madhya Pradesh,Gwalior,2022,August,24.3
+Central,Madhya Pradesh,Gwalior,2022,September,19.9
+Central,Madhya Pradesh,Gwalior,2022,October,6.1
+Central,Madhya Pradesh,Gwalior,2022,November,30.5
+Central,Madhya Pradesh,Gwalior,2022,December,25.8
+Central,Madhya Pradesh,Gwalior,2023,January,4.8
+Central,Madhya Pradesh,Gwalior,2023,February,21.4
+Central,Madhya Pradesh,Gwalior,2023,March,8.7
+Central,Madhya Pradesh,Gwalior,2023,April,14.2
+Central,Madhya Pradesh,Gwalior,2023,May,23.3
+Central,Madhya Pradesh,Gwalior,2023,June,8.2
+Central,Madhya Pradesh,Gwalior,2023,July,13.3
+Central,Madhya Pradesh,Gwalior,2023,August,30.6
+Central,Madhya Pradesh,Gwalior,2023,September,32.2
+Central,Madhya Pradesh,Gwalior,2023,October,35.8
+Central,Madhya Pradesh,Gwalior,2023,November,7.3
+Central,Madhya Pradesh,Gwalior,2023,December,17.0
+Central,Chhattisgarh,Raipur,2020,January,7.4
+Central,Chhattisgarh,Raipur,2020,February,30.7
+Central,Chhattisgarh,Raipur,2020,March,17.7
+Central,Chhattisgarh,Raipur,2020,April,29.6
+Central,Chhattisgarh,Raipur,2020,May,27.5
+Central,Chhattisgarh,Raipur,2020,June,12.2
+Central,Chhattisgarh,Raipur,2020,July,34.3
+Central,Chhattisgarh,Raipur,2020,August,15.3
+Central,Chhattisgarh,Raipur,2020,September,8.4
+Central,Chhattisgarh,Raipur,2020,October,9.5
+Central,Chhattisgarh,Raipur,2020,November,15.2
+Central,Chhattisgarh,Raipur,2020,December,26.4
+Central,Chhattisgarh,Raipur,2021,January,27.0
+Central,Chhattisgarh,Raipur,2021,February,13.0
+Central,Chhattisgarh,Raipur,2021,March,13.0
+Central,Chhattisgarh,Raipur,2021,April,10.5
+Central,Chhattisgarh,Raipur,2021,May,33.8
+Central,Chhattisgarh,Raipur,2021,June,5.4
+Central,Chhattisgarh,Raipur,2021,July,18.1
+Central,Chhattisgarh,Raipur,2021,August,37.3
+Central,Chhattisgarh,Raipur,2021,September,34.7
+Central,Chhattisgarh,Raipur,2021,October,15.8
+Central,Chhattisgarh,Raipur,2021,November,33.3
+Central,Chhattisgarh,Raipur,2021,December,13.1
+Central,Chhattisgarh,Raipur,2022,January,31.0
+Central,Chhattisgarh,Raipur,2022,February,9.5
+Central,Chhattisgarh,Raipur,2022,March,26.5
+Central,Chhattisgarh,Raipur,2022,April,9.9
+Central,Chhattisgarh,Raipur,2022,May,17.2
+Central,Chhattisgarh,Raipur,2022,June,18.4
+Central,Chhattisgarh,Raipur,2022,July,11.2
+Central,Chhattisgarh,Raipur,2022,August,7.3
+Central,Chhattisgarh,Raipur,2022,September,20.5
+Central,Chhattisgarh,Raipur,2022,October,17.3
+Central,Chhattisgarh,Raipur,2022,November,36.3
+Central,Chhattisgarh,Raipur,2022,December,1.9
+Central,Chhattisgarh,Raipur,2023,January,14.9
+Central,Chhattisgarh,Raipur,2023,February,14.0
+Central,Chhattisgarh,Raipur,2023,March,35.3
+Central,Chhattisgarh,Raipur,2023,April,11.7
+Central,Chhattisgarh,Raipur,2023,May,32.8
+Central,Chhattisgarh,Raipur,2023,June,33.3
+Central,Chhattisgarh,Raipur,2023,July,27.4
+Central,Chhattisgarh,Raipur,2023,August,15.0
+Central,Chhattisgarh,Raipur,2023,September,23.4
+Central,Chhattisgarh,Raipur,2023,October,36.6
+Central,Chhattisgarh,Raipur,2023,November,36.3
+Central,Chhattisgarh,Raipur,2023,December,8.4
+Central,Chhattisgarh,Bilaspur,2020,January,35.7
+Central,Chhattisgarh,Bilaspur,2020,February,25.1
+Central,Chhattisgarh,Bilaspur,2020,March,32.0
+Central,Chhattisgarh,Bilaspur,2020,April,17.0
+Central,Chhattisgarh,Bilaspur,2020,May,35.7
+Central,Chhattisgarh,Bilaspur,2020,June,31.5
+Central,Chhattisgarh,Bilaspur,2020,July,5.3
+Central,Chhattisgarh,Bilaspur,2020,August,18.8
+Central,Chhattisgarh,Bilaspur,2020,September,8.0
+Central,Chhattisgarh,Bilaspur,2020,October,21.8
+Central,Chhattisgarh,Bilaspur,2020,November,24.2
+Central,Chhattisgarh,Bilaspur,2020,December,29.2
+Central,Chhattisgarh,Bilaspur,2021,January,24.4
+Central,Chhattisgarh,Bilaspur,2021,February,9.6
+Central,Chhattisgarh,Bilaspur,2021,March,11.6
+Central,Chhattisgarh,Bilaspur,2021,April,16.3
+Central,Chhattisgarh,Bilaspur,2021,May,15.0
+Central,Chhattisgarh,Bilaspur,2021,June,21.6
+Central,Chhattisgarh,Bilaspur,2021,July,31.2
+Central,Chhattisgarh,Bilaspur,2021,August,22.9
+Central,Chhattisgarh,Bilaspur,2021,September,12.2
+Central,Chhattisgarh,Bilaspur,2021,October,32.6
+Central,Chhattisgarh,Bilaspur,2021,November,5.4
+Central,Chhattisgarh,Bilaspur,2021,December,32.2
+Central,Chhattisgarh,Bilaspur,2022,January,11.8
+Central,Chhattisgarh,Bilaspur,2022,February,14.8
+Central,Chhattisgarh,Bilaspur,2022,March,16.3
+Central,Chhattisgarh,Bilaspur,2022,April,5.1
+Central,Chhattisgarh,Bilaspur,2022,May,14.3
+Central,Chhattisgarh,Bilaspur,2022,June,9.3
+Central,Chhattisgarh,Bilaspur,2022,July,5.0
+Central,Chhattisgarh,Bilaspur,2022,August,19.9
+Central,Chhattisgarh,Bilaspur,2022,September,38.4
+Central,Chhattisgarh,Bilaspur,2022,October,28.4
+Central,Chhattisgarh,Bilaspur,2022,November,27.4
+Central,Chhattisgarh,Bilaspur,2022,December,16.9
+Central,Chhattisgarh,Bilaspur,2023,January,10.8
+Central,Chhattisgarh,Bilaspur,2023,February,25.4
+Central,Chhattisgarh,Bilaspur,2023,March,22.2
+Central,Chhattisgarh,Bilaspur,2023,April,39.5
+Central,Chhattisgarh,Bilaspur,2023,May,34.8
+Central,Chhattisgarh,Bilaspur,2023,June,37.0
+Central,Chhattisgarh,Bilaspur,2023,July,29.3
+Central,Chhattisgarh,Bilaspur,2023,August,32.3
+Central,Chhattisgarh,Bilaspur,2023,September,30.7
+Central,Chhattisgarh,Bilaspur,2023,October,36.3
+Central,Chhattisgarh,Bilaspur,2023,November,10.7
+Central,Chhattisgarh,Bilaspur,2023,December,1.9
+Central,Chhattisgarh,Durg,2020,January,6.1
+Central,Chhattisgarh,Durg,2020,February,19.1
+Central,Chhattisgarh,Durg,2020,March,17.3
+Central,Chhattisgarh,Durg,2020,April,13.8
+Central,Chhattisgarh,Durg,2020,May,38.8
+Central,Chhattisgarh,Durg,2020,June,30.3
+Central,Chhattisgarh,Durg,2020,July,35.3
+Central,Chhattisgarh,Durg,2020,August,17.6
+Central,Chhattisgarh,Durg,2020,September,11.1
+Central,Chhattisgarh,Durg,2020,October,25.2
+Central,Chhattisgarh,Durg,2020,November,30.7
+Central,Chhattisgarh,Durg,2020,December,21.4
+Central,Chhattisgarh,Durg,2021,January,11.9
+Central,Chhattisgarh,Durg,2021,February,7.0
+Central,Chhattisgarh,Durg,2021,March,20.8
+Central,Chhattisgarh,Durg,2021,April,16.1
+Central,Chhattisgarh,Durg,2021,May,18.4
+Central,Chhattisgarh,Durg,2021,June,37.3
+Central,Chhattisgarh,Durg,2021,July,20.9
+Central,Chhattisgarh,Durg,2021,August,21.4
+Central,Chhattisgarh,Durg,2021,September,36.3
+Central,Chhattisgarh,Durg,2021,October,30.1
+Central,Chhattisgarh,Durg,2021,November,38.3
+Central,Chhattisgarh,Durg,2021,December,15.0
+Central,Chhattisgarh,Durg,2022,January,15.2
+Central,Chhattisgarh,Durg,2022,February,10.5
+Central,Chhattisgarh,Durg,2022,March,8.5
+Central,Chhattisgarh,Durg,2022,April,19.2
+Central,Chhattisgarh,Durg,2022,May,32.4
+Central,Chhattisgarh,Durg,2022,June,6.9
+Central,Chhattisgarh,Durg,2022,July,9.2
+Central,Chhattisgarh,Durg,2022,August,20.9
+Central,Chhattisgarh,Durg,2022,September,14.1
+Central,Chhattisgarh,Durg,2022,October,38.8
+Central,Chhattisgarh,Durg,2022,November,32.5
+Central,Chhattisgarh,Durg,2022,December,30.1
+Central,Chhattisgarh,Durg,2023,January,4.8
+Central,Chhattisgarh,Durg,2023,February,25.5
+Central,Chhattisgarh,Durg,2023,March,31.0
+Central,Chhattisgarh,Durg,2023,April,19.5
+Central,Chhattisgarh,Durg,2023,May,37.8
+Central,Chhattisgarh,Durg,2023,June,30.7
+Central,Chhattisgarh,Durg,2023,July,31.4
+Central,Chhattisgarh,Durg,2023,August,25.5
+Central,Chhattisgarh,Durg,2023,September,12.1
+Central,Chhattisgarh,Durg,2023,October,7.1
+Central,Chhattisgarh,Durg,2023,November,39.8
+Central,Chhattisgarh,Durg,2023,December,2.6
+Northeast,Arunachal Pradesh,Itanagar,2020,January,28.5
+Northeast,Arunachal Pradesh,Itanagar,2020,February,14.7
+Northeast,Arunachal Pradesh,Itanagar,2020,March,34.6
+Northeast,Arunachal Pradesh,Itanagar,2020,April,13.6
+Northeast,Arunachal Pradesh,Itanagar,2020,May,21.7
+Northeast,Arunachal Pradesh,Itanagar,2020,June,27.7
+Northeast,Arunachal Pradesh,Itanagar,2020,July,15.8
+Northeast,Arunachal Pradesh,Itanagar,2020,August,24.1
+Northeast,Arunachal Pradesh,Itanagar,2020,September,18.7
+Northeast,Arunachal Pradesh,Itanagar,2020,October,8.7
+Northeast,Arunachal Pradesh,Itanagar,2020,November,36.9
+Northeast,Arunachal Pradesh,Itanagar,2020,December,35.2
+Northeast,Arunachal Pradesh,Itanagar,2021,January,-0.5
+Northeast,Arunachal Pradesh,Itanagar,2021,February,28.2
+Northeast,Arunachal Pradesh,Itanagar,2021,March,28.8
+Northeast,Arunachal Pradesh,Itanagar,2021,April,27.0
+Northeast,Arunachal Pradesh,Itanagar,2021,May,32.5
+Northeast,Arunachal Pradesh,Itanagar,2021,June,23.6
+Northeast,Arunachal Pradesh,Itanagar,2021,July,6.2
+Northeast,Arunachal Pradesh,Itanagar,2021,August,22.7
+Northeast,Arunachal Pradesh,Itanagar,2021,September,26.0
+Northeast,Arunachal Pradesh,Itanagar,2021,October,37.4
+Northeast,Arunachal Pradesh,Itanagar,2021,November,26.9
+Northeast,Arunachal Pradesh,Itanagar,2021,December,28.0
+Northeast,Arunachal Pradesh,Itanagar,2022,January,13.6
+Northeast,Arunachal Pradesh,Itanagar,2022,February,33.3
+Northeast,Arunachal Pradesh,Itanagar,2022,March,37.3
+Northeast,Arunachal Pradesh,Itanagar,2022,April,32.7
+Northeast,Arunachal Pradesh,Itanagar,2022,May,11.6
+Northeast,Arunachal Pradesh,Itanagar,2022,June,19.3
+Northeast,Arunachal Pradesh,Itanagar,2022,July,38.9
+Northeast,Arunachal Pradesh,Itanagar,2022,August,35.9
+Northeast,Arunachal Pradesh,Itanagar,2022,September,22.9
+Northeast,Arunachal Pradesh,Itanagar,2022,October,35.8
+Northeast,Arunachal Pradesh,Itanagar,2022,November,7.7
+Northeast,Arunachal Pradesh,Itanagar,2022,December,9.2
+Northeast,Arunachal Pradesh,Itanagar,2023,January,19.9
+Northeast,Arunachal Pradesh,Itanagar,2023,February,10.4
+Northeast,Arunachal Pradesh,Itanagar,2023,March,32.2
+Northeast,Arunachal Pradesh,Itanagar,2023,April,31.1
+Northeast,Arunachal Pradesh,Itanagar,2023,May,26.5
+Northeast,Arunachal Pradesh,Itanagar,2023,June,33.0
+Northeast,Arunachal Pradesh,Itanagar,2023,July,12.8
+Northeast,Arunachal Pradesh,Itanagar,2023,August,5.3
+Northeast,Arunachal Pradesh,Itanagar,2023,September,37.8
+Northeast,Arunachal Pradesh,Itanagar,2023,October,9.7
+Northeast,Arunachal Pradesh,Itanagar,2023,November,36.7
+Northeast,Arunachal Pradesh,Itanagar,2023,December,4.5
+Northeast,Arunachal Pradesh,Tawang,2020,January,14.2
+Northeast,Arunachal Pradesh,Tawang,2020,February,31.7
+Northeast,Arunachal Pradesh,Tawang,2020,March,26.0
+Northeast,Arunachal Pradesh,Tawang,2020,April,31.4
+Northeast,Arunachal Pradesh,Tawang,2020,May,11.2
+Northeast,Arunachal Pradesh,Tawang,2020,June,7.0
+Northeast,Arunachal Pradesh,Tawang,2020,July,25.3
+Northeast,Arunachal Pradesh,Tawang,2020,August,25.1
+Northeast,Arunachal Pradesh,Tawang,2020,September,5.5
+Northeast,Arunachal Pradesh,Tawang,2020,October,22.0
+Northeast,Arunachal Pradesh,Tawang,2020,November,18.9
+Northeast,Arunachal Pradesh,Tawang,2020,December,1.4
+Northeast,Arunachal Pradesh,Tawang,2021,January,13.7
+Northeast,Arunachal Pradesh,Tawang,2021,February,5.7
+Northeast,Arunachal Pradesh,Tawang,2021,March,20.4
+Northeast,Arunachal Pradesh,Tawang,2021,April,31.1
+Northeast,Arunachal Pradesh,Tawang,2021,May,15.4
+Northeast,Arunachal Pradesh,Tawang,2021,June,12.9
+Northeast,Arunachal Pradesh,Tawang,2021,July,24.1
+Northeast,Arunachal Pradesh,Tawang,2021,August,19.4
+Northeast,Arunachal Pradesh,Tawang,2021,September,9.4
+Northeast,Arunachal Pradesh,Tawang,2021,October,13.9
+Northeast,Arunachal Pradesh,Tawang,2021,November,5.9
+Northeast,Arunachal Pradesh,Tawang,2021,December,19.7
+Northeast,Arunachal Pradesh,Tawang,2022,January,32.9
+Northeast,Arunachal Pradesh,Tawang,2022,February,0.0
+Northeast,Arunachal Pradesh,Tawang,2022,March,23.5
+Northeast,Arunachal Pradesh,Tawang,2022,April,13.9
+Northeast,Arunachal Pradesh,Tawang,2022,May,7.0
+Northeast,Arunachal Pradesh,Tawang,2022,June,37.7
+Northeast,Arunachal Pradesh,Tawang,2022,July,12.9
+Northeast,Arunachal Pradesh,Tawang,2022,August,28.0
+Northeast,Arunachal Pradesh,Tawang,2022,September,10.9
+Northeast,Arunachal Pradesh,Tawang,2022,October,9.5
+Northeast,Arunachal Pradesh,Tawang,2022,November,25.6
+Northeast,Arunachal Pradesh,Tawang,2022,December,19.8
+Northeast,Arunachal Pradesh,Tawang,2023,January,15.4
+Northeast,Arunachal Pradesh,Tawang,2023,February,5.0
+Northeast,Arunachal Pradesh,Tawang,2023,March,8.3
+Northeast,Arunachal Pradesh,Tawang,2023,April,14.1
+Northeast,Arunachal Pradesh,Tawang,2023,May,35.0
+Northeast,Arunachal Pradesh,Tawang,2023,June,10.5
+Northeast,Arunachal Pradesh,Tawang,2023,July,9.8
+Northeast,Arunachal Pradesh,Tawang,2023,August,5.8
+Northeast,Arunachal Pradesh,Tawang,2023,September,11.7
+Northeast,Arunachal Pradesh,Tawang,2023,October,27.7
+Northeast,Arunachal Pradesh,Tawang,2023,November,8.2
+Northeast,Arunachal Pradesh,Tawang,2023,December,16.2
+Northeast,Arunachal Pradesh,Pasighat,2020,January,12.3
+Northeast,Arunachal Pradesh,Pasighat,2020,February,-2.3
+Northeast,Arunachal Pradesh,Pasighat,2020,March,33.3
+Northeast,Arunachal Pradesh,Pasighat,2020,April,33.5
+Northeast,Arunachal Pradesh,Pasighat,2020,May,18.6
+Northeast,Arunachal Pradesh,Pasighat,2020,June,16.1
+Northeast,Arunachal Pradesh,Pasighat,2020,July,16.3
+Northeast,Arunachal Pradesh,Pasighat,2020,August,36.6
+Northeast,Arunachal Pradesh,Pasighat,2020,September,30.9
+Northeast,Arunachal Pradesh,Pasighat,2020,October,28.0
+Northeast,Arunachal Pradesh,Pasighat,2020,November,34.7
+Northeast,Arunachal Pradesh,Pasighat,2020,December,5.8
+Northeast,Arunachal Pradesh,Pasighat,2021,January,20.2
+Northeast,Arunachal Pradesh,Pasighat,2021,February,20.8
+Northeast,Arunachal Pradesh,Pasighat,2021,March,17.7
+Northeast,Arunachal Pradesh,Pasighat,2021,April,39.8
+Northeast,Arunachal Pradesh,Pasighat,2021,May,31.4
+Northeast,Arunachal Pradesh,Pasighat,2021,June,21.8
+Northeast,Arunachal Pradesh,Pasighat,2021,July,14.5
+Northeast,Arunachal Pradesh,Pasighat,2021,August,17.5
+Northeast,Arunachal Pradesh,Pasighat,2021,September,23.9
+Northeast,Arunachal Pradesh,Pasighat,2021,October,36.3
+Northeast,Arunachal Pradesh,Pasighat,2021,November,11.5
+Northeast,Arunachal Pradesh,Pasighat,2021,December,16.0
+Northeast,Arunachal Pradesh,Pasighat,2022,January,-1.4
+Northeast,Arunachal Pradesh,Pasighat,2022,February,19.0
+Northeast,Arunachal Pradesh,Pasighat,2022,March,32.4
+Northeast,Arunachal Pradesh,Pasighat,2022,April,26.5
+Northeast,Arunachal Pradesh,Pasighat,2022,May,16.6
+Northeast,Arunachal Pradesh,Pasighat,2022,June,12.3
+Northeast,Arunachal Pradesh,Pasighat,2022,July,17.5
+Northeast,Arunachal Pradesh,Pasighat,2022,August,33.0
+Northeast,Arunachal Pradesh,Pasighat,2022,September,35.7
+Northeast,Arunachal Pradesh,Pasighat,2022,October,8.6
+Northeast,Arunachal Pradesh,Pasighat,2022,November,9.7
+Northeast,Arunachal Pradesh,Pasighat,2022,December,11.8
+Northeast,Arunachal Pradesh,Pasighat,2023,January,13.6
+Northeast,Arunachal Pradesh,Pasighat,2023,February,17.5
+Northeast,Arunachal Pradesh,Pasighat,2023,March,7.7
+Northeast,Arunachal Pradesh,Pasighat,2023,April,11.8
+Northeast,Arunachal Pradesh,Pasighat,2023,May,14.0
+Northeast,Arunachal Pradesh,Pasighat,2023,June,19.7
+Northeast,Arunachal Pradesh,Pasighat,2023,July,18.4
+Northeast,Arunachal Pradesh,Pasighat,2023,August,16.3
+Northeast,Arunachal Pradesh,Pasighat,2023,September,39.8
+Northeast,Arunachal Pradesh,Pasighat,2023,October,29.9
+Northeast,Arunachal Pradesh,Pasighat,2023,November,29.3
+Northeast,Arunachal Pradesh,Pasighat,2023,December,11.9
+Northeast,Manipur,Imphal,2020,January,8.3
+Northeast,Manipur,Imphal,2020,February,34.7
+Northeast,Manipur,Imphal,2020,March,26.4
+Northeast,Manipur,Imphal,2020,April,16.9
+Northeast,Manipur,Imphal,2020,May,21.1
+Northeast,Manipur,Imphal,2020,June,38.0
+Northeast,Manipur,Imphal,2020,July,16.4
+Northeast,Manipur,Imphal,2020,August,19.9
+Northeast,Manipur,Imphal,2020,September,21.3
+Northeast,Manipur,Imphal,2020,October,30.4
+Northeast,Manipur,Imphal,2020,November,28.9
+Northeast,Manipur,Imphal,2020,December,33.2
+Northeast,Manipur,Imphal,2021,January,15.1
+Northeast,Manipur,Imphal,2021,February,7.1
+Northeast,Manipur,Imphal,2021,March,32.8
+Northeast,Manipur,Imphal,2021,April,22.9
+Northeast,Manipur,Imphal,2021,May,22.4
+Northeast,Manipur,Imphal,2021,June,31.9
+Northeast,Manipur,Imphal,2021,July,37.1
+Northeast,Manipur,Imphal,2021,August,17.6
+Northeast,Manipur,Imphal,2021,September,9.1
+Northeast,Manipur,Imphal,2021,October,11.7
+Northeast,Manipur,Imphal,2021,November,13.0
+Northeast,Manipur,Imphal,2021,December,13.8
+Northeast,Manipur,Imphal,2022,January,33.9
+Northeast,Manipur,Imphal,2022,February,1.2
+Northeast,Manipur,Imphal,2022,March,5.7
+Northeast,Manipur,Imphal,2022,April,13.5
+Northeast,Manipur,Imphal,2022,May,19.4
+Northeast,Manipur,Imphal,2022,June,39.6
+Northeast,Manipur,Imphal,2022,July,36.1
+Northeast,Manipur,Imphal,2022,August,24.9
+Northeast,Manipur,Imphal,2022,September,39.2
+Northeast,Manipur,Imphal,2022,October,32.8
+Northeast,Manipur,Imphal,2022,November,6.9
+Northeast,Manipur,Imphal,2022,December,-3.1
+Northeast,Manipur,Imphal,2023,January,17.2
+Northeast,Manipur,Imphal,2023,February,2.5
+Northeast,Manipur,Imphal,2023,March,22.5
+Northeast,Manipur,Imphal,2023,April,15.8
+Northeast,Manipur,Imphal,2023,May,39.2
+Northeast,Manipur,Imphal,2023,June,29.9
+Northeast,Manipur,Imphal,2023,July,29.7
+Northeast,Manipur,Imphal,2023,August,16.4
+Northeast,Manipur,Imphal,2023,September,18.0
+Northeast,Manipur,Imphal,2023,October,13.6
+Northeast,Manipur,Imphal,2023,November,33.6
+Northeast,Manipur,Imphal,2023,December,14.1
+Northeast,Manipur,Churachandpur,2020,January,16.1
+Northeast,Manipur,Churachandpur,2020,February,10.3
+Northeast,Manipur,Churachandpur,2020,March,34.7
+Northeast,Manipur,Churachandpur,2020,April,19.5
+Northeast,Manipur,Churachandpur,2020,May,19.7
+Northeast,Manipur,Churachandpur,2020,June,21.6
+Northeast,Manipur,Churachandpur,2020,July,26.9
+Northeast,Manipur,Churachandpur,2020,August,9.4
+Northeast,Manipur,Churachandpur,2020,September,27.9
+Northeast,Manipur,Churachandpur,2020,October,25.5
+Northeast,Manipur,Churachandpur,2020,November,35.1
+Northeast,Manipur,Churachandpur,2020,December,21.2
+Northeast,Manipur,Churachandpur,2021,January,20.1
+Northeast,Manipur,Churachandpur,2021,February,35.5
+Northeast,Manipur,Churachandpur,2021,March,39.0
+Northeast,Manipur,Churachandpur,2021,April,30.4
+Northeast,Manipur,Churachandpur,2021,May,34.6
+Northeast,Manipur,Churachandpur,2021,June,37.6
+Northeast,Manipur,Churachandpur,2021,July,9.5
+Northeast,Manipur,Churachandpur,2021,August,24.9
+Northeast,Manipur,Churachandpur,2021,September,35.5
+Northeast,Manipur,Churachandpur,2021,October,14.7
+Northeast,Manipur,Churachandpur,2021,November,38.1
+Northeast,Manipur,Churachandpur,2021,December,24.3
+Northeast,Manipur,Churachandpur,2022,January,8.2
+Northeast,Manipur,Churachandpur,2022,February,18.1
+Northeast,Manipur,Churachandpur,2022,March,21.1
+Northeast,Manipur,Churachandpur,2022,April,16.7
+Northeast,Manipur,Churachandpur,2022,May,13.2
+Northeast,Manipur,Churachandpur,2022,June,35.0
+Northeast,Manipur,Churachandpur,2022,July,32.9
+Northeast,Manipur,Churachandpur,2022,August,23.3
+Northeast,Manipur,Churachandpur,2022,September,18.8
+Northeast,Manipur,Churachandpur,2022,October,18.7
+Northeast,Manipur,Churachandpur,2022,November,12.6
+Northeast,Manipur,Churachandpur,2022,December,19.5
+Northeast,Manipur,Churachandpur,2023,January,2.0
+Northeast,Manipur,Churachandpur,2023,February,4.5
+Northeast,Manipur,Churachandpur,2023,March,20.3
+Northeast,Manipur,Churachandpur,2023,April,35.9
+Northeast,Manipur,Churachandpur,2023,May,33.5
+Northeast,Manipur,Churachandpur,2023,June,7.2
+Northeast,Manipur,Churachandpur,2023,July,6.9
+Northeast,Manipur,Churachandpur,2023,August,28.1
+Northeast,Manipur,Churachandpur,2023,September,30.7
+Northeast,Manipur,Churachandpur,2023,October,37.4
+Northeast,Manipur,Churachandpur,2023,November,14.1
+Northeast,Manipur,Churachandpur,2023,December,25.6
+Northeast,Manipur,Thoubal,2020,January,7.5
+Northeast,Manipur,Thoubal,2020,February,21.7
+Northeast,Manipur,Thoubal,2020,March,8.8
+Northeast,Manipur,Thoubal,2020,April,18.8
+Northeast,Manipur,Thoubal,2020,May,39.9
+Northeast,Manipur,Thoubal,2020,June,14.3
+Northeast,Manipur,Thoubal,2020,July,36.2
+Northeast,Manipur,Thoubal,2020,August,16.5
+Northeast,Manipur,Thoubal,2020,September,6.8
+Northeast,Manipur,Thoubal,2020,October,7.4
+Northeast,Manipur,Thoubal,2020,November,18.5
+Northeast,Manipur,Thoubal,2020,December,31.0
+Northeast,Manipur,Thoubal,2021,January,18.7
+Northeast,Manipur,Thoubal,2021,February,17.7
+Northeast,Manipur,Thoubal,2021,March,22.8
+Northeast,Manipur,Thoubal,2021,April,24.8
+Northeast,Manipur,Thoubal,2021,May,37.4
+Northeast,Manipur,Thoubal,2021,June,8.6
+Northeast,Manipur,Thoubal,2021,July,19.5
+Northeast,Manipur,Thoubal,2021,August,37.8
+Northeast,Manipur,Thoubal,2021,September,25.9
+Northeast,Manipur,Thoubal,2021,October,28.0
+Northeast,Manipur,Thoubal,2021,November,31.2
+Northeast,Manipur,Thoubal,2021,December,13.6
+Northeast,Manipur,Thoubal,2022,January,14.3
+Northeast,Manipur,Thoubal,2022,February,9.6
+Northeast,Manipur,Thoubal,2022,March,31.7
+Northeast,Manipur,Thoubal,2022,April,32.4
+Northeast,Manipur,Thoubal,2022,May,35.8
+Northeast,Manipur,Thoubal,2022,June,23.7
+Northeast,Manipur,Thoubal,2022,July,6.2
+Northeast,Manipur,Thoubal,2022,August,34.2
+Northeast,Manipur,Thoubal,2022,September,11.5
+Northeast,Manipur,Thoubal,2022,October,20.7
+Northeast,Manipur,Thoubal,2022,November,19.4
+Northeast,Manipur,Thoubal,2022,December,17.5
+Northeast,Manipur,Thoubal,2023,January,19.8
+Northeast,Manipur,Thoubal,2023,February,14.3
+Northeast,Manipur,Thoubal,2023,March,28.3
+Northeast,Manipur,Thoubal,2023,April,28.1
+Northeast,Manipur,Thoubal,2023,May,18.9
+Northeast,Manipur,Thoubal,2023,June,16.2
+Northeast,Manipur,Thoubal,2023,July,21.2
+Northeast,Manipur,Thoubal,2023,August,35.7
+Northeast,Manipur,Thoubal,2023,September,8.7
+Northeast,Manipur,Thoubal,2023,October,34.8
+Northeast,Manipur,Thoubal,2023,November,10.9
+Northeast,Manipur,Thoubal,2023,December,16.6
+Northeast,Meghalaya,Shillong,2020,January,16.0
+Northeast,Meghalaya,Shillong,2020,February,28.4
+Northeast,Meghalaya,Shillong,2020,March,20.6
+Northeast,Meghalaya,Shillong,2020,April,15.8
+Northeast,Meghalaya,Shillong,2020,May,13.9
+Northeast,Meghalaya,Shillong,2020,June,17.9
+Northeast,Meghalaya,Shillong,2020,July,27.9
+Northeast,Meghalaya,Shillong,2020,August,10.6
+Northeast,Meghalaya,Shillong,2020,September,18.7
+Northeast,Meghalaya,Shillong,2020,October,30.2
+Northeast,Meghalaya,Shillong,2020,November,25.9
+Northeast,Meghalaya,Shillong,2020,December,20.9
+Northeast,Meghalaya,Shillong,2021,January,15.4
+Northeast,Meghalaya,Shillong,2021,February,19.1
+Northeast,Meghalaya,Shillong,2021,March,39.3
+Northeast,Meghalaya,Shillong,2021,April,12.0
+Northeast,Meghalaya,Shillong,2021,May,14.4
+Northeast,Meghalaya,Shillong,2021,June,27.2
+Northeast,Meghalaya,Shillong,2021,July,13.7
+Northeast,Meghalaya,Shillong,2021,August,20.9
+Northeast,Meghalaya,Shillong,2021,September,8.3
+Northeast,Meghalaya,Shillong,2021,October,32.7
+Northeast,Meghalaya,Shillong,2021,November,32.8
+Northeast,Meghalaya,Shillong,2021,December,18.5
+Northeast,Meghalaya,Shillong,2022,January,12.8
+Northeast,Meghalaya,Shillong,2022,February,22.8
+Northeast,Meghalaya,Shillong,2022,March,37.4
+Northeast,Meghalaya,Shillong,2022,April,6.6
+Northeast,Meghalaya,Shillong,2022,May,24.8
+Northeast,Meghalaya,Shillong,2022,June,6.6
+Northeast,Meghalaya,Shillong,2022,July,30.6
+Northeast,Meghalaya,Shillong,2022,August,20.1
+Northeast,Meghalaya,Shillong,2022,September,16.2
+Northeast,Meghalaya,Shillong,2022,October,32.8
+Northeast,Meghalaya,Shillong,2022,November,39.0
+Northeast,Meghalaya,Shillong,2022,December,36.1
+Northeast,Meghalaya,Shillong,2023,January,8.3
+Northeast,Meghalaya,Shillong,2023,February,25.8
+Northeast,Meghalaya,Shillong,2023,March,29.0
+Northeast,Meghalaya,Shillong,2023,April,20.0
+Northeast,Meghalaya,Shillong,2023,May,31.3
+Northeast,Meghalaya,Shillong,2023,June,9.6
+Northeast,Meghalaya,Shillong,2023,July,36.8
+Northeast,Meghalaya,Shillong,2023,August,8.6
+Northeast,Meghalaya,Shillong,2023,September,27.6
+Northeast,Meghalaya,Shillong,2023,October,15.9
+Northeast,Meghalaya,Shillong,2023,November,28.2
+Northeast,Meghalaya,Shillong,2023,December,8.7
+Northeast,Meghalaya,Tura,2020,January,-2.4
+Northeast,Meghalaya,Tura,2020,February,28.5
+Northeast,Meghalaya,Tura,2020,March,34.6
+Northeast,Meghalaya,Tura,2020,April,31.5
+Northeast,Meghalaya,Tura,2020,May,8.7
+Northeast,Meghalaya,Tura,2020,June,30.6
+Northeast,Meghalaya,Tura,2020,July,22.0
+Northeast,Meghalaya,Tura,2020,August,6.1
+Northeast,Meghalaya,Tura,2020,September,14.0
+Northeast,Meghalaya,Tura,2020,October,18.5
+Northeast,Meghalaya,Tura,2020,November,16.8
+Northeast,Meghalaya,Tura,2020,December,12.1
+Northeast,Meghalaya,Tura,2021,January,22.8
+Northeast,Meghalaya,Tura,2021,February,30.2
+Northeast,Meghalaya,Tura,2021,March,11.0
+Northeast,Meghalaya,Tura,2021,April,13.3
+Northeast,Meghalaya,Tura,2021,May,30.7
+Northeast,Meghalaya,Tura,2021,June,26.6
+Northeast,Meghalaya,Tura,2021,July,19.4
+Northeast,Meghalaya,Tura,2021,August,5.2
+Northeast,Meghalaya,Tura,2021,September,5.0
+Northeast,Meghalaya,Tura,2021,October,27.9
+Northeast,Meghalaya,Tura,2021,November,17.3
+Northeast,Meghalaya,Tura,2021,December,33.0
+Northeast,Meghalaya,Tura,2022,January,12.9
+Northeast,Meghalaya,Tura,2022,February,9.4
+Northeast,Meghalaya,Tura,2022,March,31.0
+Northeast,Meghalaya,Tura,2022,April,10.8
+Northeast,Meghalaya,Tura,2022,May,15.5
+Northeast,Meghalaya,Tura,2022,June,20.4
+Northeast,Meghalaya,Tura,2022,July,5.8
+Northeast,Meghalaya,Tura,2022,August,24.4
+Northeast,Meghalaya,Tura,2022,September,21.1
+Northeast,Meghalaya,Tura,2022,October,26.7
+Northeast,Meghalaya,Tura,2022,November,39.0
+Northeast,Meghalaya,Tura,2022,December,36.4
+Northeast,Meghalaya,Tura,2023,January,12.2
+Northeast,Meghalaya,Tura,2023,February,10.4
+Northeast,Meghalaya,Tura,2023,March,11.7
+Northeast,Meghalaya,Tura,2023,April,32.2
+Northeast,Meghalaya,Tura,2023,May,18.1
+Northeast,Meghalaya,Tura,2023,June,22.6
+Northeast,Meghalaya,Tura,2023,July,6.2
+Northeast,Meghalaya,Tura,2023,August,30.0
+Northeast,Meghalaya,Tura,2023,September,26.0
+Northeast,Meghalaya,Tura,2023,October,7.7
+Northeast,Meghalaya,Tura,2023,November,12.7
+Northeast,Meghalaya,Tura,2023,December,28.5
+Northeast,Meghalaya,Nongpoh,2020,January,19.2
+Northeast,Meghalaya,Nongpoh,2020,February,0.3
+Northeast,Meghalaya,Nongpoh,2020,March,39.4
+Northeast,Meghalaya,Nongpoh,2020,April,36.9
+Northeast,Meghalaya,Nongpoh,2020,May,14.7
+Northeast,Meghalaya,Nongpoh,2020,June,35.7
+Northeast,Meghalaya,Nongpoh,2020,July,23.4
+Northeast,Meghalaya,Nongpoh,2020,August,22.6
+Northeast,Meghalaya,Nongpoh,2020,September,17.1
+Northeast,Meghalaya,Nongpoh,2020,October,28.4
+Northeast,Meghalaya,Nongpoh,2020,November,13.0
+Northeast,Meghalaya,Nongpoh,2020,December,34.9
+Northeast,Meghalaya,Nongpoh,2021,January,14.0
+Northeast,Meghalaya,Nongpoh,2021,February,26.7
+Northeast,Meghalaya,Nongpoh,2021,March,17.3
+Northeast,Meghalaya,Nongpoh,2021,April,39.2
+Northeast,Meghalaya,Nongpoh,2021,May,36.2
+Northeast,Meghalaya,Nongpoh,2021,June,33.2
+Northeast,Meghalaya,Nongpoh,2021,July,19.0
+Northeast,Meghalaya,Nongpoh,2021,August,27.1
+Northeast,Meghalaya,Nongpoh,2021,September,18.8
+Northeast,Meghalaya,Nongpoh,2021,October,22.3
+Northeast,Meghalaya,Nongpoh,2021,November,30.8
+Northeast,Meghalaya,Nongpoh,2021,December,34.1
+Northeast,Meghalaya,Nongpoh,2022,January,22.6
+Northeast,Meghalaya,Nongpoh,2022,February,30.5
+Northeast,Meghalaya,Nongpoh,2022,March,31.7
+Northeast,Meghalaya,Nongpoh,2022,April,12.2
+Northeast,Meghalaya,Nongpoh,2022,May,23.7
+Northeast,Meghalaya,Nongpoh,2022,June,36.3
+Northeast,Meghalaya,Nongpoh,2022,July,15.5
+Northeast,Meghalaya,Nongpoh,2022,August,17.6
+Northeast,Meghalaya,Nongpoh,2022,September,20.5
+Northeast,Meghalaya,Nongpoh,2022,October,33.8
+Northeast,Meghalaya,Nongpoh,2022,November,6.2
+Northeast,Meghalaya,Nongpoh,2022,December,8.8
+Northeast,Meghalaya,Nongpoh,2023,January,5.5
+Northeast,Meghalaya,Nongpoh,2023,February,17.1
+Northeast,Meghalaya,Nongpoh,2023,March,26.5
+Northeast,Meghalaya,Nongpoh,2023,April,11.2
+Northeast,Meghalaya,Nongpoh,2023,May,31.9
+Northeast,Meghalaya,Nongpoh,2023,June,18.1
+Northeast,Meghalaya,Nongpoh,2023,July,35.4
+Northeast,Meghalaya,Nongpoh,2023,August,9.6
+Northeast,Meghalaya,Nongpoh,2023,September,22.2
+Northeast,Meghalaya,Nongpoh,2023,October,13.0
+Northeast,Meghalaya,Nongpoh,2023,November,22.3
+Northeast,Meghalaya,Nongpoh,2023,December,6.3
+Northeast,Mizoram,Aizawl,2020,January,20.9
+Northeast,Mizoram,Aizawl,2020,February,8.3
+Northeast,Mizoram,Aizawl,2020,March,10.0
+Northeast,Mizoram,Aizawl,2020,April,25.1
+Northeast,Mizoram,Aizawl,2020,May,22.9
+Northeast,Mizoram,Aizawl,2020,June,24.3
+Northeast,Mizoram,Aizawl,2020,July,36.8
+Northeast,Mizoram,Aizawl,2020,August,27.9
+Northeast,Mizoram,Aizawl,2020,September,19.9
+Northeast,Mizoram,Aizawl,2020,October,7.1
+Northeast,Mizoram,Aizawl,2020,November,36.9
+Northeast,Mizoram,Aizawl,2020,December,18.0
+Northeast,Mizoram,Aizawl,2021,January,18.9
+Northeast,Mizoram,Aizawl,2021,February,5.9
+Northeast,Mizoram,Aizawl,2021,March,6.5
+Northeast,Mizoram,Aizawl,2021,April,10.7
+Northeast,Mizoram,Aizawl,2021,May,23.7
+Northeast,Mizoram,Aizawl,2021,June,35.1
+Northeast,Mizoram,Aizawl,2021,July,29.2
+Northeast,Mizoram,Aizawl,2021,August,39.2
+Northeast,Mizoram,Aizawl,2021,September,22.1
+Northeast,Mizoram,Aizawl,2021,October,22.2
+Northeast,Mizoram,Aizawl,2021,November,6.7
+Northeast,Mizoram,Aizawl,2021,December,17.4
+Northeast,Mizoram,Aizawl,2022,January,25.6
+Northeast,Mizoram,Aizawl,2022,February,20.9
+Northeast,Mizoram,Aizawl,2022,March,22.3
+Northeast,Mizoram,Aizawl,2022,April,19.3
+Northeast,Mizoram,Aizawl,2022,May,19.7
+Northeast,Mizoram,Aizawl,2022,June,7.1
+Northeast,Mizoram,Aizawl,2022,July,6.9
+Northeast,Mizoram,Aizawl,2022,August,38.5
+Northeast,Mizoram,Aizawl,2022,September,36.7
+Northeast,Mizoram,Aizawl,2022,October,12.5
+Northeast,Mizoram,Aizawl,2022,November,20.8
+Northeast,Mizoram,Aizawl,2022,December,11.6
+Northeast,Mizoram,Aizawl,2023,January,16.7
+Northeast,Mizoram,Aizawl,2023,February,23.6
+Northeast,Mizoram,Aizawl,2023,March,35.9
+Northeast,Mizoram,Aizawl,2023,April,25.7
+Northeast,Mizoram,Aizawl,2023,May,20.7
+Northeast,Mizoram,Aizawl,2023,June,30.9
+Northeast,Mizoram,Aizawl,2023,July,12.6
+Northeast,Mizoram,Aizawl,2023,August,8.2
+Northeast,Mizoram,Aizawl,2023,September,36.6
+Northeast,Mizoram,Aizawl,2023,October,15.0
+Northeast,Mizoram,Aizawl,2023,November,38.3
+Northeast,Mizoram,Aizawl,2023,December,16.2
+Northeast,Mizoram,Lunglei,2020,January,3.1
+Northeast,Mizoram,Lunglei,2020,February,21.4
+Northeast,Mizoram,Lunglei,2020,March,39.7
+Northeast,Mizoram,Lunglei,2020,April,5.9
+Northeast,Mizoram,Lunglei,2020,May,7.8
+Northeast,Mizoram,Lunglei,2020,June,33.4
+Northeast,Mizoram,Lunglei,2020,July,35.9
+Northeast,Mizoram,Lunglei,2020,August,5.1
+Northeast,Mizoram,Lunglei,2020,September,30.9
+Northeast,Mizoram,Lunglei,2020,October,12.9
+Northeast,Mizoram,Lunglei,2020,November,36.8
+Northeast,Mizoram,Lunglei,2020,December,20.9
+Northeast,Mizoram,Lunglei,2021,January,8.3
+Northeast,Mizoram,Lunglei,2021,February,23.8
+Northeast,Mizoram,Lunglei,2021,March,12.2
+Northeast,Mizoram,Lunglei,2021,April,33.7
+Northeast,Mizoram,Lunglei,2021,May,30.9
+Northeast,Mizoram,Lunglei,2021,June,29.4
+Northeast,Mizoram,Lunglei,2021,July,18.2
+Northeast,Mizoram,Lunglei,2021,August,27.1
+Northeast,Mizoram,Lunglei,2021,September,38.4
+Northeast,Mizoram,Lunglei,2021,October,12.8
+Northeast,Mizoram,Lunglei,2021,November,24.0
+Northeast,Mizoram,Lunglei,2021,December,1.5
+Northeast,Mizoram,Lunglei,2022,January,31.2
+Northeast,Mizoram,Lunglei,2022,February,35.9
+Northeast,Mizoram,Lunglei,2022,March,39.5
+Northeast,Mizoram,Lunglei,2022,April,5.4
+Northeast,Mizoram,Lunglei,2022,May,12.9
+Northeast,Mizoram,Lunglei,2022,June,32.1
+Northeast,Mizoram,Lunglei,2022,July,19.8
+Northeast,Mizoram,Lunglei,2022,August,6.8
+Northeast,Mizoram,Lunglei,2022,September,14.0
+Northeast,Mizoram,Lunglei,2022,October,35.2
+Northeast,Mizoram,Lunglei,2022,November,25.4
+Northeast,Mizoram,Lunglei,2022,December,12.6
+Northeast,Mizoram,Lunglei,2023,January,29.7
+Northeast,Mizoram,Lunglei,2023,February,24.5
+Northeast,Mizoram,Lunglei,2023,March,7.0
+Northeast,Mizoram,Lunglei,2023,April,27.9
+Northeast,Mizoram,Lunglei,2023,May,34.7
+Northeast,Mizoram,Lunglei,2023,June,9.1
+Northeast,Mizoram,Lunglei,2023,July,36.9
+Northeast,Mizoram,Lunglei,2023,August,26.0
+Northeast,Mizoram,Lunglei,2023,September,14.9
+Northeast,Mizoram,Lunglei,2023,October,32.8
+Northeast,Mizoram,Lunglei,2023,November,12.6
+Northeast,Mizoram,Lunglei,2023,December,18.5
+Northeast,Mizoram,Champhai,2020,January,25.8
+Northeast,Mizoram,Champhai,2020,February,5.6
+Northeast,Mizoram,Champhai,2020,March,34.8
+Northeast,Mizoram,Champhai,2020,April,31.8
+Northeast,Mizoram,Champhai,2020,May,6.9
+Northeast,Mizoram,Champhai,2020,June,10.1
+Northeast,Mizoram,Champhai,2020,July,5.9
+Northeast,Mizoram,Champhai,2020,August,19.4
+Northeast,Mizoram,Champhai,2020,September,25.5
+Northeast,Mizoram,Champhai,2020,October,22.2
+Northeast,Mizoram,Champhai,2020,November,22.1
+Northeast,Mizoram,Champhai,2020,December,4.1
+Northeast,Mizoram,Champhai,2021,January,2.8
+Northeast,Mizoram,Champhai,2021,February,25.7
+Northeast,Mizoram,Champhai,2021,March,10.4
+Northeast,Mizoram,Champhai,2021,April,27.4
+Northeast,Mizoram,Champhai,2021,May,14.4
+Northeast,Mizoram,Champhai,2021,June,34.7
+Northeast,Mizoram,Champhai,2021,July,21.3
+Northeast,Mizoram,Champhai,2021,August,13.6
+Northeast,Mizoram,Champhai,2021,September,21.2
+Northeast,Mizoram,Champhai,2021,October,35.0
+Northeast,Mizoram,Champhai,2021,November,8.1
+Northeast,Mizoram,Champhai,2021,December,12.1
+Northeast,Mizoram,Champhai,2022,January,8.8
+Northeast,Mizoram,Champhai,2022,February,32.3
+Northeast,Mizoram,Champhai,2022,March,39.4
+Northeast,Mizoram,Champhai,2022,April,38.5
+Northeast,Mizoram,Champhai,2022,May,39.4
+Northeast,Mizoram,Champhai,2022,June,10.4
+Northeast,Mizoram,Champhai,2022,July,19.0
+Northeast,Mizoram,Champhai,2022,August,20.0
+Northeast,Mizoram,Champhai,2022,September,39.0
+Northeast,Mizoram,Champhai,2022,October,6.6
+Northeast,Mizoram,Champhai,2022,November,15.5
+Northeast,Mizoram,Champhai,2022,December,26.3
+Northeast,Mizoram,Champhai,2023,January,21.8
+Northeast,Mizoram,Champhai,2023,February,3.1
+Northeast,Mizoram,Champhai,2023,March,32.7
+Northeast,Mizoram,Champhai,2023,April,34.8
+Northeast,Mizoram,Champhai,2023,May,6.0
+Northeast,Mizoram,Champhai,2023,June,36.6
+Northeast,Mizoram,Champhai,2023,July,26.1
+Northeast,Mizoram,Champhai,2023,August,19.9
+Northeast,Mizoram,Champhai,2023,September,37.7
+Northeast,Mizoram,Champhai,2023,October,9.1
+Northeast,Mizoram,Champhai,2023,November,7.8
+Northeast,Mizoram,Champhai,2023,December,13.6
+Northeast,Nagaland,Kohima,2020,January,17.2
+Northeast,Nagaland,Kohima,2020,February,2.5
+Northeast,Nagaland,Kohima,2020,March,25.5
+Northeast,Nagaland,Kohima,2020,April,34.2
+Northeast,Nagaland,Kohima,2020,May,23.2
+Northeast,Nagaland,Kohima,2020,June,28.8
+Northeast,Nagaland,Kohima,2020,July,32.9
+Northeast,Nagaland,Kohima,2020,August,7.6
+Northeast,Nagaland,Kohima,2020,September,7.0
+Northeast,Nagaland,Kohima,2020,October,34.9
+Northeast,Nagaland,Kohima,2020,November,36.0
+Northeast,Nagaland,Kohima,2020,December,21.7
+Northeast,Nagaland,Kohima,2021,January,33.2
+Northeast,Nagaland,Kohima,2021,February,12.6
+Northeast,Nagaland,Kohima,2021,March,14.7
+Northeast,Nagaland,Kohima,2021,April,6.7
+Northeast,Nagaland,Kohima,2021,May,27.3
+Northeast,Nagaland,Kohima,2021,June,34.6
+Northeast,Nagaland,Kohima,2021,July,37.0
+Northeast,Nagaland,Kohima,2021,August,38.4
+Northeast,Nagaland,Kohima,2021,September,17.8
+Northeast,Nagaland,Kohima,2021,October,35.1
+Northeast,Nagaland,Kohima,2021,November,33.1
+Northeast,Nagaland,Kohima,2021,December,25.6
+Northeast,Nagaland,Kohima,2022,January,19.2
+Northeast,Nagaland,Kohima,2022,February,33.4
+Northeast,Nagaland,Kohima,2022,March,13.9
+Northeast,Nagaland,Kohima,2022,April,28.4
+Northeast,Nagaland,Kohima,2022,May,23.1
+Northeast,Nagaland,Kohima,2022,June,7.3
+Northeast,Nagaland,Kohima,2022,July,22.9
+Northeast,Nagaland,Kohima,2022,August,28.5
+Northeast,Nagaland,Kohima,2022,September,19.7
+Northeast,Nagaland,Kohima,2022,October,24.5
+Northeast,Nagaland,Kohima,2022,November,11.2
+Northeast,Nagaland,Kohima,2022,December,2.3
+Northeast,Nagaland,Kohima,2023,January,24.9
+Northeast,Nagaland,Kohima,2023,February,33.5
+Northeast,Nagaland,Kohima,2023,March,34.6
+Northeast,Nagaland,Kohima,2023,April,26.5
+Northeast,Nagaland,Kohima,2023,May,24.4
+Northeast,Nagaland,Kohima,2023,June,34.4
+Northeast,Nagaland,Kohima,2023,July,11.0
+Northeast,Nagaland,Kohima,2023,August,11.6
+Northeast,Nagaland,Kohima,2023,September,24.1
+Northeast,Nagaland,Kohima,2023,October,25.4
+Northeast,Nagaland,Kohima,2023,November,24.0
+Northeast,Nagaland,Kohima,2023,December,15.4
+Northeast,Nagaland,Dimapur,2020,January,35.6
+Northeast,Nagaland,Dimapur,2020,February,30.9
+Northeast,Nagaland,Dimapur,2020,March,25.2
+Northeast,Nagaland,Dimapur,2020,April,25.2
+Northeast,Nagaland,Dimapur,2020,May,30.2
+Northeast,Nagaland,Dimapur,2020,June,34.8
+Northeast,Nagaland,Dimapur,2020,July,37.8
+Northeast,Nagaland,Dimapur,2020,August,7.0
+Northeast,Nagaland,Dimapur,2020,September,28.4
+Northeast,Nagaland,Dimapur,2020,October,31.0
+Northeast,Nagaland,Dimapur,2020,November,9.1
+Northeast,Nagaland,Dimapur,2020,December,26.4
+Northeast,Nagaland,Dimapur,2021,January,29.5
+Northeast,Nagaland,Dimapur,2021,February,28.8
+Northeast,Nagaland,Dimapur,2021,March,21.6
+Northeast,Nagaland,Dimapur,2021,April,29.1
+Northeast,Nagaland,Dimapur,2021,May,33.8
+Northeast,Nagaland,Dimapur,2021,June,17.5
+Northeast,Nagaland,Dimapur,2021,July,34.7
+Northeast,Nagaland,Dimapur,2021,August,17.2
+Northeast,Nagaland,Dimapur,2021,September,31.6
+Northeast,Nagaland,Dimapur,2021,October,27.4
+Northeast,Nagaland,Dimapur,2021,November,7.9
+Northeast,Nagaland,Dimapur,2021,December,32.2
+Northeast,Nagaland,Dimapur,2022,January,18.8
+Northeast,Nagaland,Dimapur,2022,February,20.9
+Northeast,Nagaland,Dimapur,2022,March,14.2
+Northeast,Nagaland,Dimapur,2022,April,22.2
+Northeast,Nagaland,Dimapur,2022,May,17.7
+Northeast,Nagaland,Dimapur,2022,June,33.3
+Northeast,Nagaland,Dimapur,2022,July,31.6
+Northeast,Nagaland,Dimapur,2022,August,26.0
+Northeast,Nagaland,Dimapur,2022,September,13.4
+Northeast,Nagaland,Dimapur,2022,October,8.1
+Northeast,Nagaland,Dimapur,2022,November,9.5
+Northeast,Nagaland,Dimapur,2022,December,23.1
+Northeast,Nagaland,Dimapur,2023,January,7.7
+Northeast,Nagaland,Dimapur,2023,February,30.3
+Northeast,Nagaland,Dimapur,2023,March,32.1
+Northeast,Nagaland,Dimapur,2023,April,39.7
+Northeast,Nagaland,Dimapur,2023,May,26.7
+Northeast,Nagaland,Dimapur,2023,June,34.6
+Northeast,Nagaland,Dimapur,2023,July,29.7
+Northeast,Nagaland,Dimapur,2023,August,12.8
+Northeast,Nagaland,Dimapur,2023,September,7.2
+Northeast,Nagaland,Dimapur,2023,October,28.2
+Northeast,Nagaland,Dimapur,2023,November,10.8
+Northeast,Nagaland,Dimapur,2023,December,32.8
+Northeast,Nagaland,Mokokchung,2020,January,7.8
+Northeast,Nagaland,Mokokchung,2020,February,22.4
+Northeast,Nagaland,Mokokchung,2020,March,7.9
+Northeast,Nagaland,Mokokchung,2020,April,38.0
+Northeast,Nagaland,Mokokchung,2020,May,35.2
+Northeast,Nagaland,Mokokchung,2020,June,15.8
+Northeast,Nagaland,Mokokchung,2020,July,27.0
+Northeast,Nagaland,Mokokchung,2020,August,16.7
+Northeast,Nagaland,Mokokchung,2020,September,7.3
+Northeast,Nagaland,Mokokchung,2020,October,36.9
+Northeast,Nagaland,Mokokchung,2020,November,13.6
+Northeast,Nagaland,Mokokchung,2020,December,29.1
+Northeast,Nagaland,Mokokchung,2021,January,22.5
+Northeast,Nagaland,Mokokchung,2021,February,24.1
+Northeast,Nagaland,Mokokchung,2021,March,32.0
+Northeast,Nagaland,Mokokchung,2021,April,18.8
+Northeast,Nagaland,Mokokchung,2021,May,37.3
+Northeast,Nagaland,Mokokchung,2021,June,31.2
+Northeast,Nagaland,Mokokchung,2021,July,25.9
+Northeast,Nagaland,Mokokchung,2021,August,6.2
+Northeast,Nagaland,Mokokchung,2021,September,21.1
+Northeast,Nagaland,Mokokchung,2021,October,8.5
+Northeast,Nagaland,Mokokchung,2021,November,16.3
+Northeast,Nagaland,Mokokchung,2021,December,31.4
+Northeast,Nagaland,Mokokchung,2022,January,9.2
+Northeast,Nagaland,Mokokchung,2022,February,19.2
+Northeast,Nagaland,Mokokchung,2022,March,8.8
+Northeast,Nagaland,Mokokchung,2022,April,29.8
+Northeast,Nagaland,Mokokchung,2022,May,14.2
+Northeast,Nagaland,Mokokchung,2022,June,32.6
+Northeast,Nagaland,Mokokchung,2022,July,15.9
+Northeast,Nagaland,Mokokchung,2022,August,28.9
+Northeast,Nagaland,Mokokchung,2022,September,23.0
+Northeast,Nagaland,Mokokchung,2022,October,37.0
+Northeast,Nagaland,Mokokchung,2022,November,16.1
+Northeast,Nagaland,Mokokchung,2022,December,19.1
+Northeast,Nagaland,Mokokchung,2023,January,17.1
+Northeast,Nagaland,Mokokchung,2023,February,31.2
+Northeast,Nagaland,Mokokchung,2023,March,17.1
+Northeast,Nagaland,Mokokchung,2023,April,30.7
+Northeast,Nagaland,Mokokchung,2023,May,13.5
+Northeast,Nagaland,Mokokchung,2023,June,7.8
+Northeast,Nagaland,Mokokchung,2023,July,38.8
+Northeast,Nagaland,Mokokchung,2023,August,32.7
+Northeast,Nagaland,Mokokchung,2023,September,12.3
+Northeast,Nagaland,Mokokchung,2023,October,31.3
+Northeast,Nagaland,Mokokchung,2023,November,31.4
+Northeast,Nagaland,Mokokchung,2023,December,30.9
+Northeast,Tripura,Agartala,2020,January,37.5
+Northeast,Tripura,Agartala,2020,February,4.7
+Northeast,Tripura,Agartala,2020,March,27.7
+Northeast,Tripura,Agartala,2020,April,29.5
+Northeast,Tripura,Agartala,2020,May,29.6
+Northeast,Tripura,Agartala,2020,June,28.5
+Northeast,Tripura,Agartala,2020,July,30.6
+Northeast,Tripura,Agartala,2020,August,21.8
+Northeast,Tripura,Agartala,2020,September,13.0
+Northeast,Tripura,Agartala,2020,October,12.3
+Northeast,Tripura,Agartala,2020,November,17.0
+Northeast,Tripura,Agartala,2020,December,20.0
+Northeast,Tripura,Agartala,2021,January,22.7
+Northeast,Tripura,Agartala,2021,February,10.0
+Northeast,Tripura,Agartala,2021,March,13.9
+Northeast,Tripura,Agartala,2021,April,24.0
+Northeast,Tripura,Agartala,2021,May,8.3
+Northeast,Tripura,Agartala,2021,June,37.8
+Northeast,Tripura,Agartala,2021,July,15.4
+Northeast,Tripura,Agartala,2021,August,14.9
+Northeast,Tripura,Agartala,2021,September,24.4
+Northeast,Tripura,Agartala,2021,October,24.0
+Northeast,Tripura,Agartala,2021,November,13.0
+Northeast,Tripura,Agartala,2021,December,11.2
+Northeast,Tripura,Agartala,2022,January,5.4
+Northeast,Tripura,Agartala,2022,February,11.1
+Northeast,Tripura,Agartala,2022,March,16.5
+Northeast,Tripura,Agartala,2022,April,30.9
+Northeast,Tripura,Agartala,2022,May,7.2
+Northeast,Tripura,Agartala,2022,June,21.9
+Northeast,Tripura,Agartala,2022,July,11.5
+Northeast,Tripura,Agartala,2022,August,39.2
+Northeast,Tripura,Agartala,2022,September,30.7
+Northeast,Tripura,Agartala,2022,October,13.9
+Northeast,Tripura,Agartala,2022,November,13.4
+Northeast,Tripura,Agartala,2022,December,29.7
+Northeast,Tripura,Agartala,2023,January,13.5
+Northeast,Tripura,Agartala,2023,February,15.0
+Northeast,Tripura,Agartala,2023,March,32.8
+Northeast,Tripura,Agartala,2023,April,37.5
+Northeast,Tripura,Agartala,2023,May,14.8
+Northeast,Tripura,Agartala,2023,June,38.9
+Northeast,Tripura,Agartala,2023,July,25.5
+Northeast,Tripura,Agartala,2023,August,35.2
+Northeast,Tripura,Agartala,2023,September,36.5
+Northeast,Tripura,Agartala,2023,October,29.8
+Northeast,Tripura,Agartala,2023,November,8.3
+Northeast,Tripura,Agartala,2023,December,9.1
+Northeast,Tripura,Dharmanagar,2020,January,1.7
+Northeast,Tripura,Dharmanagar,2020,February,29.4
+Northeast,Tripura,Dharmanagar,2020,March,11.2
+Northeast,Tripura,Dharmanagar,2020,April,36.7
+Northeast,Tripura,Dharmanagar,2020,May,10.3
+Northeast,Tripura,Dharmanagar,2020,June,21.7
+Northeast,Tripura,Dharmanagar,2020,July,30.6
+Northeast,Tripura,Dharmanagar,2020,August,15.3
+Northeast,Tripura,Dharmanagar,2020,September,18.3
+Northeast,Tripura,Dharmanagar,2020,October,7.8
+Northeast,Tripura,Dharmanagar,2020,November,29.0
+Northeast,Tripura,Dharmanagar,2020,December,19.2
+Northeast,Tripura,Dharmanagar,2021,January,21.4
+Northeast,Tripura,Dharmanagar,2021,February,11.7
+Northeast,Tripura,Dharmanagar,2021,March,39.8
+Northeast,Tripura,Dharmanagar,2021,April,5.1
+Northeast,Tripura,Dharmanagar,2021,May,26.5
+Northeast,Tripura,Dharmanagar,2021,June,24.0
+Northeast,Tripura,Dharmanagar,2021,July,25.0
+Northeast,Tripura,Dharmanagar,2021,August,9.5
+Northeast,Tripura,Dharmanagar,2021,September,32.9
+Northeast,Tripura,Dharmanagar,2021,October,37.9
+Northeast,Tripura,Dharmanagar,2021,November,20.9
+Northeast,Tripura,Dharmanagar,2021,December,12.5
+Northeast,Tripura,Dharmanagar,2022,January,14.7
+Northeast,Tripura,Dharmanagar,2022,February,13.4
+Northeast,Tripura,Dharmanagar,2022,March,19.5
+Northeast,Tripura,Dharmanagar,2022,April,34.6
+Northeast,Tripura,Dharmanagar,2022,May,29.1
+Northeast,Tripura,Dharmanagar,2022,June,10.6
+Northeast,Tripura,Dharmanagar,2022,July,23.2
+Northeast,Tripura,Dharmanagar,2022,August,18.6
+Northeast,Tripura,Dharmanagar,2022,September,38.8
+Northeast,Tripura,Dharmanagar,2022,October,27.0
+Northeast,Tripura,Dharmanagar,2022,November,29.2
+Northeast,Tripura,Dharmanagar,2022,December,25.7
+Northeast,Tripura,Dharmanagar,2023,January,19.9
+Northeast,Tripura,Dharmanagar,2023,February,35.4
+Northeast,Tripura,Dharmanagar,2023,March,35.7
+Northeast,Tripura,Dharmanagar,2023,April,39.5
+Northeast,Tripura,Dharmanagar,2023,May,18.2
+Northeast,Tripura,Dharmanagar,2023,June,11.9
+Northeast,Tripura,Dharmanagar,2023,July,8.9
+Northeast,Tripura,Dharmanagar,2023,August,21.1
+Northeast,Tripura,Dharmanagar,2023,September,20.7
+Northeast,Tripura,Dharmanagar,2023,October,28.3
+Northeast,Tripura,Dharmanagar,2023,November,28.6
+Northeast,Tripura,Dharmanagar,2023,December,34.0
+Northeast,Tripura,Udaipur,2020,January,26.4
+Northeast,Tripura,Udaipur,2020,February,14.3
+Northeast,Tripura,Udaipur,2020,March,15.7
+Northeast,Tripura,Udaipur,2020,April,19.9
+Northeast,Tripura,Udaipur,2020,May,30.2
+Northeast,Tripura,Udaipur,2020,June,21.2
+Northeast,Tripura,Udaipur,2020,July,34.5
+Northeast,Tripura,Udaipur,2020,August,36.6
+Northeast,Tripura,Udaipur,2020,September,10.0
+Northeast,Tripura,Udaipur,2020,October,12.7
+Northeast,Tripura,Udaipur,2020,November,13.6
+Northeast,Tripura,Udaipur,2020,December,11.8
+Northeast,Tripura,Udaipur,2021,January,25.3
+Northeast,Tripura,Udaipur,2021,February,20.5
+Northeast,Tripura,Udaipur,2021,March,21.4
+Northeast,Tripura,Udaipur,2021,April,12.5
+Northeast,Tripura,Udaipur,2021,May,7.3
+Northeast,Tripura,Udaipur,2021,June,24.5
+Northeast,Tripura,Udaipur,2021,July,31.1
+Northeast,Tripura,Udaipur,2021,August,11.3
+Northeast,Tripura,Udaipur,2021,September,30.5
+Northeast,Tripura,Udaipur,2021,October,17.8
+Northeast,Tripura,Udaipur,2021,November,26.5
+Northeast,Tripura,Udaipur,2021,December,13.9
+Northeast,Tripura,Udaipur,2022,January,0.4
+Northeast,Tripura,Udaipur,2022,February,19.4
+Northeast,Tripura,Udaipur,2022,March,33.2
+Northeast,Tripura,Udaipur,2022,April,37.1
+Northeast,Tripura,Udaipur,2022,May,31.8
+Northeast,Tripura,Udaipur,2022,June,17.8
+Northeast,Tripura,Udaipur,2022,July,6.6
+Northeast,Tripura,Udaipur,2022,August,6.8
+Northeast,Tripura,Udaipur,2022,September,36.9
+Northeast,Tripura,Udaipur,2022,October,27.5
+Northeast,Tripura,Udaipur,2022,November,30.3
+Northeast,Tripura,Udaipur,2022,December,-0.9
+Northeast,Tripura,Udaipur,2023,January,29.0
+Northeast,Tripura,Udaipur,2023,February,19.7
+Northeast,Tripura,Udaipur,2023,March,9.0
+Northeast,Tripura,Udaipur,2023,April,29.2
+Northeast,Tripura,Udaipur,2023,May,17.3
+Northeast,Tripura,Udaipur,2023,June,16.8
+Northeast,Tripura,Udaipur,2023,July,10.9
+Northeast,Tripura,Udaipur,2023,August,33.1
+Northeast,Tripura,Udaipur,2023,September,11.8
+Northeast,Tripura,Udaipur,2023,October,22.3
+Northeast,Tripura,Udaipur,2023,November,11.3
+Northeast,Tripura,Udaipur,2023,December,23.5
